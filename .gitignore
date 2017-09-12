@@ -1,3 +1,7 @@
+# Custom to this project
+notebooks/deprecated
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
