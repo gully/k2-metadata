@@ -1,6 +1,6 @@
 # Custom to this project
 notebooks/deprecated
-
+*.feather
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
