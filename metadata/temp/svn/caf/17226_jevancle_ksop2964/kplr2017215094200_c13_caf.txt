@@ -1,0 +1,4808 @@
+200169077|2||||ARP
+200169078|2||||ARP
+200169079|2||||ARP
+200169080|2||||ARP
+200169081|2||||ARP
+200169082|2||||ARP
+200169083|2||||ARP
+200169084|2||||ARP
+200169085|2||||ARP
+200169086|2||||ARP
+200169087|2||||ARP
+200169088|2||||ARP
+200169089|2||||ARP
+200169090|2||||ARP
+200169091|2||||ARP
+200169092|2||||ARP
+200169093|2||||ARP
+200169094|2||||ARP
+200169095|2||||ARP
+200169096|2||||ARP
+200169097|2||||ARP
+200169098|2||||ARP
+200169099|2||||ARP
+200169100|2||||ARP
+200169101|2||||ARP
+200169102|2||||ARP
+200169103|2||||ARP
+200169104|2||||ARP
+200169105|2||||ARP
+200169106|2||||ARP
+200169107|2||||ARP
+200169108|2||||ARP
+200169109|2||||ARP
+200169110|2||||ARP
+200169111|2||||ARP
+200169112|2||||ARP
+200169113|2||||ARP
+200169114|2||||ARP
+200169115|2||||ARP
+200169116|2||||ARP
+200169117|2||||ARP
+200169118|2||||ARP
+200169119|2||||ARP
+200169120|2||||ARP
+200169121|2||||ARP
+200169122|2||||ARP
+200169123|2||||ARP
+200169124|2||||ARP
+200169125|2||||ARP
+200169126|2||||ARP
+200169127|2||||ARP
+200169128|2||||ARP
+200169129|2||||ARP
+200169130|2||||ARP
+200169131|2||||ARP
+200169132|2||||ARP
+200169133|2||||ARP
+200169134|2||||ARP
+200169135|2||||ARP
+200169136|2||||ARP
+200169137|2||||ARP
+200169138|2||||ARP
+200169139|2||||ARP
+200169140|2||||ARP
+200169141|2||||ARP
+200169142|2||||ARP
+200169143|2||||ARP
+200169144|2||||ARP
+200169145|2||||ARP
+200169146|2||||ARP
+200169147|2||||ARP
+200169148|2||||ARP
+200169149|5||||Asteroid.Trojan.2000 UX34
+200169150|5||||Asteroid.Trojan.2000 UX34
+200169151|5||||Asteroid.Trojan.2000 UX34
+200169152|5||||Asteroid.Trojan.2000 UX34
+200169153|5||||Asteroid.Trojan.2000 UX34
+200169154|5||||Asteroid.Trojan.2000 UX34
+200169155|5||||Asteroid.Trojan.2000 UX34
+200169156|5||||Asteroid.Trojan.2000 UX34
+200169157|5||||Asteroid.Trojan.2000 UX34
+200169158|5||||Asteroid.Trojan.2000 UX34
+200169159|5||||Asteroid.Trojan.2000 UX34
+200169160|5||||Asteroid.Trojan.2000 UX34
+200169161|5||||Asteroid.Trojan.2000 UX34
+200169162|5||||Asteroid.Trojan.2000 UX34
+200169163|5||||Asteroid.Trojan.2000 UX34
+200169164|5||||Asteroid.Trojan.2000 UX34
+200169165|5||||Asteroid.Trojan.2000 UX34
+200169166|5||||Asteroid.Trojan.2000 UX34
+200169167|5||||Asteroid.Trojan.2000 UX34
+200169168|5||||Asteroid.Trojan.2000 UX34
+200169169|5||||Asteroid.Trojan.2000 UX34
+200169170|5||||Asteroid.Trojan.2000 UX34
+200169171|5||||Asteroid.Trojan.2000 UX34
+200169172|5||||Asteroid.Trojan.2000 UX34
+200169173|5||||Asteroid.Trojan.2000 UX34
+200169174|5||||Asteroid.Trojan.2000 UX34
+200169175|5||||Asteroid.Trojan.2000 UX34
+200169176|5||||Asteroid.Trojan.2000 UX34
+200169177|5||||Asteroid.Trojan.2000 UX34
+200169178|5||||Asteroid.Trojan.2000 UX34
+200169179|5||||Asteroid.Trojan.2000 UX34
+200169180|5||||Asteroid.Trojan.2000 UX34
+200169181|5||||Asteroid.Trojan.2000 UX34
+200169182|5||||Asteroid.Trojan.2000 UX34
+200169183|5||||Asteroid.Trojan.2000 UX34
+200169184|5||||Asteroid.Trojan.2000 UX34
+200169185|5||||Asteroid.Trojan.2000 UX34
+200169186|5||||Asteroid.Trojan.2000 UX34
+200169187|5||||Asteroid.Trojan.2000 UX34
+200169188|5||||Asteroid.Trojan.2000 UX34
+200169189|5||||Asteroid.Trojan.2000 UX34
+200169190|5||||Asteroid.Trojan.2000 UX34
+200169191|5||||Asteroid.Trojan.2000 UX34
+200169192|5||||Asteroid.Trojan.2000 UX34
+200169193|5||||Asteroid.Trojan.2000 UX34
+200169194|5||||Asteroid.Trojan.2000 UX34
+200169195|5||||Asteroid.Trojan.2000 UX34
+200169196|5||||Asteroid.Trojan.2000 UX34
+200169197|5||||Asteroid.Trojan.2000 UX34
+200169198|5||||Asteroid.Trojan.2000 UX34
+200169199|5||||Asteroid.Trojan.2000 UX34
+200169200|5||||Asteroid.Trojan.2000 UX34
+200169201|5||||Asteroid.Trojan.2000 UX34
+200169202|5||||Asteroid.Trojan.2000 UX34
+200169203|5||||Asteroid.Trojan.2000 UX34
+200169204|5||||Asteroid.Trojan.2000 UX34
+200169205|5||||Asteroid.Trojan.2000 UX34
+200169206|5||||Asteroid.Trojan.2000 UX34
+200169207|5||||Asteroid.Trojan.2000 UX34
+200169208|5||||Asteroid.Trojan.2000 UX34
+200169209|5||||Asteroid.Trojan.2000 UX34
+200169210|5||||Asteroid.Trojan.2000 UX34
+200169211|5||||Asteroid.Trojan.2000 UX34
+200169212|5||||Asteroid.Trojan.2000 UX34
+200169213|5||||Asteroid.Trojan.2000 UX34
+200169214|5||||Asteroid.Trojan.2000 UX34
+200169215|5||||Asteroid.Trojan.2000 UX34
+200169216|5||||Asteroid.Trojan.2000 UX34
+200169217|5||||Asteroid.Trojan.2000 UX34
+200169218|5||||Asteroid.Trojan.2000 UX34
+200169219|5||||Asteroid.Trojan.2000 UX34
+200169220|5||||Asteroid.Trojan.2000 UX34
+200169221|5||||Asteroid.Trojan.2000 UX34
+200169222|5||||Asteroid.Trojan.2000 UX34
+200169223|5||||Asteroid.Trojan.2000 UX34
+200169224|5||||Asteroid.Trojan.2000 UX34
+200169225|5||||Asteroid.Trojan.2000 UX34
+200169226|5||||Asteroid.Trojan.2000 UX34
+200169227|5||||Asteroid.Trojan.2000 UX34
+200169228|5||||Asteroid.Trojan.2000 UX34
+200169229|5||||Asteroid.Trojan.2000 UX34
+200169230|5||||Asteroid.Trojan.2000 UX34
+200169231|5||||Asteroid.Trojan.2000 UX34
+200169232|5||||Asteroid.Trojan.2000 UX34
+200169233|5||||Asteroid.Trojan.2000 UX34
+200169234|5||||Asteroid.Trojan.2000 UX34
+200169235|5||||Asteroid.Trojan.2000 UX34
+200169236|5||||Asteroid.Trojan.2000 UX34
+200169237|5||||Asteroid.Trojan.2000 UX34
+200169238|5||||Asteroid.Trojan.2000 UX34
+200169239|5||||Asteroid.Trojan.2000 UX34
+200169240|5||||Asteroid.Trojan.2000 UX34
+200169241|5||||Asteroid.Trojan.2000 UX34
+200169242|5||||Asteroid.Trojan.2000 UX34
+200169243|5||||Asteroid.Trojan.2000 UX34
+200169244|5||||Asteroid.Trojan.2000 UX34
+200169245|5||||Asteroid.Trojan.2000 UX34
+200169246|5||||Asteroid.Trojan.2000 UX34
+200169247|5||||Asteroid.Trojan.2000 UX34
+200169248|5||||Asteroid.Trojan.2000 UX34
+200169249|5||||Asteroid.Trojan.2000 UX34
+200169250|5||||Asteroid.Trojan.2000 UX34
+200169251|5||||Asteroid.Trojan.2000 UX34
+200169252|5||||Asteroid.Trojan.2000 UX34
+200169253|5||||Asteroid.Trojan.2000 UX34
+200169254|5||||Asteroid.Trojan.2000 UX34
+200169255|5||||Asteroid.Trojan.2000 UX34
+200169256|5||||Asteroid.Trojan.2000 UX34
+200169257|5||||Asteroid.Trojan.2000 UX34
+200169258|5||||Asteroid.Trojan.2000 UX34
+200169259|5||||Asteroid.Trojan.2000 UX34
+200169260|5||||Asteroid.Trojan.2000 UX34
+200169261|5||||Asteroid.Trojan.2000 UX34
+200169262|5||||Asteroid.Trojan.2000 UX34
+200169263|5||||Asteroid.Trojan.2000 UX34
+200169264|5||||Asteroid.Trojan.2000 UX34
+200169265|5||||Asteroid.Trojan.2000 UX34
+200169266|5||||Asteroid.Trojan.2000 UX34
+200169267|5||||Asteroid.Trojan.2000 UX34
+200169268|5||||Asteroid.Trojan.2000 UX34
+200169269|5||||Asteroid.Trojan.2000 UX34
+200169270|5||||Asteroid.Trojan.2000 UX34
+200169271|5||||Asteroid.Trojan.2000 UX34
+200169272|5||||Asteroid.Trojan.2000 UX34
+200169273|5||||Asteroid.Trojan.2000 UX34
+200169274|5||||Asteroid.Trojan.2000 UX34
+200169275|5||||Asteroid.Trojan.2000 UX34
+200169276|5||||Asteroid.Trojan.2000 UX34
+200169277|5||||Asteroid.Trojan.2000 UX34
+200169278|5||||Asteroid.Trojan.2000 UX34
+200169279|5||||Asteroid.Trojan.2000 UX34
+200169280|5||||Asteroid.Trojan.2000 UX34
+200169281|5||||Asteroid.Trojan.2000 UX34
+200169282|5||||Asteroid.Trojan.2000 UX34
+200169283|5||||Asteroid.Trojan.2000 UX34
+200169284|5||||Asteroid.Trojan.2000 UX34
+200169285|5||||Asteroid.Trojan.2000 UX34
+200169286|5||||Asteroid.Trojan.2000 UX34
+200169287|5||||Asteroid.Trojan.2000 UX34
+200169288|5||||Asteroid.Trojan.2000 UX34
+200169289|5||||Asteroid.Trojan.2000 UX34
+200169290|5||||Asteroid.Trojan.2000 UX34
+200169291|5||||Asteroid.Trojan.2000 UX34
+200169292|5||||Asteroid.Trojan.2000 UX34
+200169293|5||||Asteroid.Trojan.2000 UX34
+200169294|5||||Asteroid.Trojan.2000 UX34
+200169295|5||||Asteroid.Trojan.2000 UX34
+200169296|5||||Asteroid.Trojan.2000 UX34
+200169297|5||||Asteroid.Trojan.2000 UX34
+200169298|5||||Asteroid.Trojan.2000 UX34
+200169299|5||||Asteroid.Trojan.2000 UX34
+200169300|5||||Asteroid.Trojan.2000 UX34
+200169301|5||||Asteroid.Trojan.2000 UX34
+200169302|5||||Asteroid.Trojan.2000 UX34
+200169303|5||||Asteroid.Trojan.2000 UX34
+200169304|5||||Asteroid.Trojan.2000 UX34
+200169305|5||||Asteroid.Trojan.2000 UX34
+200169306|5||||Asteroid.Trojan.2000 UX34
+200169307|5||||Asteroid.Trojan.2000 UX34
+200169308|5||||Asteroid.Trojan.2000 UX34
+200169309|5||||Asteroid.Trojan.2000 UX34
+200169310|5||||Asteroid.Trojan.2000 UX34
+200169311|5||||Asteroid.Trojan.2000 UX34
+200169312|5||||Asteroid.Trojan.2000 UX34
+200169313|5||||Asteroid.Trojan.2000 UX34
+200169314|5||||Asteroid.Trojan.2000 UX34
+200169315|5||||Asteroid.Trojan.2000 UX34
+200169316|5||||Asteroid.Trojan.2000 UX34
+200169317|5||||Asteroid.Trojan.2000 UX34
+200169318|5||||Asteroid.Trojan.2000 UX34
+200169319|5||||Asteroid.Trojan.2000 UX34
+200169320|5||||Asteroid.Trojan.2000 UX34
+200169321|5||||Asteroid.Trojan.2000 UX34
+200169322|5||||Asteroid.Trojan.2000 UX34
+200169323|5||||Asteroid.Trojan.2000 UX34
+200169324|5||||Asteroid.Trojan.2000 UX34
+200169325|5||||Asteroid.Trojan.2000 UX34
+200169326|5||||Asteroid.Trojan.2000 UX34
+200169327|5||||Asteroid.Trojan.2000 UX34
+200169328|5||||Asteroid.Trojan.2000 UX34
+200169329|5||||Asteroid.Trojan.2000 UX34
+200169330|5||||Asteroid.Trojan.2000 UX34
+200169331|5||||Asteroid.Trojan.2000 UX34
+200169332|5||||Asteroid.Trojan.2000 UX34
+200169333|5||||Asteroid.Trojan.2000 UX34
+200169334|5||||Asteroid.Trojan.2000 UX34
+200169335|5||||Asteroid.Trojan.2000 UX34
+200169336|5||||Asteroid.Trojan.2000 UX34
+200169337|5||||Asteroid.Trojan.2000 UX34
+200169338|5||||Asteroid.Trojan.2000 UX34
+200169339|5||||Asteroid.Trojan.2000 UX34
+200169340|5||||Asteroid.Trojan.2000 UX34
+200169341|5||||Asteroid.Trojan.2000 UX34
+200169342|5||||Asteroid.Trojan.2000 UX34
+200169343|5||||Asteroid.Trojan.2000 UX34
+200169344|5||||Asteroid.Trojan.2000 UX34
+200169345|5||||Asteroid.Trojan.2000 UX34
+200169346|5||||Asteroid.Trojan.2000 UX34
+200169347|5||||Asteroid.Trojan.2000 UX34
+200169348|5||||Asteroid.Trojan.2000 UX34
+200169349|5||||Asteroid.Trojan.2000 UX34
+200169350|5||||Asteroid.Trojan.2000 UX34
+200169351|5||||Asteroid.Trojan.2000 UX34
+200169352|5||||Asteroid.Trojan.2000 UX34
+200169353|5||||Asteroid.Trojan.2000 UX34
+200169354|5||||Asteroid.Trojan.2000 UX34
+200169355|5||||Asteroid.Trojan.2000 UX34
+200169356|5||||Asteroid.Trojan.2000 UX34
+200169357|5||||Asteroid.Trojan.2000 UX34
+200169358|5||||Asteroid.Trojan.2000 UX34
+200169359|5||||Asteroid.Trojan.2000 UX34
+200169360|5||||Asteroid.Trojan.2000 UX34
+200169361|5||||Asteroid.Trojan.2000 UX34
+200169362|5||||Asteroid.Trojan.2000 UX34
+200169363|5||||Asteroid.Trojan.2000 UX34
+200169364|5||||Asteroid.Trojan.2000 UX34
+200169365|5||||Asteroid.Trojan.2000 UX34
+200169366|5||||Asteroid.Trojan.2000 UX34
+200169367|5||||Asteroid.Trojan.2000 UX34
+200169368|5||||Asteroid.Trojan.2000 UX34
+200169369|5||||Asteroid.Trojan.2000 UX34
+200169370|5||||Asteroid.Trojan.2000 UX34
+200169371|5||||Asteroid.Trojan.2000 UX34
+200169372|5||||Asteroid.Trojan.2000 UX34
+200169373|5||||Asteroid.Trojan.2000 UX34
+200169374|5||||Asteroid.Trojan.2000 UX34
+200169375|5||||Asteroid.Trojan.2000 UX34
+200169376|5||||Asteroid.Trojan.2000 UX34
+200169377|5||||Asteroid.Trojan.2000 UX34
+200169378|5||||Asteroid.Trojan.2000 UX34
+200169379|5||||Asteroid.Trojan.2000 UX34
+200169380|5||||Asteroid.Trojan.2000 UX34
+200169381|5||||Asteroid.Trojan.2000 UX34
+200169382|5||||Asteroid.Trojan.2000 UX34
+200169383|5||||Asteroid.Trojan.2000 UX34
+200169384|5||||Asteroid.Trojan.2000 UX34
+200169385|5||||Asteroid.Trojan.2000 UX34
+200169386|5||||Asteroid.Trojan.2000 UX34
+200169387|5||||Asteroid.Trojan.2000 UX34
+200169388|5||||Asteroid.Trojan.2000 UX34
+200169389|5||||Asteroid.Trojan.2000 UX34
+200169390|5||||Asteroid.Trojan.2000 UX34
+200169391|5||||Asteroid.Trojan.2000 UX34
+200169392|5||||Asteroid.Trojan.2000 UX34
+200169393|5||||Asteroid.Trojan.2000 UX34
+200169394|5||||Asteroid.Trojan.2000 UX34
+200169395|5||||Asteroid.Trojan.2000 UX34
+200169396|5||||Asteroid.Trojan.2000 UX34
+200169397|5||||Asteroid.Trojan.2000 UX34
+200169398|5||||Asteroid.Trojan.2000 UX34
+200169399|5||||Asteroid.Trojan.2000 UX34
+200169400|5||||Asteroid.Trojan.2000 UX34
+200169401|5||||Asteroid.Trojan.2000 UX34
+200169402|5||||Asteroid.Trojan.2000 UX34
+200169403|5||||Asteroid.Trojan.2000 UX34
+200169404|5||||Asteroid.Trojan.2000 UX34
+200169405|5||||Asteroid.Trojan.2000 UX34
+200169406|5||||Asteroid.Trojan.2000 UX34
+200169407|5||||Asteroid.Trojan.2000 UX34
+200169408|5||||Asteroid.Trojan.2000 UX34
+200169409|5||||Asteroid.Trojan.2000 UX34
+200169410|5||||Asteroid.Trojan.2000 UX34
+200169411|5||||Asteroid.Trojan.2000 UX34
+200169412|5||||Asteroid.Trojan.2000 UX34
+200169413|5||||Asteroid.Trojan.2000 UX34
+200169414|5||||Asteroid.Trojan.2000 UX34
+200169415|5||||Asteroid.Trojan.2000 UX34
+200169416|5||||Asteroid.Trojan.2000 UX34
+200169417|5||||Asteroid.Trojan.2000 UX34
+200169418|5||||Asteroid.Trojan.2000 UX34
+200169419|5||||Asteroid.Trojan.2000 UX34
+200169420|5||||Asteroid.Trojan.2000 UX34
+200169421|5||||Asteroid.Trojan.2000 UX34
+200169422|5||||Asteroid.Trojan.2000 UX34
+200169423|5||||Asteroid.Trojan.2000 UX34
+200169424|5||||Asteroid.Trojan.2000 UX34
+200169425|5||||Asteroid.Trojan.2000 UX34
+200169426|5||||Asteroid.Trojan.2000 UX34
+200169427|5||||Asteroid.Trojan.2000 UX34
+200169428|5||||Asteroid.Trojan.2000 UX34
+200169429|5||||Asteroid.Trojan.2000 UX34
+200169430|5||||Asteroid.Trojan.2000 UX34
+200169431|5||||Asteroid.Trojan.2000 UX34
+200169432|5||||Asteroid.Trojan.2000 UX34
+200169433|5||||Asteroid.Trojan.2000 UX34
+200169434|5||||Asteroid.Trojan.2000 UX34
+200169435|5||||Asteroid.Trojan.2000 UX34
+200169436|5||||Asteroid.Trojan.2000 UX34
+200169437|5||||Asteroid.Trojan.2000 UX34
+200169438|5||||Asteroid.Trojan.2000 UX34
+200169439|5||||Asteroid.Trojan.2000 UX34
+200169440|5||||Asteroid.Trojan.2000 UX34
+200169441|5||||Asteroid.Trojan.2000 UX34
+200169442|5||||Asteroid.Trojan.2000 UX34
+200169443|5||||Asteroid.Trojan.2000 UX34
+200169444|5||||Asteroid.Trojan.2000 UX34
+200169445|5||||Asteroid.Trojan.2000 UX34
+200169446|5||||Asteroid.Trojan.2000 UX34
+200169447|5||||Asteroid.Trojan.2000 UX34
+200169448|5||||Asteroid.Trojan.2000 UX34
+200169449|5||||Asteroid.Trojan.2000 UX34
+200169450|5||||Asteroid.Trojan.2000 UX34
+200169451|5||||Asteroid.Trojan.2000 UX34
+200169452|5||||Asteroid.Trojan.2000 UX34
+200169453|5||||Asteroid.Trojan.2000 UX34
+200169454|5||||Asteroid.Trojan.2000 UX34
+200169455|5||||Asteroid.Trojan.2000 UX34
+200169456|5||||Asteroid.Trojan.2000 UX34
+200169457|5||||Asteroid.Trojan.2000 UX34
+200169458|5||||Asteroid.Trojan.2000 UX34
+200169459|5||||Asteroid.Trojan.2000 UX34
+200169460|5||||Asteroid.Trojan.2000 UX34
+200169461|5||||Asteroid.Trojan.2000 UX34
+200169462|5||||Asteroid.Trojan.2000 UX34
+200169463|5||||Asteroid.Trojan.2000 UX34
+200169464|5||||Asteroid.Trojan.2000 UX34
+200169465|5||||Asteroid.Trojan.2000 UX34
+200169466|5||||Asteroid.Trojan.2000 UX34
+200169467|5||||Asteroid.Trojan.2000 UX34
+200169468|5||||Asteroid.Trojan.2000 UX34
+200169469|5||||Asteroid.Trojan.2000 UX34
+200169470|5||||Asteroid.Trojan.2000 UX34
+200169471|5||||Asteroid.Trojan.2000 UX34
+200169472|5||||Asteroid.Trojan.2000 UX34
+200169473|5||||Asteroid.Trojan.2000 UX34
+200169474|5||||Asteroid.Trojan.2000 UX34
+200169475|5||||Asteroid.Trojan.2000 UX34
+200169476|5||||Asteroid.Trojan.2000 UX34
+200169477|5||||Asteroid.Trojan.2000 UX34
+200169478|5||||Asteroid.Trojan.2000 UX34
+200169479|5||||Asteroid.Trojan.2000 UX34
+200169480|5||||Asteroid.Trojan.2000 UX34
+200169481|5||||Asteroid.Trojan.2000 UX34
+200169482|5||||Asteroid.Trojan.2000 UX34
+200169483|5||||Asteroid.Trojan.2000 UX34
+200169484|5||||Asteroid.Trojan.2000 UX34
+200169485|5||||Asteroid.Trojan.2000 UX34
+200169486|5||||Asteroid.Trojan.2000 UX34
+200169487|5||||Asteroid.Trojan.2000 UX34
+200169488|5||||Asteroid.Trojan.2000 UX34
+200169489|5||||Asteroid.Trojan.2000 UX34
+200169490|5||||Asteroid.Trojan.2000 UX34
+200169491|5||||Asteroid.Trojan.2000 UX34
+200169492|5||||Asteroid.Trojan.2000 WW146
+200169493|5||||Asteroid.Trojan.2000 WW146
+200169494|5||||Asteroid.Trojan.2000 WW146
+200169495|5||||Asteroid.Trojan.2000 WW146
+200169496|5||||Asteroid.Trojan.2000 WW146
+200169497|5||||Asteroid.Trojan.2000 WW146
+200169498|5||||Asteroid.Trojan.2000 WW146
+200169499|5||||Asteroid.Trojan.2000 WW146
+200169500|5||||Asteroid.Trojan.2000 WW146
+200169501|5||||Asteroid.Trojan.2000 WW146
+200169502|5||||Asteroid.Trojan.2000 WW146
+200169503|5||||Asteroid.Trojan.2000 WW146
+200169504|5||||Asteroid.Trojan.2000 WW146
+200169505|5||||Asteroid.Trojan.2000 WW146
+200169506|5||||Asteroid.Trojan.2000 WW146
+200169507|5||||Asteroid.Trojan.2000 WW146
+200169508|5||||Asteroid.Trojan.2000 WW146
+200169509|5||||Asteroid.Trojan.2000 WW146
+200169510|5||||Asteroid.Trojan.2000 WW146
+200169511|5||||Asteroid.Trojan.2000 WW146
+200169512|5||||Asteroid.Trojan.2000 WW146
+200169513|5||||Asteroid.Trojan.2000 WW146
+200169514|5||||Asteroid.Trojan.2000 WW146
+200169515|5||||Asteroid.Trojan.2000 WW146
+200169516|5||||Asteroid.Trojan.2000 WW146
+200169517|5||||Asteroid.Trojan.2000 WW146
+200169518|5||||Asteroid.Trojan.2000 WW146
+200169519|5||||Asteroid.Trojan.2000 WW146
+200169520|5||||Asteroid.Trojan.2000 WW146
+200169521|5||||Asteroid.Trojan.2000 WW146
+200169522|5||||Asteroid.Trojan.2000 WW146
+200169523|5||||Asteroid.Trojan.2000 WW146
+200169524|5||||Asteroid.Trojan.2000 WW146
+200169525|5||||Asteroid.Trojan.2000 WW146
+200169526|5||||Asteroid.Trojan.2000 WW146
+200169527|5||||Asteroid.Trojan.2000 WW146
+200169528|5||||Asteroid.Trojan.2000 WW146
+200169529|5||||Asteroid.Trojan.2000 WW146
+200169530|5||||Asteroid.Trojan.2000 WW146
+200169531|5||||Asteroid.Trojan.2000 WW146
+200169532|5||||Asteroid.Trojan.2000 WW146
+200169533|5||||Asteroid.Trojan.2000 WW146
+200169534|5||||Asteroid.Trojan.2000 WW146
+200169535|5||||Asteroid.Trojan.2000 WW146
+200169536|5||||Asteroid.Trojan.2000 WW146
+200169537|5||||Asteroid.Trojan.2000 WW146
+200169538|5||||Asteroid.Trojan.2000 WW146
+200169539|5||||Asteroid.Trojan.2000 WW146
+200169540|5||||Asteroid.Trojan.2000 WW146
+200169541|5||||Asteroid.Trojan.2000 WW146
+200169542|5||||Asteroid.Trojan.2000 WW146
+200169543|5||||Asteroid.Trojan.2000 WW146
+200169544|5||||Asteroid.Trojan.2000 WW146
+200169545|5||||Asteroid.Trojan.2000 WW146
+200169546|5||||Asteroid.Trojan.2000 WW146
+200169547|5||||Asteroid.Trojan.2000 WW146
+200169548|5||||Asteroid.Trojan.2000 WW146
+200169549|5||||Asteroid.Trojan.2000 WW146
+200169550|5||||Asteroid.Trojan.2000 WW146
+200169551|5||||Asteroid.Trojan.2000 WW146
+200169552|5||||Asteroid.Trojan.2000 WW146
+200169553|5||||Asteroid.Trojan.2000 WW146
+200169554|5||||Asteroid.Trojan.2000 WW146
+200169555|5||||Asteroid.Trojan.2000 WW146
+200169556|5||||Asteroid.Trojan.2000 WW146
+200169557|5||||Asteroid.Trojan.2000 WW146
+200169558|5||||Asteroid.Trojan.2000 WW146
+200169559|5||||Asteroid.Trojan.2000 WW146
+200169560|5||||Asteroid.Trojan.2000 WW146
+200169561|5||||Asteroid.Trojan.2000 WW146
+200169562|5||||Asteroid.Trojan.2000 WW146
+200169563|5||||Asteroid.Trojan.2000 WW146
+200169564|5||||Asteroid.Trojan.2000 WW146
+200169565|5||||Asteroid.Trojan.2000 WW146
+200169566|5||||Asteroid.Trojan.2000 WW146
+200169567|5||||Asteroid.Trojan.2000 WW146
+200169568|5||||Asteroid.Trojan.2000 WW146
+200169569|5||||Asteroid.Trojan.2000 WW146
+200169570|5||||Asteroid.Trojan.2000 WW146
+200169571|5||||Asteroid.Trojan.2000 WW146
+200169572|5||||Asteroid.Trojan.2000 WW146
+200169573|5||||Asteroid.Trojan.2000 WW146
+200169574|5||||Asteroid.Trojan.2000 WW146
+200169575|5||||Asteroid.Trojan.2000 WW146
+200169576|5||||Asteroid.Trojan.2000 WW146
+200169577|5||||Asteroid.Trojan.2000 WW146
+200169578|5||||Asteroid.Trojan.2000 WW146
+200169579|5||||Asteroid.Trojan.2000 WW146
+200169580|5||||Asteroid.Trojan.2000 WW146
+200169581|5||||Asteroid.Trojan.2000 WW146
+200169582|5||||Asteroid.Trojan.2000 WW146
+200169583|5||||Asteroid.Trojan.2000 WW146
+200169584|5||||Asteroid.Trojan.2000 WW146
+200169585|5||||Asteroid.Trojan.2000 WW146
+200169586|5||||Asteroid.Trojan.2000 WW146
+200169587|5||||Asteroid.Trojan.2000 WW146
+200169588|5||||Asteroid.Trojan.2000 WW146
+200169589|5||||Asteroid.Trojan.2000 WW146
+200169590|5||||Asteroid.Trojan.2000 WW146
+200169591|5||||Asteroid.Trojan.2000 WW146
+200169592|5||||Asteroid.Trojan.2000 WW146
+200169593|5||||Asteroid.Trojan.2000 WW146
+200169594|5||||Asteroid.Trojan.2000 WW146
+200169595|5||||Asteroid.Trojan.2000 WW146
+200169596|5||||Asteroid.Trojan.2000 WW146
+200169597|5||||Asteroid.Trojan.2000 WW146
+200169598|5||||Asteroid.Trojan.2000 WW146
+200169599|5||||Asteroid.Trojan.2000 WW146
+200169600|5||||Asteroid.Trojan.2000 WW146
+200169601|5||||Asteroid.Trojan.2000 WW146
+200169602|5||||Asteroid.Trojan.2000 WW146
+200169603|5||||Asteroid.Trojan.2000 WW146
+200169604|5||||Asteroid.Trojan.2000 WW146
+200169605|5||||Asteroid.Trojan.2000 WW146
+200169606|5||||Asteroid.Trojan.2000 WW146
+200169607|5||||Asteroid.Trojan.2000 WW146
+200169608|5||||Asteroid.Trojan.2000 WW146
+200169609|5||||Asteroid.Trojan.2000 WW146
+200169610|5||||Asteroid.Trojan.2000 WW146
+200169611|5||||Asteroid.Trojan.2000 WW146
+200169612|5||||Asteroid.Trojan.2000 WW146
+200169613|5||||Asteroid.Trojan.2000 WW146
+200169614|5||||Asteroid.Trojan.2000 WW146
+200169615|5||||Asteroid.Trojan.2000 WW146
+200169616|5||||Asteroid.Trojan.2000 WW146
+200169617|5||||Asteroid.Trojan.2000 WW146
+200169618|5||||Asteroid.Trojan.2000 WW146
+200169619|5||||Asteroid.Trojan.2000 WW146
+200169620|5||||Asteroid.Trojan.2000 WW146
+200169621|5||||Asteroid.Trojan.2000 WW146
+200169622|5||||Asteroid.Trojan.2000 WW146
+200169623|5||||Asteroid.Trojan.2000 WW146
+200169624|5||||Asteroid.Trojan.2000 WW146
+200169625|5||||Asteroid.Trojan.2000 WW146
+200169626|5||||Asteroid.Trojan.2000 WW146
+200169627|5||||Asteroid.Trojan.2000 WW146
+200169628|5||||Asteroid.Trojan.2000 WW146
+200169629|5||||Asteroid.Trojan.2000 WW146
+200169630|5||||Asteroid.Trojan.2000 WW146
+200169631|5||||Asteroid.Trojan.2000 WW146
+200169632|5||||Asteroid.Trojan.2000 WW146
+200169633|5||||Asteroid.Trojan.2000 WW146
+200169634|5||||Asteroid.Trojan.2000 WW146
+200169635|5||||Asteroid.Trojan.2000 WW146
+200169636|5||||Asteroid.Trojan.2000 WW146
+200169637|5||||Asteroid.Trojan.2000 WW146
+200169638|5||||Asteroid.Trojan.2000 WW146
+200169639|5||||Asteroid.Trojan.2000 WW146
+200169640|5||||Asteroid.Trojan.2000 WW146
+200169641|5||||Asteroid.Trojan.2000 WW146
+200169642|5||||Asteroid.Trojan.2000 WW146
+200169643|5||||Asteroid.Trojan.2000 WW146
+200169644|5||||Asteroid.Trojan.2000 WW146
+200169645|5||||Asteroid.Trojan.2000 WW146
+200169646|5||||Asteroid.Trojan.2000 WW146
+200169647|5||||Asteroid.Trojan.2000 WW146
+200169648|5||||Asteroid.Trojan.2000 WW146
+200169649|5||||Asteroid.Trojan.2000 WW146
+200169650|5||||Asteroid.Trojan.2000 WW146
+200169651|5||||Asteroid.Trojan.2000 WW146
+200169652|5||||Asteroid.Trojan.2000 WW146
+200169653|5||||Asteroid.Trojan.2000 WW146
+200169654|5||||Asteroid.Trojan.2000 WW146
+200169655|5||||Asteroid.Trojan.2000 WW146
+200169656|5||||Asteroid.Trojan.2000 WW146
+200169657|5||||Asteroid.Trojan.2000 WW146
+200169658|5||||Asteroid.Trojan.2000 WW146
+200169659|5||||Asteroid.Trojan.2000 WW146
+200169660|5||||Asteroid.Trojan.2000 WW146
+200169661|5||||Asteroid.Trojan.2000 WW146
+200169662|5||||Asteroid.Trojan.2000 WW146
+200169663|5||||Asteroid.Trojan.2000 WW146
+200169664|5||||Asteroid.Trojan.2000 WW146
+200169665|5||||Asteroid.Trojan.2000 WW146
+200169666|5||||Asteroid.Trojan.2000 WW146
+200169667|5||||Asteroid.Trojan.2000 WW146
+200169668|5||||Asteroid.Trojan.2000 WW146
+200169669|5||||Asteroid.Trojan.2000 WW146
+200169670|5||||Asteroid.Trojan.2000 WW146
+200169671|5||||Asteroid.Trojan.2000 WW146
+200169672|5||||Asteroid.Trojan.2000 WW146
+200169673|5||||Asteroid.Trojan.2000 WW146
+200169674|5||||Asteroid.Trojan.2000 WW146
+200169675|5||||Asteroid.Trojan.2000 WW146
+200169676|5||||Asteroid.Trojan.2000 WW146
+200169677|5||||Asteroid.Trojan.2000 WW146
+200169678|5||||Asteroid.Trojan.2000 WW146
+200169679|5||||Asteroid.Trojan.2000 WW146
+200169680|5||||Asteroid.Trojan.2000 WW146
+200169681|5||||Asteroid.Trojan.2000 WW146
+200169682|5||||Asteroid.Trojan.2000 WW146
+200169683|5||||Asteroid.Trojan.2000 WW146
+200169684|5||||Asteroid.Trojan.2000 WW146
+200169685|5||||Asteroid.Trojan.2000 WW146
+200169686|5||||Asteroid.Trojan.2000 WW146
+200169687|5||||Asteroid.Trojan.2000 WW146
+200169688|5||||Asteroid.Trojan.2000 WW146
+200169689|5||||Asteroid.Trojan.2000 WW146
+200169690|5||||Asteroid.Trojan.2000 WW146
+200169691|5||||Asteroid.Trojan.2000 WW146
+200169692|5||||Asteroid.Trojan.2000 WW146
+200169693|5||||Asteroid.Trojan.2000 WW146
+200169694|5||||Asteroid.Trojan.2000 WW146
+200169695|5||||Asteroid.Trojan.2000 WW146
+200169696|5||||Asteroid.Trojan.2000 WW146
+200169697|5||||Asteroid.Trojan.2000 WW146
+200169698|5||||Asteroid.Trojan.2000 WW146
+200169699|5||||Asteroid.Trojan.2000 WW146
+200169700|5||||Asteroid.Trojan.2000 WW146
+200169701|5||||Asteroid.Trojan.2000 WW146
+200169702|5||||Asteroid.Trojan.2000 WW146
+200169703|5||||Asteroid.Trojan.2000 WW146
+200169704|5||||Asteroid.Trojan.2000 WW146
+200169705|5||||Asteroid.Trojan.2000 WW146
+200169706|5||||Asteroid.Trojan.2000 WW146
+200169707|5||||Asteroid.Trojan.2000 WW146
+200169708|5||||Asteroid.Trojan.2000 WW146
+200169709|5||||Asteroid.Trojan.2000 WW146
+200169710|5||||Asteroid.Trojan.2000 WW146
+200169711|5||||Asteroid.Trojan.2000 WW146
+200169712|5||||Asteroid.Trojan.2000 WW146
+200169713|5||||Asteroid.Trojan.2000 WW146
+200169714|5||||Asteroid.Trojan.2000 WW146
+200169715|5||||Asteroid.Trojan.2000 WW146
+200169716|5||||Asteroid.Trojan.2000 WW146
+200169717|5||||Asteroid.Trojan.2000 WW146
+200169718|5||||Asteroid.Trojan.2000 WW146
+200169719|5||||Asteroid.Trojan.2000 WW146
+200169720|5||||Asteroid.Trojan.2000 WW146
+200169721|5||||Asteroid.Trojan.2000 WW146
+200169722|5||||Asteroid.Trojan.2000 WW146
+200169723|5||||Asteroid.Trojan.2000 WW146
+200169724|5||||Asteroid.Trojan.2000 WW146
+200169725|5||||Asteroid.Trojan.2000 WW146
+200169726|5||||Asteroid.Trojan.2000 WW146
+200169727|5||||Asteroid.Trojan.2000 WW146
+200169728|5||||Asteroid.Trojan.2000 WW146
+200169729|5||||Asteroid.Trojan.2000 WW146
+200169730|5||||Asteroid.Trojan.2000 WW146
+200169731|5||||Asteroid.Trojan.2000 WW146
+200169732|5||||Asteroid.Trojan.2000 WW146
+200169733|5||||Asteroid.Trojan.2000 WW146
+200169734|5||||Asteroid.Trojan.2000 WW146
+200169735|5||||Asteroid.Trojan.2000 WW146
+200169736|5||||Asteroid.Trojan.2000 WW146
+200169737|5||||Asteroid.Trojan.2000 WW146
+200169738|5||||Asteroid.Trojan.2000 WW146
+200169739|5||||Asteroid.Trojan.2000 WW146
+200169740|5||||Asteroid.Trojan.2000 WW146
+200169741|5||||Asteroid.Trojan.2000 WW146
+200169742|5||||Asteroid.Trojan.2000 WW146
+200169743|5||||Asteroid.Trojan.2000 WW146
+200169744|5||||Asteroid.Trojan.2000 WW146
+200169745|5||||Asteroid.Trojan.2000 WW146
+200169746|5||||Asteroid.Trojan.2000 WW146
+200169747|5||||Asteroid.Trojan.2000 WW146
+200169748|5||||Asteroid.Trojan.2000 WW146
+200169749|5||||Asteroid.Trojan.2000 WW146
+200169750|5||||Asteroid.Trojan.2000 WW146
+200169751|5||||Asteroid.Trojan.2000 WW146
+200169752|5||||Asteroid.Trojan.2000 WW146
+200169753|5||||Asteroid.Trojan.2000 WW146
+200169754|5||||Asteroid.Trojan.2000 WW146
+200169755|5||||Asteroid.Trojan.2000 WW146
+200169756|5||||Asteroid.Trojan.2000 WW146
+200169757|5||||Asteroid.Trojan.2000 WW146
+200169758|5||||Asteroid.Trojan.2000 WW146
+200169759|5||||Asteroid.Trojan.2000 WW146
+200169760|5||||Asteroid.Trojan.2000 WW146
+200169761|5||||Asteroid.Trojan.2000 WW146
+200169762|5||||Asteroid.Trojan.2000 WW146
+200169763|5||||Asteroid.Trojan.2000 WW146
+200169764|5||||Asteroid.Trojan.2000 WW146
+200169765|5||||Asteroid.Trojan.2000 WW146
+200169766|5||||Asteroid.Trojan.2000 WW146
+200169767|5||||Asteroid.Trojan.2000 WW146
+200169768|5||||Asteroid.Trojan.2000 WW146
+200169769|5||||Asteroid.Trojan.2000 WW146
+200169770|5||||Asteroid.Trojan.2000 WW146
+200169771|5||||Asteroid.Trojan.2000 WW146
+200169772|5||||Asteroid.Trojan.2000 WW146
+200169773|5||||Asteroid.Trojan.2000 WW146
+200169774|5||||Asteroid.Trojan.2000 WW146
+200169775|5||||Asteroid.Trojan.2000 WW146
+200169776|5||||Asteroid.Trojan.2000 WW146
+200169777|5||||Asteroid.Trojan.2000 WW146
+200169778|5||||Asteroid.Trojan.2000 WW146
+200169779|5||||Asteroid.Trojan.2000 WW146
+200169780|5||||Asteroid.Trojan.2000 WW146
+200169781|5||||Asteroid.Trojan.2000 WW146
+200169782|5||||Asteroid.Trojan.2000 WW146
+200169783|5||||Asteroid.Trojan.2000 WW146
+200169784|5||||Asteroid.Trojan.2000 WW146
+200169785|5||||Asteroid.Trojan.2000 WW146
+200169786|5||||Asteroid.Trojan.2000 WW146
+200169787|5||||Asteroid.Trojan.2000 WW146
+200169788|5||||Asteroid.Trojan.2000 WW146
+200169789|5||||Asteroid.Trojan.2000 WW146
+200169790|5||||Asteroid.Trojan.2000 WW146
+200169791|5||||Asteroid.Trojan.2000 WW146
+200169792|5||||Asteroid.Trojan.2000 WW146
+200169793|5||||Asteroid.Trojan.2000 WW146
+200169794|5||||Asteroid.Trojan.2000 WW146
+200169795|5||||Asteroid.Trojan.2000 WW146
+200169796|5||||Asteroid.Trojan.2000 WW146
+200169797|5||||Asteroid.Trojan.2000 WW146
+200169798|5||||Asteroid.Trojan.2000 WW146
+200169799|5||||Asteroid.Trojan.2000 WW146
+200169800|5||||Asteroid.Trojan.2000 WW146
+200169801|5||||Asteroid.Trojan.2000 WW146
+200169802|5||||Asteroid.Trojan.2000 WW146
+200169803|5||||Asteroid.Trojan.2000 WW146
+200169804|5||||Asteroid.Trojan.2000 WW146
+200169805|5||||Asteroid.Trojan.2000 WW146
+200169806|5||||Asteroid.Trojan.2000 WW146
+200169807|5||||Asteroid.Trojan.2000 WW146
+200169808|5||||Asteroid.Trojan.2000 WW146
+200169809|5||||Asteroid.Trojan.2000 WW146
+200169810|5||||Asteroid.Trojan.2000 WW146
+200169811|5||||Asteroid.Trojan.2000 WW146
+200169812|5||||Asteroid.Trojan.2000 WW146
+200169813|5||||Asteroid.Trojan.2000 WW146
+200169814|5||||Asteroid.Trojan.2000 WW146
+200169815|5||||Asteroid.Trojan.2000 WW146
+200169816|5||||Asteroid.Trojan.2000 WW146
+200169817|5||||Asteroid.Trojan.2000 WW146
+200169818|5||||Asteroid.Trojan.2000 WW146
+200169819|5||||Asteroid.Trojan.2000 WW146
+200169820|5||||Asteroid.Trojan.2000 WW146
+200169821|5||||Asteroid.Trojan.2000 WW146
+200169822|5||||Asteroid.Trojan.2000 WW146
+200169823|5||||Asteroid.Trojan.2000 WW146
+200169824|5||||Asteroid.Trojan.2000 WW146
+200169825|5||||Asteroid.Trojan.2000 WW146
+200169826|5||||Asteroid.Trojan.2000 WW146
+200169827|5||||Asteroid.Trojan.2000 WW146
+200169828|5||||Asteroid.Trojan.2000 WW146
+200169829|5||||Asteroid.Trojan.2000 WW146
+200169830|5||||Asteroid.Trojan.2000 WW146
+200169831|5||||Asteroid.Trojan.2000 WW146
+200169832|5||||Asteroid.Trojan.2000 WW146
+200169833|5||||Asteroid.Trojan.2000 WW146
+200169834|5||||Asteroid.Trojan.2000 WW146
+200169835|5||||Asteroid.Trojan.2000 WW146
+200169836|5||||Asteroid.Trojan.2000 WW146
+200169837|5||||Asteroid.Trojan.2000 WW146
+200169838|5||||Asteroid.Trojan.2000 WW146
+200169839|5||||Asteroid.Trojan.2000 WW146
+200169840|5||||Asteroid.Trojan.2000 WW146
+200169841|5||||Asteroid.Trojan.2000 WW146
+200169842|5||||Asteroid.Trojan.2000 WW146
+200169843|5||||Asteroid.Trojan.2000 WW146
+200169844|5||||Asteroid.Trojan.2000 WW146
+200169845|5||||Asteroid.Trojan.2000 WW146
+200169846|5||||Asteroid.Trojan.2000 WW146
+200169847|5||||Asteroid.Trojan.2000 WW146
+200169848|5||||Asteroid.Trojan.2000 WW146
+200169849|5||||Asteroid.Trojan.2000 WW146
+200169850|5||||Asteroid.Trojan.2000 WW146
+200169851|5||||Asteroid.Trojan.2000 WW146
+200169852|5||||Asteroid.Trojan.2000 WW146
+200169853|5||||Asteroid.Trojan.2000 WW146
+200169854|5||||Asteroid.Trojan.2000 WW146
+200169855|5||||Asteroid.Trojan.2000 WW146
+200169856|5||||Asteroid.Trojan.2000 WW146
+200169857|5||||Asteroid.Trojan.2000 WW146
+200169858|5||||Asteroid.Trojan.2000 WW146
+200169859|5||||Asteroid.Trojan.2000 WW146
+200169860|5||||Asteroid.Trojan.2000 WW146
+200169861|5||||Asteroid.Trojan.2000 WW146
+200169862|5||||Asteroid.Trojan.2000 WW146
+200169863|5||||Asteroid.Trojan.2000 WW146
+200169864|5||||Asteroid.Trojan.2000 WW146
+200169865|5||||Asteroid.Trojan.2000 WW146
+200169866|5||||Asteroid.Trojan.2000 WW146
+200169867|5||||Asteroid.Trojan.2000 WW146
+200169868|5||||Asteroid.Trojan.2000 WW146
+200169869|5||||Asteroid.Trojan.2000 WW146
+200169870|5||||Asteroid.Trojan.2000 WW146
+200169871|5||||Asteroid.Trojan.2000 WW146
+200169872|5||||Asteroid.Trojan.2000 WW146
+200169873|5||||Asteroid.Trojan.2000 WW146
+200169874|5||||Asteroid.Trojan.2000 WW146
+200169875|5||||Asteroid.Trojan.2000 WW146
+200169876|5||||Asteroid.Trojan.2000 WW146
+200169877|5||||Asteroid.Trojan.2000 WW146
+200169878|5||||Asteroid.Trojan.2000 WW146
+200169879|5||||Asteroid.Trojan.2000 WW146
+200169880|5||||Asteroid.Trojan.2000 WW146
+200169881|5||||Asteroid.Trojan.2000 WW146
+200169882|5||||Asteroid.Trojan.2000 WW146
+200169883|5||||Asteroid.Trojan.2000 WW146
+200169884|5||||Asteroid.Trojan.2000 WW146
+200169885|5||||Asteroid.Trojan.2000 WW146
+200169886|5||||Asteroid.Trojan.2000 WW146
+200169887|5||||Asteroid.Trojan.2000 WW146
+200169888|5||||Asteroid.Trojan.2000 WW146
+200169889|5||||Asteroid.Trojan.2000 WW146
+200169890|5||||Asteroid.Trojan.2000 WW146
+200169891|5||||Asteroid.Trojan.2000 WW146
+200169892|5||||Asteroid.Trojan.2000 WW146
+200169893|5||||Asteroid.Trojan.2000 WW146
+200169894|5||||Asteroid.Trojan.2000 WW146
+200169895|5||||Asteroid.Trojan.2000 WW146
+200169896|5||||Asteroid.Trojan.2000 WW146
+200169897|5||||Asteroid.Trojan.2000 WW146
+200169898|5||||Asteroid.Trojan.2000 WW146
+200169899|5||||Asteroid.Trojan.2000 WW146
+200169900|5||||Asteroid.Trojan.2000 WW146
+200169901|5||||Asteroid.Trojan.2000 WW146
+200169902|5||||Asteroid.Trojan.2000 WW146
+200169903|5||||Asteroid.Trojan.2000 WW146
+200169904|5||||Asteroid.Trojan.2000 WW146
+200169905|5||||Asteroid.Trojan.2000 WW146
+200169906|5||||Asteroid.Trojan.2000 WW146
+200169907|5||||Asteroid.Trojan.2000 WW146
+200169908|5||||Asteroid.Trojan.2000 WW146
+200169909|5||||Asteroid.Trojan.2000 WW146
+200169910|5||||Asteroid.Trojan.2000 WW146
+200169911|5||||Asteroid.Trojan.2000 WW146
+200169912|5||||Asteroid.Trojan.2000 WW146
+200169913|5||||Asteroid.Trojan.2000 WW146
+200169914|5||||Asteroid.Trojan.2000 WW146
+200169915|5||||Asteroid.Trojan.2000 WW146
+200169916|5||||Asteroid.Trojan.2000 WW146
+200169917|5||||Asteroid.Trojan.2000 WW146
+200169918|5||||Asteroid.Trojan.2000 WW146
+200169919|5||||Asteroid.Trojan.2000 WW146
+200169920|5||||Asteroid.Trojan.2000 WW146
+200169921|5||||Asteroid.Trojan.2000 WW146
+200169922|5||||Asteroid.Trojan.2000 WW146
+200169923|5||||Asteroid.Trojan.2000 WW146
+200169924|5||||Asteroid.Trojan.2000 WW146
+200169925|5||||Asteroid.Trojan.2000 WW146
+200169926|5||||Asteroid.Trojan.2000 WW146
+200169927|5||||Asteroid.Trojan.2000 WW146
+200169928|5||||Asteroid.Trojan.2000 WW146
+200169929|5||||Asteroid.Trojan.2000 WW146
+200169930|5||||Asteroid.Trojan.2000 WW146
+200169931|5||||Asteroid.Trojan.2000 WW146
+200169932|5||||Asteroid.Trojan.2000 WW146
+200169933|5||||Asteroid.Trojan.2000 WW146
+200169934|5||||Asteroid.Trojan.2000 WW146
+200169935|5||||Asteroid.Trojan.2000 WW146
+200169936|5||||Asteroid.Trojan.2000 WW146
+200169937|5||||Asteroid.Trojan.2000 WW146
+200169938|5||||Asteroid.Trojan.2000 WW146
+200169939|5||||Asteroid.Trojan.2000 WW146
+200169940|5||||Asteroid.Trojan.2000 WW146
+200169941|5||||Asteroid.Trojan.2000 WW146
+200169942|5||||Asteroid.Trojan.2000 WW146
+200169943|5||||Asteroid.Trojan.2000 WW146
+200169944|5||||Asteroid.Trojan.2000 WW146
+200169945|5||||Asteroid.Trojan.2000 WW146
+200169946|5||||Asteroid.Trojan.2000 WW146
+200169947|5||||Asteroid.Trojan.2000 WW146
+200169948|5||||Asteroid.Trojan.2000 WW146
+200169949|5||||Asteroid.Trojan.2000 WW146
+200169950|5||||Asteroid.Trojan.2000 WW146
+200169951|5||||Asteroid.Trojan.2000 WW146
+200169952|5||||Asteroid.Trojan.2000 WW146
+200169953|5||||Asteroid.Trojan.2000 WW146
+200169954|5||||Asteroid.Trojan.2000 WW146
+200169955|5||||Asteroid.Trojan.2000 WW146
+200169956|5||||Asteroid.Trojan.2000 WW146
+200169957|5||||Asteroid.Trojan.2000 WW146
+200169958|5||||Asteroid.Trojan.2000 WW146
+200169959|5||||Asteroid.Trojan.2000 WW146
+200169960|5||||Asteroid.Trojan.2000 WW146
+200169961|5||||Asteroid.Trojan.2000 WW146
+200169962|5||||Asteroid.Trojan.2000 WW146
+200169963|5||||Asteroid.Trojan.2000 WW146
+200169964|5||||Asteroid.Trojan.2000 WW146
+200169965|5||||Asteroid.Trojan.2000 WW146
+200169966|5||||Asteroid.Trojan.2000 WW146
+200169967|5||||Asteroid.Trojan.2000 WW146
+200169968|5||||Asteroid.Trojan.2000 WW146
+200169969|5||||Asteroid.Trojan.2000 WW146
+200169970|5||||Asteroid.Trojan.2000 WW146
+200169971|5||||Asteroid.Trojan.2000 WW146
+200169972|5||||Asteroid.Trojan.2000 WW146
+200169973|5||||Asteroid.Trojan.2000 WW146
+200169974|5||||Asteroid.Trojan.2000 WW146
+200169975|5||||Asteroid.Trojan.2000 WW146
+200169976|5||||Asteroid.Trojan.2000 WW146
+200169977|5||||Asteroid.Trojan.2000 WW146
+200169978|5||||Asteroid.Trojan.2000 WW146
+200169979|5||||Asteroid.Trojan.2000 WW146
+200169980|5||||Asteroid.Trojan.2000 WW146
+200169981|5||||Asteroid.Trojan.2000 WW146
+200169982|5||||Asteroid.Trojan.2000 WW146
+200169983|5||||Asteroid.Trojan.2000 WW146
+200169984|5||||Asteroid.Trojan.2000 WW146
+200169985|5||||Asteroid.Trojan.2000 WW146
+200169986|5||||Asteroid.Trojan.2000 WW146
+200169987|5||||Asteroid.Trojan.2000 WW146
+200169988|5||||Asteroid.Trojan.2000 WW146
+200169989|5||||Asteroid.Trojan.2000 WW146
+200169990|5||||Asteroid.Trojan.2000 WW146
+200169991|5||||Asteroid.Trojan.2000 WW146
+200169992|5||||Asteroid.Trojan.2000 WW146
+200169993|5||||Asteroid.Trojan.2000 WW146
+200169994|5||||Asteroid.Trojan.2000 WW146
+200169995|5||||Asteroid.Trojan.2000 WW146
+200169996|5||||Asteroid.Trojan.2000 WW146
+200169997|5||||Asteroid.Trojan.2000 WW146
+200169998|5||||Asteroid.Trojan.2000 WW146
+200169999|5||||Asteroid.Trojan.2000 WW146
+200170000|5||||Asteroid.Trojan.2000 WW146
+200170001|5||||Asteroid.Trojan.2000 WW146
+200170002|5||||Asteroid.Trojan.2000 WW146
+200170003|5||||Asteroid.Trojan.2000 WW146
+200170004|5||||Asteroid.Trojan.2000 WW146
+200170005|5||||Asteroid.Trojan.2000 WW146
+200170006|5||||Asteroid.Trojan.2000 WW146
+200170007|5||||Asteroid.Trojan.2000 WW146
+200170008|5||||Asteroid.Trojan.2000 WW146
+200170009|5||||Asteroid.Trojan.2000 WW146
+200170010|5||||Asteroid.Trojan.2000 WW146
+200170011|5||||Asteroid.Trojan.2000 WW146
+200170012|5||||Asteroid.Trojan.2000 WW146
+200170013|5||||Asteroid.Trojan.2000 WW146
+200170014|5||||Asteroid.Trojan.2000 WW146
+200170015|5||||Asteroid.Trojan.2000 WW146
+200170016|5||||Asteroid.Trojan.2000 WW146
+200170017|5||||Asteroid.Trojan.2000 WW146
+200170018|5||||Asteroid.Trojan.2000 WW146
+200170019|5||||Asteroid.Trojan.2000 WW146
+200170020|5||||Asteroid.Trojan.2000 WW146
+200170021|5||||Asteroid.Trojan.2000 WW146
+200170022|5||||Asteroid.Trojan.2000 WW146
+200170023|5||||Asteroid.Trojan.2000 WW146
+200170024|5||||Asteroid.Trojan.2000 WW146
+200170025|5||||Asteroid.Trojan.2000 WW146
+200170026|5||||Asteroid.Trojan.2000 WW146
+200170027|5||||Asteroid.Trojan.2000 WW146
+200170028|5||||Asteroid.Trojan.2000 WW146
+200170029|5||||Asteroid.Trojan.2000 WW146
+200170030|5||||Asteroid.Trojan.2000 WW146
+200170031|5||||Asteroid.Trojan.2000 WW146
+200170032|5||||Asteroid.Trojan.2000 WW146
+200170033|5||||Asteroid.Trojan.2000 WW146
+200170034|5||||Asteroid.Trojan.2000 WW146
+200170035|5||||Asteroid.Trojan.2000 WW146
+200170036|5||||Asteroid.Trojan.2000 WW146
+200170037|5||||Asteroid.Trojan.2000 WW146
+200170038|5||||Asteroid.Trojan.2000 WW146
+200170039|5||||Asteroid.Trojan.2000 WW146
+200170040|5||||Asteroid.Trojan.2000 WW146
+200170041|5||||Asteroid.Trojan.2000 WW146
+200170042|5||||Asteroid.Trojan.2000 WW146
+200170043|5||||Asteroid.Trojan.2000 WW146
+200170044|5||||Asteroid.Trojan.2000 WW146
+200170045|5||||Asteroid.Trojan.2000 WW146
+200170046|5||||Asteroid.Trojan.2000 WW146
+200170047|5||||Asteroid.Trojan.2000 WW146
+200170048|5||||Asteroid.Trojan.2000 WW146
+200170049|5||||Asteroid.Trojan.2000 WW146
+200170050|5||||Asteroid.Trojan.2000 WW146
+200170051|5||||Asteroid.Trojan.2000 WW146
+200170052|5||||Asteroid.Trojan.2000 WW146
+200170053|5||||Asteroid.Trojan.2000 WW146
+200170054|5||||Asteroid.Trojan.2000 WW146
+200170055|5||||Asteroid.Trojan.2000 WW146
+200170056|5||||Asteroid.Trojan.2000 WW146
+200170057|5||||Asteroid.Trojan.2000 WW146
+200170058|5||||Asteroid.Trojan.2000 WW146
+200170059|5||||Asteroid.Trojan.2000 WW146
+200170060|5||||Asteroid.Trojan.2000 WW146
+200170061|5||||Asteroid.Trojan.2000 WW146
+200170062|5||||Asteroid.Trojan.2000 WW146
+200170063|5||||Asteroid.Trojan.2000 WW146
+200170064|5||||Asteroid.Trojan.2000 WW146
+200170065|5||||Asteroid.Trojan.2000 WW146
+200170066|5||||Asteroid.Trojan.2000 WW146
+200170067|5||||Asteroid.Trojan.2000 WW146
+200170068|5||||Asteroid.Trojan.2000 WW146
+200170069|5||||Asteroid.Trojan.2000 WW146
+200170070|5||||Asteroid.Trojan.2000 WW146
+200170071|5||||Asteroid.Trojan.2000 WW146
+200170072|5||||Asteroid.Trojan.2000 WW146
+200170073|5||||Asteroid.Trojan.2000 WW146
+200170074|5||||Asteroid.Trojan.2000 WW146
+200170075|5||||Asteroid.Trojan.2000 WW146
+200170076|5||||Asteroid.Trojan.2000 WW146
+200170077|5||||Asteroid.Trojan.2000 WW146
+200170078|5||||Asteroid.Trojan.2000 WW146
+200170079|5||||Asteroid.Trojan.2000 WW146
+200170080|5||||Asteroid.Trojan.2000 WW146
+200170081|5||||Asteroid.Trojan.2000 WW146
+200170082|5||||Asteroid.Trojan.2000 WW146
+200170083|5||||Asteroid.Trojan.2000 WW146
+200170084|5||||Asteroid.Trojan.2000 WW146
+200170085|5||||Asteroid.Trojan.2000 WW146
+200170086|5||||Asteroid.Trojan.2000 WW146
+200170087|5||||Asteroid.Trojan.2000 WW146
+200170088|5||||Asteroid.Trojan.2000 WW146
+200170089|5||||Asteroid.Trojan.2000 WW146
+200170090|5||||Asteroid.Trojan.2000 WW146
+200170091|5||||Asteroid.Trojan.2000 WW146
+200170092|5||||Asteroid.Trojan.2000 WW146
+200170093|5||||Asteroid.Trojan.2000 WW146
+200170094|5||||Asteroid.Trojan.2000 WW146
+200170095|5||||Asteroid.Trojan.2000 WW146
+200170096|5||||Asteroid.Trojan.2000 WW146
+200170097|5||||Asteroid.Trojan.2000 WW146
+200170098|5||||Asteroid.Trojan.2000 WW146
+200170099|5||||Asteroid.Trojan.2000 WW146
+200170100|5||||Asteroid.Trojan.2000 WW146
+200170101|5||||Asteroid.Trojan.2000 WW146
+200170102|5||||Asteroid.Trojan.2000 WW146
+200170103|5||||Asteroid.Trojan.2000 WW146
+200170104|5||||Asteroid.Trojan.2000 WW146
+200170105|5||||Asteroid.Trojan.2000 WW146
+200170106|5||||Asteroid.Trojan.2000 WW146
+200170107|5||||Asteroid.Trojan.2000 WW146
+200170108|5||||Asteroid.Trojan.2000 WW146
+200170109|5||||Asteroid.Trojan.2000 WW146
+200170110|5||||Asteroid.Trojan.2000 WW146
+200170111|5||||Asteroid.Trojan.2000 WW146
+200170112|5||||Asteroid.Trojan.2000 WW146
+200170113|5||||Asteroid.Trojan.2000 WW146
+200170114|5||||Asteroid.Trojan.2000 WW146
+200170115|5||||Asteroid.Trojan.2000 WW146
+200170116|5||||Asteroid.Trojan.2000 WW146
+200170117|5||||Asteroid.Trojan.2000 WW146
+200170118|5||||Asteroid.Trojan.2000 WW146
+200170119|5||||Asteroid.Trojan.2000 WW146
+200170120|5||||Asteroid.Trojan.2000 WW146
+200170121|5||||Asteroid.Trojan.2000 WW146
+200170122|5||||Asteroid.Trojan.2000 WW146
+200170123|5||||Asteroid.Trojan.2000 WW146
+200170124|5||||Asteroid.Trojan.2000 WW146
+200170125|5||||Asteroid.Trojan.2000 WW146
+200170126|5||||Asteroid.Trojan.2000 WW146
+200170127|5||||Asteroid.Trojan.2000 WW146
+200170128|5||||Asteroid.Trojan.2000 WW146
+200170129|5||||Asteroid.Trojan.2000 WW146
+200170130|5||||Asteroid.Trojan.2000 WW146
+200170131|5||||Asteroid.Trojan.2000 WW146
+200170132|5||||Asteroid.Trojan.2000 WW146
+200170133|5||||Asteroid.Trojan.2000 WW146
+200170134|5||||Asteroid.Trojan.2000 WW146
+200170135|5||||Asteroid.Trojan.2000 WW146
+200170136|5||||Asteroid.Trojan.2000 WW146
+200170137|5||||Asteroid.Trojan.2000 WW146
+200170138|5||||Asteroid.Trojan.2000 WW146
+200170139|5||||Asteroid.Trojan.2000 WW146
+200170140|5||||Asteroid.Trojan.2000 WW146
+200170141|5||||Asteroid.Trojan.2000 WW146
+200170142|5||||Asteroid.Trojan.2000 WW146
+200170143|5||||Asteroid.Trojan.2000 WW146
+200170144|5||||Asteroid.Trojan.2000 WW146
+200170145|5||||Asteroid.Trojan.2000 WW146
+200170146|5||||Asteroid.Trojan.2000 WW146
+200170147|5||||Asteroid.Trojan.2000 WW146
+200170148|5||||Asteroid.Trojan.2000 WW146
+200170149|5||||Asteroid.Trojan.2000 WW146
+200170150|5||||Asteroid.Trojan.2000 WW146
+200170151|5||||Asteroid.Trojan.2000 WW146
+200170152|5||||Asteroid.Trojan.2000 WW146
+200170153|5||||Asteroid.Trojan.2000 WW146
+200170154|5||||Asteroid.Trojan.2000 WW146
+200170155|5||||Asteroid.Trojan.2000 WW146
+200170156|5||||Asteroid.Trojan.2000 WW146
+200170157|5||||Asteroid.Trojan.2000 WW146
+200170158|5||||Asteroid.Trojan.2000 WW146
+200170159|5||||Asteroid.Trojan.2000 WW146
+200170160|5||||Asteroid.Trojan.2000 WW146
+200170161|5||||Asteroid.Trojan.2000 WW146
+200170162|5||||Asteroid.Trojan.2000 WW146
+200170163|5||||Asteroid.Trojan.2000 WW146
+200170164|5||||Asteroid.Trojan.2000 WW146
+200170165|5||||Asteroid.Trojan.2000 WW146
+200170166|5||||Asteroid.Trojan.2000 WW146
+200170167|5||||Asteroid.Trojan.2000 WW146
+200170168|5||||Asteroid.Trojan.2000 WW146
+200170169|5||||Asteroid.Trojan.2000 WW146
+200170170|5||||Asteroid.Trojan.2000 WW146
+200170171|5||||Asteroid.Trojan.2000 WW146
+200170172|5||||Asteroid.Trojan.2000 WW146
+200170173|5||||Asteroid.Trojan.2000 WW146
+200170174|5||||Asteroid.Trojan.2000 WW146
+200170175|5||||Asteroid.Trojan.2000 WW146
+200170176|5||||Asteroid.Trojan.2000 WW146
+200170177|5||||Asteroid.Trojan.2000 WW146
+200170178|5||||Asteroid.Trojan.2000 WW146
+200170179|5||||Asteroid.Trojan.2000 WW146
+200170180|5||||Asteroid.Trojan.2000 WW146
+200170181|5||||Asteroid.Trojan.2000 WW146
+200170182|5||||Asteroid.Trojan.2000 WW146
+200170183|5||||Asteroid.Trojan.2000 WW146
+200170184|5||||Asteroid.Trojan.2000 WW146
+200170185|5||||Asteroid.Trojan.2000 WW146
+200170186|5||||Asteroid.Trojan.2000 WW146
+200170187|5||||Asteroid.Trojan.2000 WW146
+200170188|5||||Asteroid.Trojan.2000 WW146
+200170189|5||||Asteroid.Trojan.2000 WW146
+200170190|5||||Asteroid.Trojan.2000 WW146
+200170191|5||||Asteroid.Trojan.2000 WW146
+200170192|5||||Asteroid.Trojan.2000 WW146
+200170193|5||||Asteroid.Trojan.2000 WW146
+200170194|5||||Asteroid.Trojan.2000 WW146
+200170195|5||||Asteroid.Trojan.2000 WW146
+200170196|5||||Asteroid.Trojan.2000 WW146
+200170197|5||||Asteroid.Trojan.2000 WW146
+200170198|5||||Asteroid.Trojan.2000 WW146
+200170199|5||||Asteroid.Trojan.2000 WW146
+200170200|5||||Asteroid.Trojan.2000 WW146
+200170201|5||||Asteroid.Trojan.2000 WW146
+200170202|5||||Asteroid.Trojan.2000 WW146
+200170203|5||||Asteroid.Trojan.2000 WW146
+200170204|5||||Asteroid.Trojan.2000 WW146
+200170205|5||||Asteroid.Trojan.2000 WW146
+200170206|5||||Asteroid.Trojan.2000 WW146
+200170207|5||||Asteroid.Trojan.2000 WW146
+200170208|5||||Asteroid.Trojan.2000 WW146
+200170209|5||||Asteroid.Trojan.2000 WW146
+200170210|5||||Asteroid.Trojan.2000 WW146
+200170211|5||||Asteroid.Trojan.2000 WW146
+200170212|5||||Asteroid.Trojan.2000 WW146
+200170213|5||||Asteroid.Trojan.2000 WW146
+200170214|5||||Asteroid.Trojan.2000 WW146
+200170215|5||||Asteroid.Trojan.2000 WW146
+200170216|5||||Asteroid.Trojan.2000 WW146
+200170217|5||||Asteroid.Trojan.2000 WW146
+200170218|5||||Asteroid.Trojan.2000 WW146
+200170219|5||||Asteroid.Trojan.2000 WW146
+200170220|5||||Asteroid.Trojan.2000 WW146
+200170221|5||||Asteroid.Trojan.2000 WW146
+200170222|5||||Asteroid.Trojan.2000 WW146
+200170223|5||||Asteroid.Trojan.2000 WW146
+200170224|5||||Asteroid.Trojan.2000 WW146
+200170225|5||||Asteroid.Trojan.2000 WW146
+200170226|5||||Asteroid.Trojan.2000 WW146
+200170227|5||||Asteroid.Trojan.2000 WW146
+200170228|5||||Asteroid.Trojan.2000 WW146
+200170229|5||||Asteroid.Trojan.2000 WW146
+200170230|5||||Asteroid.Trojan.2000 WW146
+200170231|5||||Asteroid.Trojan.2000 WW146
+200170232|5||||Asteroid.Trojan.2000 WW146
+200170233|5||||Asteroid.Trojan.2000 WW146
+200170234|5||||Asteroid.Trojan.2000 WW146
+200170235|5||||Asteroid.Trojan.2000 WW146
+200170236|5||||Asteroid.Trojan.2000 WW146
+200170237|5||||Asteroid.Trojan.2000 WW146
+200170238|5||||Asteroid.Trojan.2000 WW146
+200170239|5||||Asteroid.Trojan.2000 WW146
+200170240|5||||Asteroid.Trojan.2000 WW146
+200170241|5||||Asteroid.Trojan.2000 WW146
+200170242|5||||Asteroid.Trojan.2000 WW146
+200170243|5||||Asteroid.Trojan.2000 WW146
+200170244|5||||Asteroid.Trojan.2000 WW146
+200170245|5||||Asteroid.Trojan.2000 WW146
+200170246|5||||Asteroid.Trojan.2000 WW146
+200170247|5||||Asteroid.Trojan.2000 WW146
+200170248|5||||Asteroid.Trojan.2000 WW146
+200170249|5||||Asteroid.Trojan.2000 WW146
+200170250|5||||Asteroid.Trojan.2000 WW146
+200170251|5||||Asteroid.Trojan.2000 WW146
+200170252|5||||Asteroid.Trojan.2000 WW146
+200170253|5||||Asteroid.Trojan.2000 WW146
+200170254|5||||Asteroid.Trojan.2000 WW146
+200170255|5||||Asteroid.Trojan.2000 WW146
+200170256|5||||Asteroid.Trojan.2000 WW146
+200170257|5||||Asteroid.Trojan.2000 WW146
+200170258|5||||Asteroid.Trojan.2000 WW146
+200170259|5||||Asteroid.Trojan.2000 WW146
+200170260|5||||Asteroid.Trojan.2000 WW146
+200170261|5||||Asteroid.Trojan.2000 WW146
+200170262|5||||Asteroid.Trojan.2000 WW146
+200170263|5||||Asteroid.Trojan.2000 WW146
+200170264|5||||Asteroid.Trojan.2000 WW146
+200170265|5||||Asteroid.Trojan.2000 WW146
+200170266|5||||Asteroid.Trojan.2000 WW146
+200170267|5||||Asteroid.Trojan.2000 WW146
+200170268|5||||Asteroid.Trojan.2000 WW146
+200170269|5||||Asteroid.Trojan.2000 WW146
+200170270|5||||Asteroid.Trojan.2000 WW146
+200170271|5||||Asteroid.Trojan.2000 WW146
+200170272|5||||Asteroid.Trojan.2000 WW146
+200170273|5||||Asteroid.Trojan.2000 WW146
+200170274|5||||Asteroid.Trojan.2000 WW146
+200170275|5||||Asteroid.Trojan.2000 WW146
+200170276|5||||Asteroid.Trojan.2000 WW146
+200170277|5||||Asteroid.Trojan.2000 WW146
+200170278|5||||Asteroid.Trojan.2000 WW146
+200170279|5||||Asteroid.Trojan.2000 WW146
+200170280|5||||Asteroid.Trojan.2000 WW146
+200170281|5||||Asteroid.Trojan.2000 WW146
+200170282|5||||Asteroid.Trojan.2000 WW146
+200170283|5||||Asteroid.Trojan.2000 WW146
+200170284|5||||Asteroid.Trojan.2000 WW146
+200170285|5||||Asteroid.Trojan.2000 WW146
+200170286|5||||Asteroid.Trojan.2000 WW146
+200170287|5||||Asteroid.Trojan.2000 WW146
+200170288|5||||Asteroid.Trojan.2000 WW146
+200170289|5||||Asteroid.Trojan.2000 WW146
+200170290|5||||Asteroid.Trojan.2000 WW146
+200170291|5||||Asteroid.Trojan.2000 WW146
+200170292|5||||Asteroid.Trojan.2000 WW146
+200170293|5||||Asteroid.Trojan.2000 WW146
+200170294|5||||Asteroid.Trojan.2000 WW146
+200170295|5||||Asteroid.Trojan.2000 WW146
+200170296|5||||Asteroid.Trojan.2000 WW146
+200170297|5||||Asteroid.Trojan.2000 WW146
+200170298|5||||Asteroid.Trojan.2000 WW146
+200170299|5||||Asteroid.Trojan.2000 WW146
+200170300|5||||Asteroid.Trojan.2000 WW146
+200170301|5||||Asteroid.Trojan.2000 WW146
+200170302|5||||Asteroid.Trojan.2000 WW146
+200170303|5||||Asteroid.Trojan.2000 WW146
+200170304|5||||Asteroid.Trojan.2000 WW146
+200170305|5||||Asteroid.Trojan.2000 WW146
+200170306|5||||Asteroid.Trojan.2000 WW146
+200170307|5||||Asteroid.Trojan.2000 WW146
+200170308|5||||Asteroid.Trojan.2000 WW146
+200170309|5||||Asteroid.Trojan.2000 WW146
+200170310|5||||Asteroid.Trojan.2000 WW146
+200170311|5||||Asteroid.Trojan.2000 WW146
+200170312|5||||Asteroid.Trojan.2000 WW146
+200170313|5||||Asteroid.Trojan.2000 WW146
+200170314|5||||Asteroid.Trojan.2000 WW146
+200170315|5||||Asteroid.Trojan.2000 WW146
+200170316|5||||Asteroid.Trojan.2000 WW146
+200170317|5||||Asteroid.Trojan.2000 WW146
+200170318|5||||Asteroid.Trojan.2000 WW146
+200170319|5||||Asteroid.Trojan.2000 WW146
+200170320|5||||Asteroid.Trojan.2000 WW146
+200170321|5||||Asteroid.Trojan.2000 WW146
+200170322|5||||Asteroid.Trojan.2000 WW146
+200170323|5||||Asteroid.Trojan.2000 WW146
+200170324|5||||Asteroid.Trojan.2000 WW146
+200170325|5||||Asteroid.Trojan.2000 WW146
+200170326|5||||Asteroid.Trojan.2000 WW146
+200170327|5||||Asteroid.Trojan.2000 WW146
+200170328|5||||Asteroid.Trojan.2000 WW146
+200170329|5||||Asteroid.Trojan.2000 WW146
+200170330|5||||Asteroid.Trojan.2000 WW146
+200170331|5||||Asteroid.Trojan.2000 WW146
+200170332|5||||Asteroid.Trojan.2000 WW146
+200170333|5||||Asteroid.Trojan.2000 WW146
+200170334|5||||Asteroid.Trojan.2000 WW146
+200170335|5||||Asteroid.Trojan.2000 WW146
+200170336|5||||Asteroid.Trojan.2000 WW146
+200170337|5||||Asteroid.Trojan.2000 WW146
+200170338|5||||Asteroid.Trojan.2000 WW146
+200170339|5||||Asteroid.Trojan.2000 WW146
+200170340|5||||Asteroid.Trojan.2000 WW146
+200170341|5||||Asteroid.Trojan.2000 WW146
+200170342|5||||Asteroid.Trojan.2000 WW146
+200170343|5||||Asteroid.Trojan.2000 WW146
+200170344|5||||Asteroid.Trojan.2000 WW146
+200170345|5||||Asteroid.Trojan.2000 WW146
+200170346|5||||Asteroid.Trojan.2000 WW146
+200170347|5||||Asteroid.Trojan.2000 WW146
+200170348|5||||Asteroid.Trojan.2000 WW146
+200170349|5||||Asteroid.Trojan.2000 WW146
+200170350|5||||Asteroid.Trojan.2000 WW146
+200170351|5||||Asteroid.Trojan.2000 WW146
+200170352|5||||Asteroid.Trojan.2000 WW146
+200170353|5||||Asteroid.Trojan.2000 WW146
+200170354|5||||Asteroid.Trojan.2000 WW146
+200170355|5||||Asteroid.Trojan.2000 WW146
+200170356|5||||Asteroid.Trojan.2000 WW146
+200170357|5||||Asteroid.Trojan.2000 WW146
+200170358|5||||Asteroid.Trojan.2000 WW146
+200170359|5||||Asteroid.Trojan.2000 WW146
+200170360|5||||Asteroid.Trojan.2000 WW146
+200170361|5||||Asteroid.Trojan.2000 WW146
+200170362|5||||Asteroid.Trojan.2000 WW146
+200170363|5||||Asteroid.Trojan.2000 WW146
+200170364|5||||Asteroid.Trojan.2000 WW146
+200170365|5||||Asteroid.Trojan.2000 WW146
+200170366|5||||Asteroid.Trojan.2000 WW146
+200170367|5||||Asteroid.Trojan.2000 WW146
+200170368|5||||Asteroid.Trojan.2000 WW146
+200170369|5||||Asteroid.Trojan.2000 WW146
+200170370|5||||Asteroid.Trojan.2000 WW146
+200170371|5||||Asteroid.Trojan.2000 WW146
+200170372|5||||Asteroid.Trojan.2000 WW146
+200170373|5||||Asteroid.Trojan.2000 WW146
+200170374|5||||Asteroid.Trojan.2000 WW146
+200170375|5||||Asteroid.Trojan.2000 WW146
+200170376|5||||Asteroid.Trojan.2000 WW146
+200170377|5||||Asteroid.Trojan.2000 WW146
+200170378|5||||Asteroid.Trojan.2000 WW146
+200170379|5||||Asteroid.Trojan.2000 WW146
+200170380|5||||Asteroid.Trojan.2000 WW146
+200170381|5||||Asteroid.Trojan.2000 WW146
+200170382|5||||Asteroid.Trojan.2000 WW146
+200170383|5||||Asteroid.Trojan.2000 WW146
+200170384|5||||Asteroid.Trojan.2000 WW146
+200170385|5||||Asteroid.Trojan.2000 WW146
+200170386|5||||Asteroid.Trojan.2000 WW146
+200170387|5||||Asteroid.Trojan.2000 WW146
+200170388|5||||Asteroid.Trojan.2000 WW146
+200170389|5||||Asteroid.Trojan.2000 WW146
+200170390|5||||Asteroid.Trojan.2000 WW146
+200170391|5||||Asteroid.Trojan.2000 WW146
+200170392|5||||Asteroid.Trojan.2000 WW146
+200170393|5||||Asteroid.Trojan.2000 WW146
+200170394|5||||Asteroid.Trojan.2000 WW146
+200170395|5||||Asteroid.Trojan.2000 WW146
+200170396|5||||Asteroid.Trojan.2000 WW146
+200170397|5||||Asteroid.Trojan.2000 WW146
+200170398|5||||Asteroid.Trojan.2000 WW146
+200170399|5||||Asteroid.Trojan.2000 WW146
+200170400|5||||Asteroid.Trojan.2000 WW146
+200170401|5||||Asteroid.Trojan.2000 WW146
+200170402|5||||Asteroid.Trojan.2000 WW146
+200170403|5||||Asteroid.Trojan.2000 WW146
+200170404|5||||Asteroid.Trojan.2000 WW146
+200170405|5||||Asteroid.Trojan.2000 WW146
+200170406|5||||Asteroid.Trojan.2000 WW146
+200170407|5||||Asteroid.Trojan.2000 WW146
+200170408|5||||Asteroid.Trojan.2000 WW146
+200170409|5||||Asteroid.Trojan.2000 WW146
+200170410|5||||Asteroid.Trojan.2000 WW146
+200170411|5||||Asteroid.Trojan.2000 WW146
+200170412|5||||Asteroid.Trojan.2000 WW146
+200170413|5||||Asteroid.Trojan.2000 WW146
+200170414|5||||Asteroid.Trojan.2000 WW146
+200170415|5||||Asteroid.Trojan.2000 WW146
+200170416|5||||Asteroid.Trojan.2000 WW146
+200170417|5||||Asteroid.Trojan.2000 WW146
+200170418|5||||Asteroid.Trojan.2000 WW146
+200170419|5||||Asteroid.Trojan.2000 WW146
+200170420|5||||Asteroid.Trojan.2000 WW146
+200170421|5||||Asteroid.Trojan.2000 WW146
+200170422|5||||Asteroid.Trojan.2000 WW146
+200170423|5||||Asteroid.Trojan.2000 WW146
+200170424|5||||Asteroid.Trojan.2000 WW146
+200170425|5||||Asteroid.Trojan.2000 WW146
+200170426|5||||Asteroid.Trojan.2000 WW146
+200170427|5||||Asteroid.Trojan.2000 WW146
+200170428|5||||Asteroid.Trojan.2000 WW146
+200170429|5||||Asteroid.Trojan.2000 WW146
+200170430|5||||Asteroid.Trojan.2000 WW146
+200170431|5||||Asteroid.Trojan.2000 WW146
+200170432|5||||Asteroid.Trojan.2000 WW146
+200170433|5||||Asteroid.Trojan.2000 WW146
+200170434|5||||Asteroid.Trojan.2000 WW146
+200170435|5||||Asteroid.Trojan.2000 WW146
+200170436|5||||Asteroid.Trojan.2000 WW146
+200170437|5||||Asteroid.Trojan.2000 WW146
+200170438|5||||Asteroid.Trojan.2000 WW146
+200170439|5||||Asteroid.Trojan.2000 WW146
+200170440|5||||Asteroid.Trojan.2000 WW146
+200170441|5||||Asteroid.Trojan.2000 WW146
+200170442|5||||Asteroid.Trojan.2000 WW146
+200170443|5||||Asteroid.Trojan.2000 WW146
+200170444|5||||Asteroid.Trojan.2000 WW146
+200170445|5||||Asteroid.Trojan.2000 WW146
+200170446|5||||Asteroid.Trojan.2000 WW146
+200170447|5||||Asteroid.Trojan.2000 WW146
+200170448|5||||Asteroid.Trojan.2000 WW146
+200170449|5||||Asteroid.Trojan.2000 WW146
+200170450|5||||Asteroid.Trojan.2000 WW146
+200170451|5||||Asteroid.Trojan.2000 WW146
+200170452|5||||Asteroid.Trojan.2000 WW146
+200170453|5||||Asteroid.Trojan.2000 WW146
+200170454|5||||Asteroid.Trojan.2000 WW146
+200170455|5||||Asteroid.Trojan.2000 WW146
+200170456|5||||Asteroid.Trojan.2000 WW146
+200170457|5||||Asteroid.Trojan.2000 WW146
+200170458|5||||Asteroid.Trojan.2000 WW146
+200170459|5||||Asteroid.Trojan.2000 WW146
+200170460|5||||Asteroid.Trojan.2000 WW146
+200170461|5||||Asteroid.Trojan.2000 WW146
+200170462|5||||Asteroid.Trojan.2000 WW146
+200170463|5||||Asteroid.Trojan.2000 WW146
+200170464|5||||Asteroid.Trojan.2000 WW146
+200170465|5||||Asteroid.Trojan.2000 WW146
+200170466|5||||Asteroid.Trojan.2000 WW146
+200170467|5||||Asteroid.Trojan.2000 WW146
+200170468|5||||Asteroid.Trojan.2000 WW146
+200170469|5||||Asteroid.Trojan.2000 WW146
+200170470|5||||Asteroid.Trojan.2000 WW146
+200170471|5||||Asteroid.Trojan.2000 WW146
+200170472|5||||Asteroid.Trojan.2000 WW146
+200170473|5||||Asteroid.Trojan.2000 WW146
+200170474|5||||Asteroid.Trojan.2000 WW146
+200170475|5||||Asteroid.Trojan.2000 WW146
+200170476|5||||Asteroid.Trojan.2000 WW146
+200170477|5||||Asteroid.Trojan.2000 WW146
+200170478|5||||Asteroid.Trojan.2000 WW146
+200170479|5||||Asteroid.Trojan.2000 WW146
+200170480|5||||Asteroid.Trojan.2000 WW146
+200170481|5||||Asteroid.Trojan.2000 WW146
+200170482|5||||Asteroid.Trojan.2000 WW146
+200170483|5||||Asteroid.Trojan.2000 WW146
+200170484|5||||Asteroid.Trojan.2000 WW146
+200170485|5||||Asteroid.Trojan.2000 WW146
+200170486|5||||Asteroid.Trojan.2000 WW146
+200170487|5||||Asteroid.Trojan.2000 WW146
+200170488|5||||Asteroid.Trojan.2000 WW146
+200170489|5||||Asteroid.Trojan.2000 WW146
+200170490|5||||Asteroid.Trojan.2000 WW146
+200170491|5||||Asteroid.Trojan.2000 WW146
+200170492|5||||Asteroid.Trojan.2000 WW146
+200170493|5||||Asteroid.Trojan.2000 WW146
+200170494|5||||Asteroid.Trojan.2000 WW146
+200170495|5||||Asteroid.Trojan.2000 WW146
+200170496|5||||Asteroid.Trojan.2000 WW146
+200170497|5||||Asteroid.Trojan.2000 WW146
+200170498|5||||Asteroid.Trojan.2000 WW146
+200170499|5||||Asteroid.Trojan.2000 WW146
+200170500|5||||Asteroid.Trojan.2000 WW146
+200170501|5||||Asteroid.Trojan.2000 WW146
+200170502|5||||Asteroid.Trojan.2000 WW146
+200170503|5||||Asteroid.Trojan.2000 WW146
+200170504|5||||Asteroid.Trojan.2000 WW146
+200170505|5||||Asteroid.Trojan.2000 WW146
+200170506|5||||Asteroid.Trojan.2000 WW146
+200170507|5||||Asteroid.Trojan.2000 WW146
+200170508|5||||Asteroid.Trojan.2000 WW146
+200170509|5||||Asteroid.Trojan.2000 WW146
+200170510|5||||Asteroid.Trojan.2000 WW146
+200170511|5||||Asteroid.Trojan.2000 WW146
+200170512|5||||Asteroid.Trojan.2000 WW146
+200170513|5||||Asteroid.Trojan.2000 WW146
+200170514|5||||Asteroid.Trojan.2000 WW146
+200170515|5||||Asteroid.Trojan.2000 WW146
+200170516|5||||Asteroid.Trojan.2000 WW146
+200170517|5||||Asteroid.Trojan.2000 WW146
+200170518|5||||Asteroid.Trojan.2000 WW146
+200170519|5||||Asteroid.Trojan.2000 WW146
+200170520|5||||Asteroid.Trojan.2000 WW146
+200170521|5||||Asteroid.Trojan.2000 WW146
+200170522|5||||Asteroid.Trojan.2000 WW146
+200170523|5||||Asteroid.Trojan.2000 WW146
+200170524|5||||Asteroid.Trojan.2000 WW146
+200170525|5||||Asteroid.Trojan.2000 WW146
+200170526|5||||Asteroid.Trojan.2000 WW146
+200170527|5||||Asteroid.Trojan.2000 WW146
+200170528|5||||Asteroid.Trojan.2000 WW146
+200170529|5||||Asteroid.Trojan.2000 WW146
+200170530|5||||Asteroid.Trojan.2000 WW146
+200170531|5||||Asteroid.Trojan.2000 WW146
+200170532|5||||Asteroid.Trojan.2000 WW146
+200170533|5||||Asteroid.Trojan.2000 WW146
+200170534|5||||Asteroid.Trojan.2000 WW146
+200170535|5||||Asteroid.Trojan.2000 WW146
+200170536|5||||Asteroid.Trojan.2000 WW146
+200170537|5||||Asteroid.Trojan.2000 WW146
+200170538|5||||Asteroid.Trojan.2000 WW146
+200170539|5||||Asteroid.Trojan.2000 WW146
+200170540|5||||Asteroid.Trojan.2000 WW146
+200170541|5||||Asteroid.Trojan.2000 WW146
+200170542|5||||Asteroid.Trojan.2000 WW146
+200170543|5||||Asteroid.Trojan.2000 WW146
+200170544|5||||Asteroid.Trojan.2000 WW146
+200170545|5||||Asteroid.Trojan.2000 WW146
+200170546|5||||Asteroid.Trojan.2000 WW146
+200170547|5||||Asteroid.Trojan.2000 WW146
+200170548|5||||Asteroid.Trojan.2000 WW146
+200170549|5||||Asteroid.Trojan.2000 WW146
+200170550|5||||Asteroid.Trojan.2000 WW146
+200170551|5||||Asteroid.Trojan.2000 WW146
+200170552|5||||Asteroid.Trojan.2000 WW146
+200170553|5||||Asteroid.Trojan.2000 WW146
+200170554|5||||Asteroid.Trojan.2000 WW146
+200170555|5||||Asteroid.Trojan.2000 WW146
+200170556|5||||Asteroid.Trojan.2000 WW146
+200170557|5||||Asteroid.Trojan.2000 WW146
+200170558|5||||Asteroid.Trojan.2000 WW146
+200170559|5||||Asteroid.Trojan.2000 WW146
+200170560|5||||Asteroid.Trojan.2000 WW146
+200170561|5||||Asteroid.Trojan.2000 WW146
+200170562|5||||Asteroid.Trojan.2000 WW146
+200170563|5||||Asteroid.Trojan.2000 WW146
+200170564|5||||Asteroid.Trojan.2000 WW146
+200170565|5||||Asteroid.Trojan.2000 WW146
+200170566|5||||Asteroid.Trojan.2000 WW146
+200170567|5||||Asteroid.Trojan.2000 WW146
+200170568|5||||Asteroid.Trojan.2000 WW146
+200170569|5||||Asteroid.Trojan.2000 WW146
+200170570|5||||Asteroid.Trojan.2000 WW146
+200170571|5||||Asteroid.Trojan.2000 WW146
+200170572|5||||Asteroid.Trojan.2000 WW146
+200170573|5||||Asteroid.Trojan.2000 WW146
+200170574|5||||Asteroid.Trojan.2000 WW146
+200170575|5||||Asteroid.Trojan.2000 WW146
+200170576|5||||Asteroid.Trojan.2000 WW146
+200170577|5||||Asteroid.Trojan.2000 WW146
+200170578|5||||Asteroid.Trojan.2000 WW146
+200170579|5||||Asteroid.Trojan.2000 WW146
+200170580|5||||Asteroid.Trojan.2000 WW146
+200170581|5||||Asteroid.Trojan.2000 WW146
+200170582|5||||Asteroid.Trojan.2000 WW146
+200170583|5||||Asteroid.Trojan.2000 WW146
+200170584|5||||Asteroid.Trojan.2000 WW146
+200170585|5||||Asteroid.Trojan.2000 WW146
+200170586|5||||Asteroid.Trojan.2000 WW146
+200170587|5||||Asteroid.Trojan.2000 WW146
+200170588|5||||Asteroid.Trojan.2000 WW146
+200170589|5||||Asteroid.Trojan.2000 WW146
+200170590|5||||Asteroid.Trojan.2000 WW146
+200170591|5||||Asteroid.Trojan.2000 WW146
+200170592|5||||Asteroid.Trojan.2000 WW146
+200170593|5||||Asteroid.Trojan.2000 WW146
+200170594|5||||Asteroid.Trojan.2000 WW146
+200170595|5||||Asteroid.Trojan.2000 WW146
+200170596|5||||Asteroid.Trojan.2000 WW146
+200170597|5||||Asteroid.Trojan.2000 WW146
+200170598|5||||Asteroid.Trojan.2000 WW146
+200170599|5||||Asteroid.Trojan.2000 WW146
+200170600|5||||Asteroid.Trojan.2000 WW146
+200170601|5||||Asteroid.Trojan.2000 WW146
+200170602|5||||Asteroid.Trojan.2000 WW146
+200170603|5||||Asteroid.Trojan.2000 WW146
+200170604|5||||Asteroid.Trojan.2000 WW146
+200170605|5||||Asteroid.Trojan.2000 WW146
+200170606|5||||Asteroid.Trojan.2000 WW146
+200170607|5||||Asteroid.Trojan.2000 WW146
+200170608|5||||Asteroid.Trojan.2000 WW146
+200170609|5||||Asteroid.Trojan.2000 WW146
+200170610|5||||Asteroid.Trojan.2000 WW146
+200170611|5||||Asteroid.Trojan.2000 WW146
+200170612|5||||Asteroid.Trojan.2000 WW146
+200170613|5||||Asteroid.Trojan.2000 WW146
+200170614|5||||Asteroid.Trojan.2000 WW146
+200170615|5||||Asteroid.Trojan.2000 WW146
+200170616|5||||Asteroid.Trojan.2000 WW146
+200170617|5||||Asteroid.Trojan.2000 WW146
+200170618|5||||Asteroid.Trojan.2000 WW146
+200170619|5||||Asteroid.Trojan.2000 WW146
+200170620|5||||Asteroid.Trojan.2000 WW146
+200170621|5||||Asteroid.Trojan.2000 WW146
+200170622|5||||Asteroid.Trojan.2000 WW146
+200170623|5||||Asteroid.Trojan.2000 WW146
+200170624|5||||Asteroid.Trojan.2000 WW146
+200170625|5||||Asteroid.Trojan.2000 WW146
+200170626|5||||Asteroid.Trojan.2000 WW146
+200170627|5||||Asteroid.Trojan.2000 WW146
+200170628|5||||Asteroid.Trojan.2000 WW146
+200170629|5||||Asteroid.Trojan.2000 WW146
+200170630|5||||Asteroid.Trojan.2000 WW146
+200170631|5||||Asteroid.Trojan.2000 WW146
+200170632|5||||Asteroid.Trojan.2000 WW146
+200170633|5||||Asteroid.Trojan.2000 WW146
+200170634|5||||Asteroid.Trojan.2000 WW146
+200170635|5||||Asteroid.Trojan.2000 WW146
+200170636|5||||Asteroid.Trojan.2000 WW146
+200170637|5||||Asteroid.Trojan.2000 WW146
+200170638|5||||Asteroid.Trojan.2000 WW146
+200170639|5||||Asteroid.Trojan.2000 WW146
+200170640|5||||Asteroid.Trojan.2000 WW146
+200170641|5||||Asteroid.Trojan.2000 WW146
+200170642|5||||Asteroid.Trojan.2000 WW146
+200170643|5||||Asteroid.Trojan.2000 WW146
+200170644|5||||Asteroid.Trojan.2000 WW146
+200170645|5||||Asteroid.Trojan.2000 WW146
+200170646|5||||Asteroid.Trojan.2000 WW146
+200170647|5||||Asteroid.Trojan.2000 WW146
+200170648|5||||Asteroid.Trojan.2000 WW146
+200170649|5||||Asteroid.Trojan.2000 WW146
+200170650|5||||Asteroid.Trojan.2000 WW146
+200170651|5||||Asteroid.Trojan.2000 WW146
+200170652|5||||Asteroid.Trojan.2000 WW146
+200170653|5||||Asteroid.Trojan.2000 WW146
+200170654|5||||Asteroid.Trojan.2000 WW146
+200170655|5||||Asteroid.Trojan.2000 WW146
+200170656|5||||Asteroid.Trojan.2000 WW146
+200170657|5||||Asteroid.Trojan.2000 WW146
+200170658|5||||Asteroid.Trojan.2000 WW146
+200170659|5||||Asteroid.Trojan.2000 WW146
+200170660|5||||Asteroid.Trojan.2000 WW146
+200170661|5||||Asteroid.Trojan.2000 WW146
+200170662|5||||Asteroid.Trojan.2000 WW146
+200170663|5||||Asteroid.Trojan.2000 WW146
+200170664|5||||Asteroid.Trojan.2000 WW146
+200170665|5||||Asteroid.Trojan.2000 WW146
+200170666|5||||Asteroid.Trojan.2000 WW146
+200170667|5||||Asteroid.Trojan.2000 WW146
+200170668|5||||Asteroid.Trojan.2000 WW146
+200170669|5||||Asteroid.Trojan.2000 WW146
+200170670|5||||Asteroid.Trojan.2000 WW146
+200170671|5||||Asteroid.Trojan.2000 WW146
+200170672|5||||Asteroid.Trojan.2000 WW146
+200170673|5||||Asteroid.Trojan.2000 WW146
+200170674|5||||Asteroid.Trojan.2000 WW146
+200170675|5||||Asteroid.Trojan.2000 WW146
+200170676|5||||Asteroid.Trojan.2000 WW146
+200170677|5||||Asteroid.Trojan.2000 WW146
+200170678|5||||Asteroid.Trojan.2000 WW146
+200170679|5||||Asteroid.Trojan.2000 WW146
+200170680|5||||Asteroid.Trojan.2000 WW146
+200170681|5||||Asteroid.Trojan.2000 WW146
+200170682|5||||Asteroid.Trojan.2000 WW146
+200170683|5||||Asteroid.Trojan.2000 WW146
+200170684|5||||Asteroid.Trojan.2000 WW146
+200170685|5||||Asteroid.Trojan.2000 WW146
+200170686|5||||Asteroid.Trojan.2000 WW146
+200170687|5||||Asteroid.Trojan.2000 WW146
+200170688|5||||Asteroid.Trojan.2000 WW146
+200170689|5||||Asteroid.Trojan.2000 WW146
+200170690|5||||Asteroid.Trojan.2000 WW146
+200170691|5||||Asteroid.Trojan.2000 WW146
+200170692|5||||Asteroid.Trojan.2000 WW146
+200170693|5||||Asteroid.Trojan.2000 WW146
+200170694|5||||Asteroid.Trojan.2000 WW146
+200170695|5||||Asteroid.Trojan.2000 WW146
+200170696|5||||Asteroid.Trojan.2000 WW146
+200170697|5||||Asteroid.Trojan.2000 WW146
+200170698|5||||Asteroid.Trojan.2000 WW146
+200170699|5||||Asteroid.Trojan.2000 WW146
+200170700|5||||Asteroid.Trojan.2000 WW146
+200170701|5||||Asteroid.Trojan.2000 WW146
+200170702|5||||Asteroid.Trojan.2000 WW146
+200170703|5||||Asteroid.Trojan.2000 WW146
+200170704|5||||Asteroid.Trojan.2000 WW146
+200170705|5||||Asteroid.Trojan.2000 WW146
+200170706|5||||Asteroid.Trojan.2002 CR306
+200170707|5||||Asteroid.Trojan.2002 CR306
+200170708|5||||Asteroid.Trojan.2002 CR306
+200170709|5||||Asteroid.Trojan.2002 CR306
+200170710|5||||Asteroid.Trojan.2002 CR306
+200170711|5||||Asteroid.Trojan.2002 CR306
+200170712|5||||Asteroid.Trojan.2002 CR306
+200170713|5||||Asteroid.Trojan.2002 CR306
+200170714|5||||Asteroid.Trojan.2002 CR306
+200170715|5||||Asteroid.Trojan.2002 CR306
+200170716|5||||Asteroid.Trojan.2002 CR306
+200170717|5||||Asteroid.Trojan.2002 CR306
+200170718|5||||Asteroid.Trojan.2002 CR306
+200170719|5||||Asteroid.Trojan.2002 CR306
+200170720|5||||Asteroid.Trojan.2002 CR306
+200170721|5||||Asteroid.Trojan.2002 CR306
+200170722|5||||Asteroid.Trojan.2002 CR306
+200170723|5||||Asteroid.Trojan.2002 CR306
+200170724|5||||Asteroid.Trojan.2002 CR306
+200170725|5||||Asteroid.Trojan.2002 CR306
+200170726|5||||Asteroid.Trojan.2002 CR306
+200170727|5||||Asteroid.Trojan.2002 CR306
+200170728|5||||Asteroid.Trojan.2002 CR306
+200170729|5||||Asteroid.Trojan.2002 CR306
+200170730|5||||Asteroid.Trojan.2002 CR306
+200170731|5||||Asteroid.Trojan.2002 CR306
+200170732|5||||Asteroid.Trojan.2002 CR306
+200170733|5||||Asteroid.Trojan.2002 CR306
+200170734|5||||Asteroid.Trojan.2002 CR306
+200170735|5||||Asteroid.Trojan.2002 CR306
+200170736|5||||Asteroid.Trojan.2002 CR306
+200170737|5||||Asteroid.Trojan.2002 CR306
+200170738|5||||Asteroid.Trojan.2002 CR306
+200170739|5||||Asteroid.Trojan.2002 CR306
+200170740|5||||Asteroid.Trojan.2002 CR306
+200170741|5||||Asteroid.Trojan.2002 CR306
+200170742|5||||Asteroid.Trojan.2002 CR306
+200170743|5||||Asteroid.Trojan.2002 CR306
+200170744|5||||Asteroid.Trojan.2002 CR306
+200170745|5||||Asteroid.Trojan.2002 CR306
+200170746|5||||Asteroid.Trojan.2002 CR306
+200170747|5||||Asteroid.Trojan.2002 CR306
+200170748|5||||Asteroid.Trojan.2002 CR306
+200170749|5||||Asteroid.Trojan.2002 CR306
+200170750|5||||Asteroid.Trojan.2002 CR306
+200170751|5||||Asteroid.Trojan.2002 CR306
+200170752|5||||Asteroid.Trojan.2002 CR306
+200170753|5||||Asteroid.Trojan.2002 CR306
+200170754|5||||Asteroid.Trojan.2002 CR306
+200170755|5||||Asteroid.Trojan.2002 CR306
+200170756|5||||Asteroid.Trojan.2002 CR306
+200170757|5||||Asteroid.Trojan.2002 CR306
+200170758|5||||Asteroid.Trojan.2002 CR306
+200170759|5||||Asteroid.Trojan.2002 CR306
+200170760|5||||Asteroid.Trojan.2002 CR306
+200170761|5||||Asteroid.Trojan.2002 CR306
+200170762|5||||Asteroid.Trojan.2002 CR306
+200170763|5||||Asteroid.Trojan.2002 CR306
+200170764|5||||Asteroid.Trojan.2002 CR306
+200170765|5||||Asteroid.Trojan.2002 CR306
+200170766|5||||Asteroid.Trojan.2002 CR306
+200170767|5||||Asteroid.Trojan.2002 CR306
+200170768|5||||Asteroid.Trojan.2002 CR306
+200170769|5||||Asteroid.Trojan.2002 CR306
+200170770|5||||Asteroid.Trojan.2002 CR306
+200170771|5||||Asteroid.Trojan.2002 CR306
+200170772|5||||Asteroid.Trojan.2002 CR306
+200170773|5||||Asteroid.Trojan.2002 CR306
+200170774|5||||Asteroid.Trojan.2002 CR306
+200170775|5||||Asteroid.Trojan.2002 CR306
+200170776|5||||Asteroid.Trojan.2002 CR306
+200170777|5||||Asteroid.Trojan.2002 CR306
+200170778|5||||Asteroid.Trojan.2002 CR306
+200170779|5||||Asteroid.Trojan.2002 CR306
+200170780|5||||Asteroid.Trojan.2002 CR306
+200170781|5||||Asteroid.Trojan.2002 CR306
+200170782|5||||Asteroid.Trojan.2002 CR306
+200170783|5||||Asteroid.Trojan.2002 CR306
+200170784|5||||Asteroid.Trojan.2002 CR306
+200170785|5||||Asteroid.Trojan.2002 CR306
+200170786|5||||Asteroid.Trojan.2002 CR306
+200170787|5||||Asteroid.Trojan.2002 CR306
+200170788|5||||Asteroid.Trojan.2002 CR306
+200170789|5||||Asteroid.Trojan.2002 CR306
+200170790|5||||Asteroid.Trojan.2002 CR306
+200170791|5||||Asteroid.Trojan.2002 CR306
+200170792|5||||Asteroid.Trojan.2002 CR306
+200170793|5||||Asteroid.Trojan.2002 CR306
+200170794|5||||Asteroid.Trojan.2002 CR306
+200170795|5||||Asteroid.Trojan.2002 CR306
+200170796|5||||Asteroid.Trojan.2002 CR306
+200170797|5||||Asteroid.Trojan.2002 CR306
+200170798|5||||Asteroid.Trojan.2002 CR306
+200170799|5||||Asteroid.Trojan.2002 CR306
+200170800|5||||Asteroid.Trojan.2002 CR306
+200170801|5||||Asteroid.Trojan.2002 CR306
+200170802|5||||Asteroid.Trojan.2002 CR306
+200170803|5||||Asteroid.Trojan.2002 CR306
+200170804|5||||Asteroid.Trojan.2002 CR306
+200170805|5||||Asteroid.Trojan.2002 CR306
+200170806|5||||Asteroid.Trojan.2002 CR306
+200170807|5||||Asteroid.Trojan.2002 CR306
+200170808|5||||Asteroid.Trojan.2002 CR306
+200170809|5||||Asteroid.Trojan.2002 CR306
+200170810|5||||Asteroid.Trojan.2002 CR306
+200170811|5||||Asteroid.Trojan.2002 CR306
+200170812|5||||Asteroid.Trojan.2002 CR306
+200170813|5||||Asteroid.Trojan.2002 CR306
+200170814|5||||Asteroid.Trojan.2002 CR306
+200170815|5||||Asteroid.Trojan.2002 CR306
+200170816|5||||Asteroid.Trojan.2002 CR306
+200170817|5||||Asteroid.Trojan.2002 CR306
+200170818|5||||Asteroid.Trojan.2002 CR306
+200170819|5||||Asteroid.Trojan.2002 CR306
+200170820|5||||Asteroid.Trojan.2002 CR306
+200170821|5||||Asteroid.Trojan.2002 CR306
+200170822|5||||Asteroid.Trojan.2002 CR306
+200170823|5||||Asteroid.Trojan.2002 CR306
+200170824|5||||Asteroid.Trojan.2002 CR306
+200170825|5||||Asteroid.Trojan.2002 CR306
+200170826|5||||Asteroid.Trojan.2002 CR306
+200170827|5||||Asteroid.Trojan.2002 CR306
+200170828|5||||Asteroid.Trojan.2002 CR306
+200170829|5||||Asteroid.Trojan.2002 CR306
+200170830|5||||Asteroid.Trojan.2002 CR306
+200170831|5||||Asteroid.Trojan.2002 CR306
+200170832|5||||Asteroid.Trojan.2002 CR306
+200170833|5||||Asteroid.Trojan.2002 CR306
+200170834|5||||Asteroid.Trojan.2002 CR306
+200170835|5||||Asteroid.Trojan.2002 CR306
+200170836|5||||Asteroid.Trojan.2002 CR306
+200170837|5||||Asteroid.Trojan.2002 CR306
+200170838|5||||Asteroid.Trojan.2002 CR306
+200170839|5||||Asteroid.Trojan.2002 CR306
+200170840|5||||Asteroid.Trojan.2002 CR306
+200170841|5||||Asteroid.Trojan.2002 CR306
+200170842|5||||Asteroid.Trojan.2002 CR306
+200170843|5||||Asteroid.Trojan.2002 CR306
+200170844|5||||Asteroid.Trojan.2002 CR306
+200170845|5||||Asteroid.Trojan.2002 CR306
+200170846|5||||Asteroid.Trojan.2002 CR306
+200170847|5||||Asteroid.Trojan.2002 CR306
+200170848|5||||Asteroid.Trojan.2002 CR306
+200170849|5||||Asteroid.Trojan.2002 CR306
+200170850|5||||Asteroid.Trojan.2002 CR306
+200170851|5||||Asteroid.Trojan.2002 CR306
+200170852|5||||Asteroid.Trojan.2002 CR306
+200170853|5||||Asteroid.Trojan.2002 CR306
+200170854|5||||Asteroid.Trojan.2002 CR306
+200170855|5||||Asteroid.Trojan.2002 CR306
+200170856|5||||Asteroid.Trojan.2002 CR306
+200170857|5||||Asteroid.Trojan.2002 CR306
+200170858|5||||Asteroid.Trojan.2002 CR306
+200170859|5||||Asteroid.Trojan.2002 CR306
+200170860|5||||Asteroid.Trojan.2002 CR306
+200170861|5||||Asteroid.Trojan.2002 CR306
+200170862|5||||Asteroid.Trojan.2002 CR306
+200170863|5||||Asteroid.Trojan.2002 CR306
+200170864|5||||Asteroid.Trojan.2002 CR306
+200170865|5||||Asteroid.Trojan.2002 CR306
+200170866|5||||Asteroid.Trojan.2002 CR306
+200170867|5||||Asteroid.Trojan.2002 CR306
+200170868|5||||Asteroid.Trojan.2002 CR306
+200170869|5||||Asteroid.Trojan.2002 CR306
+200170870|5||||Asteroid.Trojan.2002 CR306
+200170871|5||||Asteroid.Trojan.2002 CR306
+200170872|5||||Asteroid.Trojan.2002 CR306
+200170873|5||||Asteroid.Trojan.2002 CR306
+200170874|5||||Asteroid.Trojan.2002 CR306
+200170875|5||||Asteroid.Trojan.2002 CR306
+200170876|5||||Asteroid.Trojan.2002 CR306
+200170877|5||||Asteroid.Trojan.2002 CR306
+200170878|5||||Asteroid.Trojan.2002 CR306
+200170879|5||||Asteroid.Trojan.2002 CR306
+200170880|5||||Asteroid.Trojan.2002 CR306
+200170881|5||||Asteroid.Trojan.2002 CR306
+200170882|5||||Asteroid.Trojan.2002 CR306
+200170883|5||||Asteroid.Trojan.2002 CR306
+200170884|5||||Asteroid.Trojan.2002 CR306
+200170885|5||||Asteroid.Trojan.2002 CR306
+200170886|5||||Asteroid.Trojan.2002 CR306
+200170887|5||||Asteroid.Trojan.2002 CR306
+200170888|5||||Asteroid.Trojan.2002 CR306
+200170889|5||||Asteroid.Trojan.2002 CR306
+200170890|5||||Asteroid.Trojan.2002 CR306
+200170891|5||||Asteroid.Trojan.2002 CR306
+200170892|5||||Asteroid.Trojan.2002 CR306
+200170893|5||||Asteroid.Trojan.2002 CR306
+200170894|5||||Asteroid.Trojan.2002 CR306
+200170895|5||||Asteroid.Trojan.2002 CR306
+200170896|5||||Asteroid.Trojan.2002 CR306
+200170897|5||||Asteroid.Trojan.2002 CR306
+200170898|5||||Asteroid.Trojan.2002 CR306
+200170899|5||||Asteroid.Trojan.2002 CR306
+200170900|5||||Asteroid.Trojan.2002 CR306
+200170901|5||||Asteroid.Trojan.2002 CR306
+200170902|5||||Asteroid.Trojan.2002 CR306
+200170903|5||||Asteroid.Trojan.2002 CR306
+200170904|5||||Asteroid.Trojan.2002 CR306
+200170905|5||||Asteroid.Trojan.2002 CR306
+200170906|5||||Asteroid.Trojan.2002 CR306
+200170907|5||||Asteroid.Trojan.2002 CR306
+200170908|5||||Asteroid.Trojan.2002 CR306
+200170909|5||||Asteroid.Trojan.2002 CR306
+200170910|5||||Asteroid.Trojan.2002 CR306
+200170911|5||||Asteroid.Trojan.2002 CR306
+200170912|5||||Asteroid.Trojan.2002 CR306
+200170913|5||||Asteroid.Trojan.2002 CR306
+200170914|5||||Asteroid.Trojan.2002 CR306
+200170915|5||||Asteroid.Trojan.2002 CR306
+200170916|5||||Asteroid.Trojan.2002 CR306
+200170917|5||||Asteroid.Trojan.2002 CR306
+200170918|5||||Asteroid.Trojan.2002 CR306
+200170919|5||||Asteroid.Trojan.2002 CR306
+200170920|5||||Asteroid.Trojan.2002 CR306
+200170921|5||||Asteroid.Trojan.2002 CR306
+200170922|5||||Asteroid.Trojan.2002 CR306
+200170923|5||||Asteroid.Trojan.2002 CR306
+200170924|5||||Asteroid.Trojan.2002 CR306
+200170925|5||||Asteroid.Trojan.2002 CR306
+200170926|5||||Asteroid.Trojan.2002 CR306
+200170927|5||||Asteroid.Trojan.2002 CR306
+200170928|5||||Asteroid.Trojan.2002 CR306
+200170929|5||||Asteroid.Trojan.2002 CR306
+200170930|5||||Asteroid.Trojan.2002 CR306
+200170931|5||||Asteroid.Trojan.2002 CR306
+200170932|5||||Asteroid.Trojan.2002 CR306
+200170933|5||||Asteroid.Trojan.2002 CR306
+200170934|5||||Asteroid.Trojan.2002 CR306
+200170935|5||||Asteroid.Trojan.2002 CR306
+200170936|5||||Asteroid.Trojan.2002 CR306
+200170937|5||||Asteroid.Trojan.2002 CR306
+200170938|5||||Asteroid.Trojan.2002 CR306
+200170939|5||||Asteroid.Trojan.2002 CR306
+200170940|5||||Asteroid.Trojan.2002 CR306
+200170941|5||||Asteroid.Trojan.2002 CR306
+200170942|5||||Asteroid.Trojan.2002 CR306
+200170943|5||||Asteroid.Trojan.2002 CR306
+200170944|5||||Asteroid.Trojan.2002 CR306
+200170945|5||||Asteroid.Trojan.2002 CR306
+200170946|5||||Asteroid.Trojan.2002 CR306
+200170947|5||||Asteroid.Trojan.2002 CR306
+200170948|5||||Asteroid.Trojan.2002 CR306
+200170949|5||||Asteroid.Trojan.2002 CR306
+200170950|5||||Asteroid.Trojan.2002 CR306
+200170951|5||||Asteroid.Trojan.2002 CR306
+200170952|5||||Asteroid.Trojan.2002 CR306
+200170953|5||||Asteroid.Trojan.2002 CR306
+200170954|5||||Asteroid.Trojan.2002 CR306
+200170955|5||||Asteroid.Trojan.2002 CR306
+200170956|5||||Asteroid.Trojan.2002 CR306
+200170957|5||||Asteroid.Trojan.2002 CR306
+200170958|5||||Asteroid.Trojan.2002 CR306
+200170959|5||||Asteroid.Trojan.2002 CR306
+200170960|5||||Asteroid.Trojan.2002 CR306
+200170961|5||||Asteroid.Trojan.2002 CR306
+200170962|5||||Asteroid.Trojan.2002 CR306
+200170963|5||||Asteroid.Trojan.2002 CR306
+200170964|5||||Asteroid.Trojan.2002 CR306
+200170965|5||||Asteroid.Trojan.2002 CR306
+200170966|5||||Asteroid.Trojan.2002 CR306
+200170967|5||||Asteroid.Trojan.2002 CR306
+200170968|5||||Asteroid.Trojan.2002 CR306
+200170969|5||||Asteroid.Trojan.2002 CR306
+200170970|5||||Asteroid.Trojan.2002 CR306
+200170971|5||||Asteroid.Trojan.2002 CR306
+200170972|5||||Asteroid.Trojan.2002 CR306
+200170973|5||||Asteroid.Trojan.2002 CR306
+200170974|5||||Asteroid.Trojan.2002 CR306
+200170975|5||||Asteroid.Trojan.2002 CR306
+200170976|5||||Asteroid.Trojan.2002 CR306
+200170977|5||||Asteroid.Trojan.2002 CR306
+200170978|5||||Asteroid.Trojan.2002 CR306
+200170979|5||||Asteroid.Trojan.2002 CR306
+200170980|5||||Asteroid.Trojan.2002 CR306
+200170981|5||||Asteroid.Trojan.2002 CR306
+200170982|5||||Asteroid.Trojan.2002 CR306
+200170983|5||||Asteroid.Trojan.2002 CR306
+200170984|5||||Asteroid.Trojan.2002 CR306
+200170985|5||||Asteroid.Trojan.2002 CR306
+200170986|5||||Asteroid.Trojan.2002 CR306
+200170987|5||||Asteroid.Trojan.2002 CR306
+200170988|5||||Asteroid.Trojan.2002 CR306
+200170989|5||||Asteroid.Trojan.2002 CR306
+200170990|5||||Asteroid.Trojan.2002 CR306
+200170991|5||||Asteroid.Trojan.2002 CR306
+200170992|5||||Asteroid.Trojan.2002 CR306
+200170993|5||||Asteroid.Trojan.2002 CR306
+200170994|5||||Asteroid.Trojan.2002 CR306
+200170995|5||||Asteroid.Trojan.2002 CR306
+200170996|5||||Asteroid.Trojan.2002 CR306
+200170997|5||||Asteroid.Trojan.2002 CR306
+200170998|5||||Asteroid.Trojan.2002 CR306
+200170999|5||||Asteroid.Trojan.2002 CR306
+200171000|5||||Asteroid.Trojan.2002 CR306
+200171001|5||||Asteroid.Trojan.2002 CR306
+200171002|5||||Asteroid.Trojan.2002 CR306
+200171003|5||||Asteroid.Trojan.2002 CR306
+200171004|5||||Asteroid.Trojan.2002 CR306
+200171005|5||||Asteroid.Trojan.2002 CR306
+200171006|5||||Asteroid.Trojan.2002 CR306
+200171007|5||||Asteroid.Trojan.2002 CR306
+200171008|5||||Asteroid.Trojan.2002 CR306
+200171009|5||||Asteroid.Trojan.2002 CR306
+200171010|5||||Asteroid.Trojan.2002 CR306
+200171011|5||||Asteroid.Trojan.2002 CR306
+200171012|5||||Asteroid.Trojan.2002 CR306
+200171013|5||||Asteroid.Trojan.2002 CR306
+200171014|5||||Asteroid.Trojan.2002 CR306
+200171015|5||||Asteroid.Trojan.2002 CR306
+200171016|5||||Asteroid.Trojan.2002 CR306
+200171017|5||||Asteroid.Trojan.2002 CR306
+200171018|5||||Asteroid.Trojan.2002 CR306
+200171019|5||||Asteroid.Trojan.2002 CR306
+200171020|5||||Asteroid.Trojan.2002 CR306
+200171021|5||||Asteroid.Trojan.2002 CR306
+200171022|5||||Asteroid.Trojan.2002 CR306
+200171023|5||||Asteroid.Trojan.2002 CR306
+200171024|5||||Asteroid.Trojan.2002 CR306
+200171025|5||||Asteroid.Trojan.2002 CR306
+200171026|5||||Asteroid.Trojan.2002 CR306
+200171027|5||||Asteroid.Trojan.2002 CR306
+200171028|5||||Asteroid.Trojan.2002 CR306
+200171029|5||||Asteroid.Trojan.2002 CR306
+200171030|5||||Asteroid.Trojan.2002 CR306
+200171031|5||||Asteroid.Trojan.2002 CR306
+200171032|5||||Asteroid.Trojan.2002 CR306
+200171033|5||||Asteroid.Trojan.2002 CR306
+200171034|5||||Asteroid.Trojan.2002 CR306
+200171035|5||||Asteroid.Trojan.2002 CR306
+200171036|5||||Asteroid.Trojan.2002 CR306
+200171037|5||||Asteroid.Trojan.2002 CR306
+200171038|5||||Asteroid.Trojan.2002 CR306
+200171039|5||||Asteroid.Trojan.2002 CR306
+200171040|5||||Asteroid.Trojan.2002 CR306
+200171041|5||||Asteroid.Trojan.2002 CR306
+200171042|5||||Asteroid.Trojan.2002 CR306
+200171043|5||||Asteroid.Trojan.2002 CR306
+200171044|5||||Asteroid.Trojan.2002 CR306
+200171045|5||||Asteroid.Trojan.2002 CR306
+200171046|5||||Asteroid.Trojan.2002 CR306
+200171047|5||||Asteroid.Trojan.2002 CR306
+200171048|5||||Asteroid.Trojan.2002 CR306
+200171049|5||||Asteroid.Trojan.2002 CR306
+200171050|5||||Asteroid.Trojan.2002 CR306
+200171051|5||||Asteroid.Trojan.2002 CR306
+200171052|5||||Asteroid.Trojan.2002 CR306
+200171053|5||||Asteroid.Trojan.2002 CR306
+200171054|5||||Asteroid.Trojan.2002 CR306
+200171055|5||||Asteroid.Trojan.2002 CR306
+200171056|5||||Asteroid.Trojan.2002 CR306
+200171057|5||||Asteroid.Trojan.2002 CR306
+200171058|5||||Asteroid.Trojan.2002 CR306
+200171059|5||||Asteroid.Trojan.2002 CR306
+200171060|5||||Asteroid.Trojan.2002 CR306
+200171061|5||||Asteroid.Trojan.2002 CR306
+200171062|5||||Asteroid.Trojan.2002 CR306
+200171063|5||||Asteroid.Trojan.2002 CR306
+200171064|5||||Asteroid.Trojan.2002 CR306
+200171065|5||||Asteroid.Trojan.2002 CR306
+200171066|5||||Asteroid.Trojan.2002 CR306
+200171067|5||||Asteroid.Trojan.2002 CR306
+200171068|5||||Asteroid.Trojan.2002 CR306
+200171069|5||||Asteroid.Trojan.2002 CR306
+200171070|5||||Asteroid.Trojan.2002 CR306
+200171071|5||||Asteroid.Trojan.2002 CR306
+200171072|5||||Asteroid.Trojan.2002 CR306
+200171073|5||||Asteroid.Trojan.2002 CR306
+200171074|5||||Asteroid.Trojan.2002 CR306
+200171075|5||||Asteroid.Trojan.2002 CR306
+200171076|5||||Asteroid.Trojan.2002 CR306
+200171077|5||||Asteroid.Trojan.2002 CR306
+200171078|5||||Asteroid.Trojan.2002 CR306
+200171079|5||||Asteroid.Trojan.2002 CR306
+200171080|5||||Asteroid.Trojan.2002 CR306
+200171081|5||||Asteroid.Trojan.2002 CR306
+200171082|5||||Asteroid.Trojan.2002 CR306
+200171083|5||||Asteroid.Trojan.2002 CR306
+200171084|5||||Asteroid.Trojan.2002 CR306
+200171085|5||||Asteroid.Trojan.2002 CR306
+200171086|5||||Asteroid.Trojan.2002 CR306
+200171087|5||||Asteroid.Trojan.2002 CR306
+200171088|5||||Asteroid.Trojan.2002 CR306
+200171089|5||||Asteroid.Trojan.2002 CR306
+200171090|5||||Asteroid.Trojan.2002 CR306
+200171091|5||||Asteroid.Trojan.2002 CR306
+200171092|5||||Asteroid.Trojan.2002 CR306
+200171093|5||||Asteroid.Trojan.2002 CR306
+200171094|5||||Asteroid.Trojan.2002 CR306
+200171095|5||||Asteroid.Trojan.2002 CR306
+200171096|5||||Asteroid.Trojan.2002 CR306
+200171097|5||||Asteroid.Trojan.2002 CR306
+200171098|5||||Asteroid.Trojan.2002 CR306
+200171099|5||||Asteroid.Trojan.2002 CR306
+200171100|5||||Asteroid.Trojan.2002 CR306
+200171101|5||||Asteroid.Trojan.2002 CR306
+200171102|5||||Asteroid.Trojan.2002 CR306
+200171103|5||||Asteroid.Trojan.2002 CR306
+200171104|5||||Asteroid.Trojan.2002 CR306
+200171105|5||||Asteroid.Trojan.2002 CR306
+200171106|5||||Asteroid.Trojan.2002 CR306
+200171107|5||||Asteroid.Trojan.2002 CR306
+200171108|5||||Asteroid.Trojan.2002 CR306
+200171109|5||||Asteroid.Trojan.2002 CR306
+200171110|5||||Asteroid.Trojan.2002 CR306
+200171111|5||||Asteroid.Trojan.2002 CR306
+200171112|5||||Asteroid.Trojan.2002 CR306
+200171113|5||||Asteroid.Trojan.2002 CR306
+200171114|5||||Asteroid.Trojan.2002 CR306
+200171115|5||||Asteroid.Trojan.2002 CR306
+200171116|5||||Asteroid.Trojan.2002 CR306
+200171117|5||||Asteroid.Trojan.2002 CR306
+200171118|5||||Asteroid.Trojan.2002 CR306
+200171119|5||||Asteroid.Trojan.2002 CR306
+200171120|5||||Asteroid.Trojan.2002 CR306
+200171121|5||||Asteroid.Trojan.2002 CR306
+200171122|5||||Asteroid.Trojan.2002 CR306
+200171123|5||||Asteroid.Trojan.2002 CR306
+200171124|5||||Asteroid.Trojan.2002 CR306
+200171125|5||||Asteroid.Trojan.2002 CR306
+200171126|5||||Asteroid.Trojan.2002 CR306
+200171127|5||||Asteroid.Trojan.2002 CR306
+200171128|5||||Asteroid.Trojan.2002 CR306
+200171129|5||||Asteroid.Trojan.2002 CR306
+200171130|5||||Asteroid.Trojan.2002 CR306
+200171131|5||||Asteroid.Trojan.2002 CR306
+200171132|5||||Asteroid.Trojan.2002 CR306
+200171133|5||||Asteroid.Trojan.2002 CR306
+200171134|5||||Asteroid.Trojan.2002 CR306
+200171135|5||||Asteroid.Trojan.2002 CR306
+200171136|5||||Asteroid.Trojan.2002 CR306
+200171137|5||||Asteroid.Trojan.2002 CR306
+200171138|5||||Asteroid.Trojan.2002 CR306
+200171139|5||||Asteroid.Trojan.2002 CR306
+200171140|5||||Asteroid.Trojan.2002 CR306
+200171141|5||||TNO.2002 VS130
+200171142|5||||TNO.2002 VS130
+200171143|5||||TNO.2002 VS130
+200171144|5||||TNO.2002 VS130
+200171145|5||||TNO.2002 VS130
+200171146|5||||TNO.2002 VS130
+200171147|5||||TNO.2002 VS130
+200171148|5||||TNO.2002 VS130
+200171149|5||||TNO.2002 VS130
+200171150|5||||TNO.2002 VS130
+200171151|5||||TNO.2002 VS130
+200171152|5||||TNO.2002 VS130
+200171153|5||||TNO.2002 VS130
+200171154|5||||TNO.2002 VS130
+200171155|5||||TNO.2002 VS130
+200171156|5||||TNO.2002 VS130
+200171157|5||||TNO.2002 VS130
+200171158|5||||TNO.2002 VS130
+200171159|5||||TNO.2002 VS130
+200171160|5||||TNO.2002 VS130
+200171161|5||||TNO.2002 VS130
+200171162|5||||TNO.2002 VS130
+200171163|5||||TNO.2002 VS130
+200171164|5||||TNO.2002 VS130
+200171165|5||||TNO.2002 VS130
+200171166|5||||TNO.2002 VS130
+200171167|5||||TNO.2002 VS130
+200171168|5||||TNO.2002 VS130
+200171169|5||||TNO.2002 VS130
+200171170|5||||TNO.2002 VS130
+200171171|5||||TNO.2002 VS130
+200171172|5||||TNO.2002 VS130
+200171173|5||||TNO.2002 VS130
+200171174|5||||TNO.2002 VS130
+200171175|5||||TNO.2002 VS130
+200171176|5||||TNO.2002 VS130
+200171177|5||||TNO.2002 VS130
+200171178|5||||TNO.2002 VS130
+200171179|5||||TNO.2002 VS130
+200171180|5||||TNO.2002 VS130
+200171181|5||||TNO.2002 VS130
+200171182|5||||TNO.2002 VS130
+200171183|5||||TNO.2002 VS130
+200171184|5||||TNO.2002 VS130
+200171185|5||||TNO.2002 VS130
+200171186|5||||TNO.2002 VS130
+200171187|5||||TNO.2002 VS130
+200171188|5||||TNO.2002 VS130
+200171189|5||||TNO.2002 VS130
+200171190|5||||TNO.2002 VS130
+200171191|5||||TNO.2002 VS130
+200171192|5||||TNO.2002 VS130
+200171193|5||||TNO.2002 VS130
+200171194|5||||TNO.2002 VS130
+200171195|5||||TNO.2002 VS130
+200171196|5||||TNO.2002 VS130
+200171197|5||||TNO.2002 VS130
+200171198|5||||TNO.2002 VS130
+200171199|5||||TNO.2002 VS130
+200171200|5||||TNO.2002 VS130
+200171201|5||||TNO.2002 VS130
+200171202|5||||TNO.2002 VS130
+200171203|5||||TNO.2002 VS130
+200171204|5||||TNO.2002 VS130
+200171205|5||||TNO.2002 VS130
+200171206|5||||TNO.2002 VS130
+200171207|5||||TNO.2002 VS130
+200171208|5||||TNO.2002 VS130
+200171209|5||||TNO.2002 VS130
+200171210|5||||TNO.2002 VS130
+200171211|5||||TNO.2002 VS130
+200171212|5||||TNO.2002 VS130
+200171213|5||||TNO.2002 VS130
+200171214|5||||TNO.2002 VS130
+200171215|5||||TNO.2002 VS130
+200171216|5||||TNO.2002 VS130
+200171217|5||||TNO.2002 VS130
+200171218|5||||TNO.2002 VS130
+200171219|5||||TNO.2002 VS130
+200171220|5||||TNO.2002 VS130
+200171221|5||||TNO.2002 VS130
+200171222|5||||TNO.2002 VS130
+200171223|5||||TNO.2002 VS130
+200171224|5||||TNO.2002 VT130
+200171225|5||||TNO.2002 VT130
+200171226|5||||TNO.2002 VT130
+200171227|5||||TNO.2002 VT130
+200171228|5||||TNO.2002 VT130
+200171229|5||||TNO.2002 VT130
+200171230|5||||TNO.2002 VT130
+200171231|5||||TNO.2002 VT130
+200171232|5||||TNO.2002 VT130
+200171233|5||||TNO.2002 VT130
+200171234|5||||TNO.2002 VT130
+200171235|5||||TNO.2002 VT130
+200171236|5||||TNO.2002 VT130
+200171237|5||||TNO.2002 VT130
+200171238|5||||TNO.2002 VT130
+200171239|5||||TNO.2002 VT130
+200171240|5||||TNO.2002 VT130
+200171241|5||||TNO.2002 VT130
+200171242|5||||TNO.2002 VT130
+200171243|5||||TNO.2002 VT130
+200171244|5||||TNO.2002 VT130
+200171245|5||||TNO.2002 VT130
+200171246|5||||TNO.2002 VT130
+200171247|5||||TNO.2002 VT130
+200171248|5||||TNO.2002 VT130
+200171249|5||||TNO.2002 VT130
+200171250|5||||TNO.2002 VT130
+200171251|5||||TNO.2002 VT130
+200171252|5||||TNO.2002 VT130
+200171253|5||||TNO.2002 VT130
+200171254|5||||TNO.2002 VT130
+200171255|5||||TNO.2002 VT130
+200171256|5||||TNO.2002 VT130
+200171257|5||||TNO.2002 VT130
+200171258|5||||TNO.2002 VT130
+200171259|5||||TNO.2002 VT130
+200171260|5||||TNO.2002 VT130
+200171261|5||||TNO.2002 VT130
+200171262|5||||TNO.2002 VT130
+200171263|5||||TNO.2002 VT130
+200171264|5||||TNO.2002 VT130
+200171265|5||||TNO.2002 VT130
+200171266|5||||TNO.2002 VT130
+200171267|5||||TNO.2002 VT130
+200171268|5||||TNO.2002 VT130
+200171269|5||||TNO.2002 VT130
+200171270|5||||TNO.2002 VT130
+200171271|5||||TNO.2002 VT130
+200171272|5||||TNO.2002 VT130
+200171273|5||||TNO.2002 VT130
+200171274|5||||TNO.2002 VT130
+200171275|5||||TNO.2002 VT130
+200171276|5||||TNO.2002 VT130
+200171277|5||||TNO.2002 VT130
+200171278|5||||TNO.2002 VT130
+200171279|5||||TNO.2002 VT130
+200171280|5||||TNO.2002 VT130
+200171281|5||||TNO.2002 VT130
+200171282|5||||TNO.2002 VT130
+200171283|5||||TNO.2002 VT130
+200171284|5||||TNO.2002 VT130
+200171285|5||||TNO.2002 VT130
+200171286|5||||TNO.2002 VT130
+200171287|5||||TNO.2002 VT130
+200171288|5||||TNO.2002 VT130
+200171289|5||||TNO.2002 VT130
+200171290|5||||TNO.2002 VT130
+200171291|5||||TNO.2002 VT130
+200171292|5||||TNO.2002 VT130
+200171293|5||||TNO.2002 VT130
+200171294|5||||TNO.2002 VT130
+200171295|5||||TNO.2002 VT130
+200171296|5||||TNO.2002 VT130
+200171297|5||||TNO.2002 VT130
+200171298|5||||TNO.2002 VT130
+200171299|5||||TNO.2002 VT130
+200171300|5||||TNO.2002 VT130
+200171301|5||||TNO.2002 VT130
+200171302|5||||TNO.2002 VT130
+200171303|5||||TNO.2002 VU130
+200171304|5||||TNO.2002 VU130
+200171305|5||||TNO.2002 VU130
+200171306|5||||TNO.2002 VU130
+200171307|5||||TNO.2002 VU130
+200171308|5||||TNO.2002 VU130
+200171309|5||||TNO.2002 VU130
+200171310|5||||TNO.2002 VU130
+200171311|5||||TNO.2002 VU130
+200171312|5||||TNO.2002 VU130
+200171313|5||||TNO.2002 VU130
+200171314|5||||TNO.2002 VU130
+200171315|5||||TNO.2002 VU130
+200171316|5||||TNO.2002 VU130
+200171317|5||||TNO.2002 VU130
+200171318|5||||TNO.2002 VU130
+200171319|5||||TNO.2002 VU130
+200171320|5||||TNO.2002 VU130
+200171321|5||||TNO.2002 VU130
+200171322|5||||TNO.2002 VU130
+200171323|5||||TNO.2002 VU130
+200171324|5||||TNO.2002 VU130
+200171325|5||||TNO.2002 VU130
+200171326|5||||TNO.2002 VU130
+200171327|5||||TNO.2002 VU130
+200171328|5||||TNO.2002 VU130
+200171329|5||||TNO.2002 VU130
+200171330|5||||TNO.2002 VU130
+200171331|5||||TNO.2002 VU130
+200171332|5||||TNO.2002 VU130
+200171333|5||||TNO.2002 VU130
+200171334|5||||TNO.2002 VU130
+200171335|5||||TNO.2002 VU130
+200171336|5||||TNO.2002 VU130
+200171337|5||||TNO.2002 VU130
+200171338|5||||TNO.2002 VU130
+200171339|5||||TNO.2002 VU130
+200171340|5||||TNO.2002 VU130
+200171341|5||||TNO.2002 VU130
+200171342|5||||TNO.2002 VU130
+200171343|5||||TNO.2002 VU130
+200171344|5||||TNO.2002 VU130
+200171345|5||||TNO.2002 VU130
+200171346|5||||TNO.2002 VU130
+200171347|5||||TNO.2002 VU130
+200171348|5||||TNO.2002 VU130
+200171349|5||||TNO.2002 VU130
+200171350|5||||TNO.2002 VU130
+200171351|5||||TNO.2002 VU130
+200171352|5||||TNO.2002 VU130
+200171353|5||||TNO.2002 VU130
+200171354|5||||TNO.2002 VU130
+200171355|5||||TNO.2002 VU130
+200171356|5||||TNO.2002 VU130
+200171357|5||||TNO.2002 VU130
+200171358|5||||TNO.2002 VU130
+200171359|5||||TNO.2002 VU130
+200171360|5||||TNO.2002 VU130
+200171361|5||||TNO.2002 VU130
+200171362|5||||TNO.2002 VU130
+200171363|5||||TNO.2002 VU130
+200171364|5||||TNO.2002 VU130
+200171365|5||||TNO.2002 VU130
+200171366|5||||TNO.2002 VU130
+200171367|5||||TNO.2002 VU130
+200171368|5||||TNO.2002 VU130
+200171369|5||||TNO.2002 VU130
+200171370|5||||TNO.2002 VU130
+200171371|5||||TNO.2004 TF282
+200171372|5||||TNO.2004 TF282
+200171373|5||||TNO.2004 TF282
+200171374|5||||TNO.2004 TF282
+200171375|5||||TNO.2004 TF282
+200171376|5||||TNO.2004 TF282
+200171377|5||||TNO.2004 TF282
+200171378|5||||TNO.2004 TF282
+200171379|5||||TNO.2004 TF282
+200171380|5||||TNO.2004 TF282
+200171381|5||||TNO.2004 TF282
+200171382|5||||TNO.2004 TF282
+200171383|5||||TNO.2004 TF282
+200171384|5||||TNO.2004 TF282
+200171385|5||||TNO.2004 TF282
+200171386|5||||TNO.2004 TF282
+200171387|5||||TNO.2004 TF282
+200171388|5||||TNO.2004 TF282
+200171389|5||||TNO.2004 TF282
+200171390|5||||TNO.2004 TF282
+200171391|5||||TNO.2004 TF282
+200171392|5||||TNO.2004 TF282
+200171393|5||||TNO.2004 TF282
+200171394|5||||TNO.2004 TF282
+200171395|5||||TNO.2004 TF282
+200171396|5||||TNO.2004 TF282
+200171397|5||||TNO.2004 TF282
+200171398|5||||TNO.2004 TF282
+200171399|5||||TNO.2004 TF282
+200171400|5||||TNO.2004 TF282
+200171401|5||||TNO.2004 TF282
+200171402|5||||TNO.2004 TF282
+200171403|5||||TNO.2004 TF282
+200171404|5||||TNO.2004 TF282
+200171405|5||||TNO.2004 TF282
+200171406|5||||TNO.2004 TF282
+200171407|5||||TNO.2004 TF282
+200171408|5||||TNO.2004 TF282
+200171409|5||||TNO.2004 TF282
+200171410|5||||TNO.2004 TF282
+200171411|5||||TNO.2004 TF282
+200171412|5||||TNO.2004 TF282
+200171413|5||||TNO.2004 TF282
+200171414|5||||TNO.2004 TF282
+200171415|5||||TNO.2004 TF282
+200171416|5||||TNO.2004 TF282
+200171417|5||||TNO.2004 TF282
+200171418|5||||TNO.2004 TF282
+200171419|5||||TNO.2004 TF282
+200171420|5||||TNO.2004 TF282
+200171421|5||||TNO.2004 TF282
+200171422|5||||TNO.2004 TF282
+200171423|5||||TNO.2004 TF282
+200171424|5||||TNO.2004 TF282
+200171425|5||||TNO.2004 TF282
+200171426|5||||TNO.2004 TF282
+200171427|5||||TNO.2004 TF282
+200171428|5||||TNO.2004 TF282
+200171429|5||||TNO.2004 TF282
+200171430|5||||TNO.2004 TF282
+200171431|5||||TNO.2004 TF282
+200171432|5||||TNO.2004 TF282
+200171433|5||||TNO.2004 TF282
+200171434|5||||TNO.2004 TF282
+200171435|5||||TNO.2004 TF282
+200171436|5||||TNO.2004 TF282
+200171437|5||||TNO.2004 TF282
+200171438|5||||TNO.2004 TF282
+200171439|5||||TNO.2004 TF282
+200171440|5||||TNO.2004 TF282
+200171441|5||||TNO.2004 TF282
+200171442|5||||TNO.2004 TF282
+200171443|5||||TNO.2004 TF282
+200171444|5||||TNO.2004 TF282
+200171445|5||||TNO.2004 TF282
+200171446|5||||TNO.2004 TF282
+200171447|5||||TNO.2004 TF282
+200171448|5||||TNO.2004 TF282
+200171449|5||||TNO.2004 TF282
+200171450|5||||TNO.2004 TF282
+200171451|5||||TNO.2004 TF282
+200171452|5||||TNO.2004 TF282
+200171453|5||||TNO.2004 TF282
+200171454|5||||TNO.2004 TF282
+200171455|5||||TNO.2004 TF282
+200171456|5||||TNO.2004 TF282
+200171457|5||||TNO.2004 TF282
+200171458|5||||TNO.2004 TF282
+200171459|5||||TNO.2004 TV357
+200171460|5||||TNO.2004 TV357
+200171461|5||||TNO.2004 TV357
+200171462|5||||TNO.2004 TV357
+200171463|5||||TNO.2004 TV357
+200171464|5||||TNO.2004 TV357
+200171465|5||||TNO.2004 TV357
+200171466|5||||TNO.2004 TV357
+200171467|5||||TNO.2004 TV357
+200171468|5||||TNO.2004 TV357
+200171469|5||||TNO.2004 TV357
+200171470|5||||TNO.2004 TV357
+200171471|5||||TNO.2004 TV357
+200171472|5||||TNO.2004 TV357
+200171473|5||||TNO.2004 TV357
+200171474|5||||TNO.2004 TV357
+200171475|5||||TNO.2004 TV357
+200171476|5||||TNO.2004 TV357
+200171477|5||||TNO.2004 TV357
+200171478|5||||TNO.2004 TV357
+200171479|5||||TNO.2004 TV357
+200171480|5||||TNO.2004 TV357
+200171481|5||||TNO.2004 TV357
+200171482|5||||TNO.2004 TV357
+200171483|5||||TNO.2004 TV357
+200171484|5||||TNO.2004 TV357
+200171485|5||||TNO.2004 TV357
+200171486|5||||TNO.2004 TV357
+200171487|5||||TNO.2004 TV357
+200171488|5||||TNO.2004 TV357
+200171489|5||||TNO.2004 TV357
+200171490|5||||TNO.2004 TV357
+200171491|5||||TNO.2004 TV357
+200171492|5||||TNO.2004 TV357
+200171493|5||||TNO.2004 TV357
+200171494|5||||TNO.2004 TV357
+200171495|5||||TNO.2004 TV357
+200171496|5||||TNO.2004 TV357
+200171497|5||||TNO.2004 TV357
+200171498|5||||TNO.2004 TV357
+200171499|5||||TNO.2004 TV357
+200171500|5||||TNO.2004 TV357
+200171501|5||||TNO.2004 TV357
+200171502|5||||TNO.2004 TV357
+200171503|5||||TNO.2004 TV357
+200171504|5||||TNO.2004 TV357
+200171505|5||||TNO.2004 TV357
+200171506|5||||TNO.2004 TV357
+200171507|5||||TNO.2004 TV357
+200171508|5||||TNO.2004 TV357
+200171509|5||||TNO.2004 TV357
+200171510|5||||TNO.2004 TV357
+200171511|5||||TNO.2004 TV357
+200171512|5||||TNO.2004 TV357
+200171513|5||||TNO.2004 TV357
+200171514|5||||TNO.2004 TV357
+200171515|5||||TNO.2004 TV357
+200171516|5||||TNO.2004 TV357
+200171517|5||||TNO.2004 TV357
+200171518|5||||TNO.2004 TV357
+200171519|5||||TNO.2004 TV357
+200171520|5||||TNO.2004 TV357
+200171521|5||||TNO.2004 TV357
+200171522|5||||TNO.2004 TV357
+200171523|5||||TNO.2004 TV357
+200171524|5||||TNO.2004 TV357
+200171525|5||||TNO.2004 TV357
+200171526|5||||TNO.2004 TV357
+200171527|5||||TNO.2004 TV357
+200171528|5||||TNO.2004 TV357
+200171529|5||||TNO.2004 TV357
+200171530|5||||TNO.2004 TV357
+200171531|5||||TNO.2004 TV357
+200171532|5||||TNO.2004 TV357
+200171533|5||||TNO.2004 TV357
+200171534|5||||TNO.2004 TV357
+200171535|5||||TNO.2004 TV357
+200171536|5||||TNO.2004 TV357
+200171537|5||||TNO.2004 TV357
+200171538|5||||TNO.2004 TV357
+200171539|5||||TNO.2004 TV357
+200171540|5||||TNO.2004 TV357
+200171541|5||||TNO.2004 TV357
+200171542|5||||TNO.2004 TV357
+200171543|5||||TNO.2004 TV357
+200171544|5||||TNO.2004 TV357
+200171545|5||||TNO.2004 TV357
+200171546|5||||TNO.2004 TV357
+200171547|5||||TNO.2004 TV357
+200171548|5||||TNO.2004 TV357
+200171549|5||||TNO.2004 TV357
+200171550|5||||TNO.2004 TV357
+200171551|5||||TNO.2004 TV357
+200171552|5||||TNO.2004 TV357
+200171553|5||||TNO.2004 TV357
+200171554|5||||TNO.2004 TV357
+200171555|5||||TNO.2004 TV357
+200171556|5||||TNO.2004 TV357
+200171557|5||||TNO.2004 TV357
+200171558|5||||TNO.2004 TV357
+200171559|5||||TNO.2004 TV357
+200171560|5||||TNO.2004 TV357
+200171561|5||||TNO.2004 XR190
+200171562|5||||TNO.2004 XR190
+200171563|5||||TNO.2004 XR190
+200171564|5||||TNO.2004 XR190
+200171565|5||||TNO.2004 XR190
+200171566|5||||TNO.2004 XR190
+200171567|5||||TNO.2004 XR190
+200171568|5||||TNO.2004 XR190
+200171569|5||||TNO.2004 XR190
+200171570|5||||TNO.2004 XR190
+200171571|5||||TNO.2004 XR190
+200171572|5||||TNO.2004 XR190
+200171573|5||||TNO.2004 XR190
+200171574|5||||TNO.2004 XR190
+200171575|5||||TNO.2004 XR190
+200171576|5||||TNO.2004 XR190
+200171577|5||||TNO.2004 XR190
+200171578|5||||TNO.2004 XR190
+200171579|5||||TNO.2004 XR190
+200171580|5||||TNO.2004 XR190
+200171581|5||||TNO.2004 XR190
+200171582|5||||TNO.2004 XR190
+200171583|5||||TNO.2004 XR190
+200171584|5||||TNO.2004 XR190
+200171585|5||||TNO.2004 XR190
+200171586|5||||TNO.2004 XR190
+200171587|5||||TNO.2004 XR190
+200171588|5||||TNO.2004 XR190
+200171589|5||||TNO.2004 XR190
+200171590|5||||TNO.2004 XR190
+200171591|5||||TNO.2004 XR190
+200171592|5||||TNO.2004 XR190
+200171593|5||||TNO.2004 XR190
+200171594|5||||TNO.2004 XR190
+200171595|5||||TNO.2004 XR190
+200171596|5||||TNO.2004 XR190
+200171597|5||||Asteroid.Trojan.2006 UB219
+200171598|5||||Asteroid.Trojan.2006 UB219
+200171599|5||||Asteroid.Trojan.2006 UB219
+200171600|5||||Asteroid.Trojan.2006 UB219
+200171601|5||||Asteroid.Trojan.2006 UB219
+200171602|5||||Asteroid.Trojan.2006 UB219
+200171603|5||||Asteroid.Trojan.2006 UB219
+200171604|5||||Asteroid.Trojan.2006 UB219
+200171605|5||||Asteroid.Trojan.2006 UB219
+200171606|5||||Asteroid.Trojan.2006 UB219
+200171607|5||||Asteroid.Trojan.2006 UB219
+200171608|5||||Asteroid.Trojan.2006 UB219
+200171609|5||||Asteroid.Trojan.2006 UB219
+200171610|5||||Asteroid.Trojan.2006 UB219
+200171611|5||||Asteroid.Trojan.2006 UB219
+200171612|5||||Asteroid.Trojan.2006 UB219
+200171613|5||||Asteroid.Trojan.2006 UB219
+200171614|5||||Asteroid.Trojan.2006 UB219
+200171615|5||||Asteroid.Trojan.2006 UB219
+200171616|5||||Asteroid.Trojan.2006 UB219
+200171617|5||||Asteroid.Trojan.2006 UB219
+200171618|5||||Asteroid.Trojan.2006 UB219
+200171619|5||||Asteroid.Trojan.2006 UB219
+200171620|5||||Asteroid.Trojan.2006 UB219
+200171621|5||||Asteroid.Trojan.2006 UB219
+200171622|5||||Asteroid.Trojan.2006 UB219
+200171623|5||||Asteroid.Trojan.2006 UB219
+200171624|5||||Asteroid.Trojan.2006 UB219
+200171625|5||||Asteroid.Trojan.2006 UB219
+200171626|5||||Asteroid.Trojan.2006 UB219
+200171627|5||||Asteroid.Trojan.2006 UB219
+200171628|5||||Asteroid.Trojan.2006 UB219
+200171629|5||||Asteroid.Trojan.2006 UB219
+200171630|5||||Asteroid.Trojan.2006 UB219
+200171631|5||||Asteroid.Trojan.2006 UB219
+200171632|5||||Asteroid.Trojan.2006 UB219
+200171633|5||||Asteroid.Trojan.2006 UB219
+200171634|5||||Asteroid.Trojan.2006 UB219
+200171635|5||||Asteroid.Trojan.2006 UB219
+200171636|5||||Asteroid.Trojan.2006 UB219
+200171637|5||||Asteroid.Trojan.2006 UB219
+200171638|5||||Asteroid.Trojan.2006 UB219
+200171639|5||||Asteroid.Trojan.2006 UB219
+200171640|5||||Asteroid.Trojan.2006 UB219
+200171641|5||||Asteroid.Trojan.2006 UB219
+200171642|5||||Asteroid.Trojan.2006 UB219
+200171643|5||||Asteroid.Trojan.2006 UB219
+200171644|5||||Asteroid.Trojan.2006 UB219
+200171645|5||||Asteroid.Trojan.2006 UB219
+200171646|5||||Asteroid.Trojan.2006 UB219
+200171647|5||||Asteroid.Trojan.2006 UB219
+200171648|5||||Asteroid.Trojan.2006 UB219
+200171649|5||||Asteroid.Trojan.2006 UB219
+200171650|5||||Asteroid.Trojan.2006 UB219
+200171651|5||||Asteroid.Trojan.2006 UB219
+200171652|5||||Asteroid.Trojan.2006 UB219
+200171653|5||||Asteroid.Trojan.2006 UB219
+200171654|5||||Asteroid.Trojan.2006 UB219
+200171655|5||||Asteroid.Trojan.2006 UB219
+200171656|5||||Asteroid.Trojan.2006 UB219
+200171657|5||||Asteroid.Trojan.2006 UB219
+200171658|5||||Asteroid.Trojan.2006 UB219
+200171659|5||||Asteroid.Trojan.2006 UB219
+200171660|5||||Asteroid.Trojan.2006 UB219
+200171661|5||||Asteroid.Trojan.2006 UB219
+200171662|5||||Asteroid.Trojan.2006 UB219
+200171663|5||||Asteroid.Trojan.2006 UB219
+200171664|5||||Asteroid.Trojan.2006 UB219
+200171665|5||||Asteroid.Trojan.2006 UB219
+200171666|5||||Asteroid.Trojan.2006 UB219
+200171667|5||||Asteroid.Trojan.2006 UB219
+200171668|5||||Asteroid.Trojan.2006 UB219
+200171669|5||||Asteroid.Trojan.2006 UB219
+200171670|5||||Asteroid.Trojan.2006 UB219
+200171671|5||||Asteroid.Trojan.2006 UB219
+200171672|5||||Asteroid.Trojan.2006 UB219
+200171673|5||||Asteroid.Trojan.2006 UB219
+200171674|5||||Asteroid.Trojan.2006 UB219
+200171675|5||||Asteroid.Trojan.2006 UB219
+200171676|5||||Asteroid.Trojan.2006 UB219
+200171677|5||||Asteroid.Trojan.2006 UB219
+200171678|5||||Asteroid.Trojan.2006 UB219
+200171679|5||||Asteroid.Trojan.2006 UB219
+200171680|5||||Asteroid.Trojan.2006 UB219
+200171681|5||||Asteroid.Trojan.2006 UB219
+200171682|5||||Asteroid.Trojan.2006 UB219
+200171683|5||||Asteroid.Trojan.2006 UB219
+200171684|5||||Asteroid.Trojan.2006 UB219
+200171685|5||||Asteroid.Trojan.2006 UB219
+200171686|5||||Asteroid.Trojan.2006 UB219
+200171687|5||||Asteroid.Trojan.2006 UB219
+200171688|5||||Asteroid.Trojan.2006 UB219
+200171689|5||||Asteroid.Trojan.2006 UB219
+200171690|5||||Asteroid.Trojan.2006 UB219
+200171691|5||||Asteroid.Trojan.2006 UB219
+200171692|5||||Asteroid.Trojan.2006 UB219
+200171693|5||||Asteroid.Trojan.2006 UB219
+200171694|5||||Asteroid.Trojan.2006 UB219
+200171695|5||||Asteroid.Trojan.2006 UB219
+200171696|5||||Asteroid.Trojan.2006 UB219
+200171697|5||||Asteroid.Trojan.2006 UB219
+200171698|5||||Asteroid.Trojan.2006 UB219
+200171699|5||||Asteroid.Trojan.2006 UB219
+200171700|5||||Asteroid.Trojan.2006 UB219
+200171701|5||||Asteroid.Trojan.2006 UB219
+200171702|5||||Asteroid.Trojan.2006 UB219
+200171703|5||||Asteroid.Trojan.2006 UB219
+200171704|5||||Asteroid.Trojan.2006 UB219
+200171705|5||||Asteroid.Trojan.2006 UB219
+200171706|5||||Asteroid.Trojan.2006 UB219
+200171707|5||||Asteroid.Trojan.2006 UB219
+200171708|5||||Asteroid.Trojan.2006 UB219
+200171709|5||||Asteroid.Trojan.2006 UB219
+200171710|5||||Asteroid.Trojan.2006 UB219
+200171711|5||||Asteroid.Trojan.2006 UB219
+200171712|5||||Asteroid.Trojan.2006 UB219
+200171713|5||||Asteroid.Trojan.2006 UB219
+200171714|5||||Asteroid.Trojan.2006 UB219
+200171715|5||||Asteroid.Trojan.2006 UB219
+200171716|5||||Asteroid.Trojan.2006 UB219
+200171717|5||||Asteroid.Trojan.2006 UB219
+200171718|5||||Asteroid.Trojan.2006 UB219
+200171719|5||||Asteroid.Trojan.2006 UB219
+200171720|5||||Asteroid.Trojan.2006 UB219
+200171721|5||||Asteroid.Trojan.2006 UB219
+200171722|5||||Asteroid.Trojan.2006 UB219
+200171723|5||||Asteroid.Trojan.2006 UB219
+200171724|5||||Asteroid.Trojan.2006 UB219
+200171725|5||||Asteroid.Trojan.2006 UB219
+200171726|5||||Asteroid.Trojan.2006 UB219
+200171727|5||||Asteroid.Trojan.2006 UB219
+200171728|5||||Asteroid.Trojan.2006 UB219
+200171729|5||||Asteroid.Trojan.2006 UB219
+200171730|5||||Asteroid.Trojan.2006 UB219
+200171731|5||||Asteroid.Trojan.2006 UB219
+200171732|5||||Asteroid.Trojan.2006 UB219
+200171733|5||||Asteroid.Trojan.2006 UB219
+200171734|5||||Asteroid.Trojan.2006 UB219
+200171735|5||||Asteroid.Trojan.2006 UB219
+200171736|5||||Asteroid.Trojan.2006 UB219
+200171737|5||||Asteroid.Trojan.2006 UB219
+200171738|5||||Asteroid.Trojan.2006 UB219
+200171739|5||||Asteroid.Trojan.2006 UB219
+200171740|5||||Asteroid.Trojan.2006 UB219
+200171741|5||||Asteroid.Trojan.2006 UB219
+200171742|5||||Asteroid.Trojan.2006 UB219
+200171743|5||||Asteroid.Trojan.2006 UB219
+200171744|5||||Asteroid.Trojan.2006 UB219
+200171745|5||||Asteroid.Trojan.2006 UB219
+200171746|5||||Asteroid.Trojan.2006 UB219
+200171747|5||||Asteroid.Trojan.2006 UB219
+200171748|5||||Asteroid.Trojan.2006 UB219
+200171749|5||||Asteroid.Trojan.2006 UB219
+200171750|5||||Asteroid.Trojan.2006 UB219
+200171751|5||||Asteroid.Trojan.2006 UB219
+200171752|5||||Asteroid.Trojan.2006 UB219
+200171753|5||||Asteroid.Trojan.2006 UB219
+200171754|5||||Asteroid.Trojan.2006 UB219
+200171755|5||||Asteroid.Trojan.2006 UB219
+200171756|5||||Asteroid.Trojan.2006 UB219
+200171757|5||||Asteroid.Trojan.2006 UB219
+200171758|5||||Asteroid.Trojan.2006 UB219
+200171759|5||||Asteroid.Trojan.2006 UB219
+200171760|5||||Asteroid.Trojan.2006 UB219
+200171761|5||||Asteroid.Trojan.2006 UB219
+200171762|5||||Asteroid.Trojan.2006 UB219
+200171763|5||||Asteroid.Trojan.2006 UB219
+200171764|5||||Asteroid.Trojan.2006 UB219
+200171765|5||||Asteroid.Trojan.2006 UB219
+200171766|5||||Asteroid.Trojan.2006 UB219
+200171767|5||||Asteroid.Trojan.2006 UB219
+200171768|5||||Asteroid.Trojan.2006 UB219
+200171769|5||||Asteroid.Trojan.2006 UB219
+200171770|5||||Asteroid.Trojan.2006 UB219
+200171771|5||||Asteroid.Trojan.2006 UB219
+200171772|5||||Asteroid.Trojan.2006 UB219
+200171773|5||||Asteroid.Trojan.2006 UB219
+200171774|5||||Asteroid.Trojan.2006 UB219
+200171775|5||||Asteroid.Trojan.2006 UB219
+200171776|5||||Asteroid.Trojan.2006 UB219
+200171777|5||||Asteroid.Trojan.2006 UB219
+200171778|5||||Asteroid.Trojan.2006 UB219
+200171779|5||||Asteroid.Trojan.2006 UB219
+200171780|5||||Asteroid.Trojan.2006 UB219
+200171781|5||||Asteroid.Trojan.2006 UB219
+200171782|5||||Asteroid.Trojan.2006 UB219
+200171783|5||||Asteroid.Trojan.2006 UB219
+200171784|5||||Asteroid.Trojan.2006 UB219
+200171785|5||||Asteroid.Trojan.2006 UB219
+200171786|5||||Asteroid.Trojan.2006 UB219
+200171787|5||||Asteroid.Trojan.2006 UB219
+200171788|5||||Asteroid.Trojan.2006 UB219
+200171789|5||||Asteroid.Trojan.2006 UB219
+200171790|5||||Asteroid.Trojan.2006 UB219
+200171791|5||||Asteroid.Trojan.2006 UB219
+200171792|5||||Asteroid.Trojan.2006 UB219
+200171793|5||||Asteroid.Trojan.2006 UB219
+200171794|5||||Asteroid.Trojan.2006 UB219
+200171795|5||||Asteroid.Trojan.2006 UB219
+200171796|5||||Asteroid.Trojan.2006 UB219
+200171797|5||||Asteroid.Trojan.2006 UB219
+200171798|5||||Asteroid.Trojan.2006 UB219
+200171799|5||||Asteroid.Trojan.2006 UB219
+200171800|5||||Asteroid.Trojan.2006 UB219
+200171801|5||||Asteroid.Trojan.2006 UB219
+200171802|5||||Asteroid.Trojan.2006 UB219
+200171803|5||||Asteroid.Trojan.2006 UB219
+200171804|5||||Asteroid.Trojan.2006 UB219
+200171805|5||||Asteroid.Trojan.2006 UB219
+200171806|5||||Asteroid.Trojan.2006 UB219
+200171807|5||||Asteroid.Trojan.2006 UB219
+200171808|5||||Asteroid.Trojan.2006 UB219
+200171809|5||||Asteroid.Trojan.2006 UB219
+200171810|5||||Asteroid.Trojan.2006 UB219
+200171811|5||||Asteroid.Trojan.2006 UB219
+200171812|5||||Asteroid.Trojan.2006 UB219
+200171813|5||||Asteroid.Trojan.2006 UB219
+200171814|5||||Asteroid.Trojan.2006 UB219
+200171815|5||||Asteroid.Trojan.2006 UB219
+200171816|5||||Asteroid.Trojan.2006 UB219
+200171817|5||||Asteroid.Trojan.2006 UB219
+200171818|5||||Asteroid.Trojan.2006 UB219
+200171819|5||||Asteroid.Trojan.2006 UB219
+200171820|5||||Asteroid.Trojan.2006 UB219
+200171821|5||||Asteroid.Trojan.2006 UB219
+200171822|5||||Asteroid.Trojan.2006 UB219
+200171823|5||||Asteroid.Trojan.2006 UB219
+200171824|5||||Asteroid.Trojan.2006 UB219
+200171825|5||||Asteroid.Trojan.2006 UB219
+200171826|5||||Asteroid.Trojan.2006 UB219
+200171827|5||||Asteroid.Trojan.2006 UB219
+200171828|5||||Asteroid.Trojan.2006 UB219
+200171829|5||||Asteroid.Trojan.2006 UB219
+200171830|5||||Asteroid.Trojan.2006 UB219
+200171831|5||||Asteroid.Trojan.2006 UB219
+200171832|5||||Asteroid.Trojan.2006 UB219
+200171833|5||||Asteroid.Trojan.2006 UB219
+200171834|5||||Asteroid.Trojan.2006 UB219
+200171835|5||||Asteroid.Trojan.2006 UB219
+200171836|5||||Asteroid.Trojan.2006 UB219
+200171837|5||||Asteroid.Trojan.2006 UB219
+200171838|5||||Asteroid.Trojan.2006 UB219
+200171839|5||||Asteroid.Trojan.2006 UB219
+200171840|5||||Asteroid.Trojan.2006 UB219
+200171841|5||||Asteroid.Trojan.2006 UB219
+200171842|5||||Asteroid.Trojan.2006 UB219
+200171843|5||||Asteroid.Trojan.2006 UB219
+200171844|5||||Asteroid.Trojan.2006 UB219
+200171845|5||||Asteroid.Trojan.2006 UB219
+200171846|5||||Asteroid.Trojan.2006 UB219
+200171847|5||||Asteroid.Trojan.2008 VE11
+200171848|5||||Asteroid.Trojan.2008 VE11
+200171849|5||||Asteroid.Trojan.2008 VE11
+200171850|5||||Asteroid.Trojan.2008 VE11
+200171851|5||||Asteroid.Trojan.2008 VE11
+200171852|5||||Asteroid.Trojan.2008 VE11
+200171853|5||||Asteroid.Trojan.2008 VE11
+200171854|5||||Asteroid.Trojan.2008 VE11
+200171855|5||||Asteroid.Trojan.2008 VE11
+200171856|5||||Asteroid.Trojan.2008 VE11
+200171857|5||||Asteroid.Trojan.2008 VE11
+200171858|5||||Asteroid.Trojan.2008 VE11
+200171859|5||||Asteroid.Trojan.2008 VE11
+200171860|5||||Asteroid.Trojan.2008 VE11
+200171861|5||||Asteroid.Trojan.2008 VE11
+200171862|5||||Asteroid.Trojan.2008 VE11
+200171863|5||||Asteroid.Trojan.2008 VE11
+200171864|5||||Asteroid.Trojan.2008 VE11
+200171865|5||||Asteroid.Trojan.2008 VE11
+200171866|5||||Asteroid.Trojan.2008 VE11
+200171867|5||||Asteroid.Trojan.2008 VE11
+200171868|5||||Asteroid.Trojan.2008 VE11
+200171869|5||||Asteroid.Trojan.2008 VE11
+200171870|5||||Asteroid.Trojan.2008 VE11
+200171871|5||||Asteroid.Trojan.2008 VE11
+200171872|5||||Asteroid.Trojan.2008 VE11
+200171873|5||||Asteroid.Trojan.2008 VE11
+200171874|5||||Asteroid.Trojan.2008 VE11
+200171875|5||||Asteroid.Trojan.2008 VE11
+200171876|5||||Asteroid.Trojan.2008 VE11
+200171877|5||||Asteroid.Trojan.2008 VE11
+200171878|5||||Asteroid.Trojan.2008 VE11
+200171879|5||||Asteroid.Trojan.2008 VE11
+200171880|5||||Asteroid.Trojan.2008 VE11
+200171881|5||||Asteroid.Trojan.2008 VE11
+200171882|5||||Asteroid.Trojan.2008 VE11
+200171883|5||||Asteroid.Trojan.2008 VE11
+200171884|5||||Asteroid.Trojan.2008 VE11
+200171885|5||||Asteroid.Trojan.2008 VE11
+200171886|5||||Asteroid.Trojan.2008 VE11
+200171887|5||||Asteroid.Trojan.2008 VE11
+200171888|5||||Asteroid.Trojan.2008 VE11
+200171889|5||||Asteroid.Trojan.2008 VE11
+200171890|5||||Asteroid.Trojan.2008 VE11
+200171891|5||||Asteroid.Trojan.2008 VE11
+200171892|5||||Asteroid.Trojan.2008 VE11
+200171893|5||||Asteroid.Trojan.2008 VE11
+200171894|5||||Asteroid.Trojan.2008 VE11
+200171895|5||||Asteroid.Trojan.2008 VE11
+200171896|5||||Asteroid.Trojan.2008 VE11
+200171897|5||||Asteroid.Trojan.2008 VE11
+200171898|5||||Asteroid.Trojan.2008 VE11
+200171899|5||||Asteroid.Trojan.2008 VE11
+200171900|5||||Asteroid.Trojan.2008 VE11
+200171901|5||||Asteroid.Trojan.2008 VE11
+200171902|5||||Asteroid.Trojan.2008 VE11
+200171903|5||||Asteroid.Trojan.2008 VE11
+200171904|5||||Asteroid.Trojan.2008 VE11
+200171905|5||||Asteroid.Trojan.2008 VE11
+200171906|5||||Asteroid.Trojan.2008 VE11
+200171907|5||||Asteroid.Trojan.2008 VE11
+200171908|5||||Asteroid.Trojan.2008 VE11
+200171909|5||||Asteroid.Trojan.2008 VE11
+200171910|5||||Asteroid.Trojan.2008 VE11
+200171911|5||||Asteroid.Trojan.2008 VE11
+200171912|5||||Asteroid.Trojan.2008 VE11
+200171913|5||||Asteroid.Trojan.2008 VE11
+200171914|5||||Asteroid.Trojan.2008 VE11
+200171915|5||||Asteroid.Trojan.2008 VE11
+200171916|5||||Asteroid.Trojan.2008 VE11
+200171917|5||||Asteroid.Trojan.2008 VE11
+200171918|5||||Asteroid.Trojan.2008 VE11
+200171919|5||||Asteroid.Trojan.2008 VE11
+200171920|5||||Asteroid.Trojan.2008 VE11
+200171921|5||||Asteroid.Trojan.2008 VE11
+200171922|5||||Asteroid.Trojan.2008 VE11
+200171923|5||||Asteroid.Trojan.2008 VE11
+200171924|5||||Asteroid.Trojan.2008 VE11
+200171925|5||||Asteroid.Trojan.2008 VE11
+200171926|5||||Asteroid.Trojan.2008 VE11
+200171927|5||||Asteroid.Trojan.2008 VE11
+200171928|5||||Asteroid.Trojan.2008 VE11
+200171929|5||||Asteroid.Trojan.2008 VE11
+200171930|5||||Asteroid.Trojan.2008 VE11
+200171931|5||||Asteroid.Trojan.2008 VE11
+200171932|5||||Asteroid.Trojan.2008 VE11
+200171933|5||||Asteroid.Trojan.2008 VE11
+200171934|5||||Asteroid.Trojan.2008 VE11
+200171935|5||||Asteroid.Trojan.2008 VE11
+200171936|5||||Asteroid.Trojan.2008 VE11
+200171937|5||||Asteroid.Trojan.2008 VE11
+200171938|5||||Asteroid.Trojan.2008 VE11
+200171939|5||||Asteroid.Trojan.2008 VE11
+200171940|5||||Asteroid.Trojan.2008 VE11
+200171941|5||||Asteroid.Trojan.2008 VE11
+200171942|5||||Asteroid.Trojan.2008 VE11
+200171943|5||||Asteroid.Trojan.2008 VE11
+200171944|5||||Asteroid.Trojan.2008 VE11
+200171945|5||||Asteroid.Trojan.2008 VE11
+200171946|5||||Asteroid.Trojan.2008 VE11
+200171947|5||||Asteroid.Trojan.2008 VE11
+200171948|5||||Asteroid.Trojan.2008 VE11
+200171949|5||||Asteroid.Trojan.2008 VE11
+200171950|5||||Asteroid.Trojan.2008 VE11
+200171951|5||||Asteroid.Trojan.2008 VE11
+200171952|5||||Asteroid.Trojan.2008 VE11
+200171953|5||||Asteroid.Trojan.2008 VE11
+200171954|5||||Asteroid.Trojan.2008 VE11
+200171955|5||||Asteroid.Trojan.2008 VE11
+200171956|5||||Asteroid.Trojan.2008 VE11
+200171957|5||||Asteroid.Trojan.2008 VE11
+200171958|5||||Asteroid.Trojan.2008 VE11
+200171959|5||||Asteroid.Trojan.2008 VE11
+200171960|5||||Asteroid.Trojan.2008 VE11
+200171961|5||||Asteroid.Trojan.2008 VE11
+200171962|5||||Asteroid.Trojan.2008 VE11
+200171963|5||||Asteroid.Trojan.2008 VE11
+200171964|5||||Asteroid.Trojan.2008 VE11
+200171965|5||||Asteroid.Trojan.2008 VE11
+200171966|5||||Asteroid.Trojan.2008 VE11
+200171967|5||||Asteroid.Trojan.2008 VE11
+200171968|5||||Asteroid.Trojan.2008 VE11
+200171969|5||||Asteroid.Trojan.2008 VE11
+200171970|5||||Asteroid.Trojan.2008 VE11
+200171971|5||||Asteroid.Trojan.2008 VE11
+200171972|5||||Asteroid.Trojan.2008 VE11
+200171973|5||||Asteroid.Trojan.2008 VE11
+200171974|5||||Asteroid.Trojan.2008 VE11
+200171975|5||||Asteroid.Trojan.2008 VE11
+200171976|5||||Asteroid.Trojan.2008 VE11
+200171977|5||||Asteroid.Trojan.2008 VE11
+200171978|5||||Asteroid.Trojan.2008 VE11
+200171979|5||||Asteroid.Trojan.2008 VE11
+200171980|5||||Asteroid.Trojan.2008 VE11
+200171981|5||||Asteroid.Trojan.2008 VE11
+200171982|5||||Asteroid.Trojan.2008 VE11
+200171983|5||||Asteroid.Trojan.2008 VE11
+200171984|5||||Asteroid.Trojan.2008 VE11
+200171985|5||||Asteroid.Trojan.2008 VE11
+200171986|5||||Asteroid.Trojan.2008 VE11
+200171987|5||||Asteroid.Trojan.2008 VE11
+200171988|5||||Asteroid.Trojan.2008 VE11
+200171989|5||||Asteroid.Trojan.2008 VE11
+200171990|5||||Asteroid.Trojan.2008 VE11
+200171991|5||||Asteroid.Trojan.2008 VE11
+200171992|5||||Asteroid.Trojan.2008 VE11
+200171993|5||||Asteroid.Trojan.2008 VE11
+200171994|5||||Asteroid.Trojan.2008 VE11
+200171995|5||||Asteroid.Trojan.2008 VE11
+200171996|5||||Asteroid.Trojan.2008 VE11
+200171997|5||||Asteroid.Trojan.2008 VE11
+200171998|5||||Asteroid.Trojan.2008 VE11
+200171999|5||||Asteroid.Trojan.2008 VE11
+200172000|5||||Asteroid.Trojan.2008 VE11
+200172001|5||||Asteroid.Trojan.2008 VE11
+200172002|5||||Asteroid.Trojan.2008 VE11
+200172003|5||||Asteroid.Trojan.2008 VE11
+200172004|5||||Asteroid.Trojan.2008 VE11
+200172005|5||||Asteroid.Trojan.2008 VE11
+200172006|5||||Asteroid.Trojan.2008 VE11
+200172007|5||||Asteroid.Trojan.2008 VE11
+200172008|5||||Asteroid.Trojan.2008 VE11
+200172009|5||||Asteroid.Trojan.2008 VE11
+200172010|5||||Asteroid.Trojan.2008 VE11
+200172011|5||||Asteroid.Trojan.2008 VE11
+200172012|5||||Asteroid.Trojan.2008 VE11
+200172013|5||||Asteroid.Trojan.2008 VE11
+200172014|5||||Asteroid.Trojan.2008 VE11
+200172015|5||||Asteroid.Trojan.2008 VE11
+200172016|5||||Asteroid.Trojan.2008 VE11
+200172017|5||||Asteroid.Trojan.2008 VE11
+200172018|5||||Asteroid.Trojan.2008 VE11
+200172019|5||||Asteroid.Trojan.2008 VE11
+200172020|5||||Asteroid.Trojan.2008 VE11
+200172021|5||||Asteroid.Trojan.2008 VE11
+200172022|5||||Asteroid.Trojan.2008 VE11
+200172023|5||||Asteroid.Trojan.2008 VE11
+200172024|5||||Asteroid.Trojan.2008 VE11
+200172025|5||||Asteroid.Trojan.2008 VE11
+200172026|5||||Asteroid.Trojan.2008 VE11
+200172027|5||||Asteroid.Trojan.2008 VE11
+200172028|5||||Asteroid.Trojan.2008 VE11
+200172029|5||||Asteroid.Trojan.2008 VE11
+200172030|5||||Asteroid.Trojan.2008 VE11
+200172031|5||||Asteroid.Trojan.2008 VE11
+200172032|5||||Asteroid.Trojan.2008 VE11
+200172033|5||||Asteroid.Trojan.2008 VE11
+200172034|5||||Asteroid.Trojan.2008 VE11
+200172035|5||||Asteroid.Trojan.2008 VE11
+200172036|5||||Asteroid.Trojan.2008 VE11
+200172037|5||||Asteroid.Trojan.2008 VE11
+200172038|5||||Asteroid.Trojan.2008 VE11
+200172039|5||||Asteroid.Trojan.2008 VE11
+200172040|5||||Asteroid.Trojan.2008 VE11
+200172041|5||||Asteroid.Trojan.2008 VE11
+200172042|5||||Asteroid.Trojan.2008 VE11
+200172043|5||||Asteroid.Trojan.2008 VE11
+200172044|5||||Asteroid.Trojan.2008 VE11
+200172045|5||||Asteroid.Trojan.2008 VE11
+200172046|5||||Asteroid.Trojan.2008 VE11
+200172047|5||||Asteroid.Trojan.2008 VE11
+200172048|5||||Asteroid.Trojan.2008 VE11
+200172049|5||||Asteroid.Trojan.2008 VE11
+200172050|5||||Asteroid.Trojan.2008 VE11
+200172051|5||||Asteroid.Trojan.2008 VE11
+200172052|5||||Asteroid.Trojan.2008 VE11
+200172053|5||||Asteroid.Trojan.2008 VE11
+200172054|5||||Asteroid.Trojan.2008 VE11
+200172055|5||||Asteroid.Trojan.2008 VE11
+200172056|5||||Asteroid.Trojan.2008 VE11
+200172057|5||||Asteroid.Trojan.2008 VE11
+200172058|5||||Asteroid.Trojan.2008 VE11
+200172059|5||||Asteroid.Trojan.2008 VE11
+200172060|5||||Asteroid.Trojan.2008 VE11
+200172061|5||||Asteroid.Trojan.2008 VE11
+200172062|5||||Asteroid.Trojan.2008 VE11
+200172063|5||||Asteroid.Trojan.2008 VE11
+200172064|5||||Asteroid.Trojan.2008 VE11
+200172065|5||||Asteroid.Trojan.2008 VE11
+200172066|5||||Asteroid.Trojan.2008 VE11
+200172067|5||||Asteroid.Trojan.2008 VE11
+200172068|5||||Asteroid.Trojan.2008 VE11
+200172069|5||||Asteroid.Trojan.2008 VE11
+200172070|5||||Asteroid.Trojan.2008 VE11
+200172071|5||||Asteroid.Trojan.2008 VE11
+200172072|5||||Asteroid.Trojan.2008 VE11
+200172073|5||||Asteroid.Trojan.2008 VE11
+200172074|5||||Asteroid.Trojan.2008 VE11
+200172075|5||||Asteroid.Trojan.2008 VE11
+200172076|5||||Asteroid.Trojan.2008 VE11
+200172077|5||||Asteroid.Trojan.2008 VE11
+200172078|5||||Asteroid.Trojan.2008 VE11
+200172079|5||||Asteroid.Trojan.2008 VE11
+200172080|5||||Asteroid.Trojan.2008 VE11
+200172081|5||||Asteroid.Trojan.2008 VE11
+200172082|5||||Asteroid.Trojan.2008 VE11
+200172083|5||||Asteroid.Trojan.2008 VE11
+200172084|5||||Asteroid.Trojan.2008 VE11
+200172085|5||||Asteroid.Trojan.2008 VE11
+200172086|5||||Asteroid.Trojan.2008 VE11
+200172087|5||||Asteroid.Trojan.2008 VE11
+200172088|5||||Asteroid.Trojan.2008 VE11
+200172089|5||||Asteroid.Trojan.2008 VE11
+200172090|5||||Asteroid.Trojan.2008 VE11
+200172091|5||||Asteroid.Trojan.2008 VE11
+200172092|5||||Asteroid.Trojan.2008 VE11
+200172093|5||||Asteroid.Trojan.2008 VE11
+200172094|5||||Asteroid.Trojan.2008 VE11
+200172095|5||||Asteroid.Trojan.2008 VE11
+200172096|5||||Asteroid.Trojan.2008 VE11
+200172097|5||||Asteroid.Trojan.2008 VE11
+200172098|5||||Asteroid.Trojan.2008 VE11
+200172099|5||||Asteroid.Trojan.2008 VE11
+200172100|5||||Asteroid.Trojan.2008 VE11
+200172101|5||||Asteroid.Trojan.2008 VE11
+200172102|5||||Asteroid.Trojan.2008 VE11
+200172103|5||||Asteroid.Trojan.2008 VE11
+200172104|5||||Asteroid.Trojan.2008 VE11
+200172105|5||||Asteroid.Trojan.2008 VE11
+200172106|5||||Asteroid.Trojan.2008 VE11
+200172107|5||||Asteroid.Trojan.2008 VE11
+200172108|5||||Asteroid.Trojan.2008 VE11
+200172109|5||||Asteroid.Trojan.2008 VE11
+200172110|5||||Asteroid.Trojan.2008 VE11
+200172111|5||||Asteroid.Trojan.2008 VE11
+200172112|5||||Asteroid.Trojan.2008 VE11
+200172113|5||||Asteroid.Trojan.2008 VE11
+200172114|5||||Asteroid.Trojan.2008 VE11
+200172115|5||||Asteroid.Trojan.2008 VE11
+200172116|5||||Asteroid.Trojan.2008 VE11
+200172117|5||||Asteroid.Trojan.2008 VE11
+200172118|5||||Asteroid.Trojan.2008 VE11
+200172119|5||||Asteroid.Trojan.2008 VE11
+200172120|5||||Asteroid.Trojan.2008 VE11
+200172121|5||||Asteroid.Trojan.2008 VE11
+200172122|5||||Asteroid.Trojan.2008 VE11
+200172123|5||||Asteroid.Trojan.2008 VE11
+200172124|5||||Asteroid.Trojan.2008 VE11
+200172125|5||||Asteroid.Trojan.2008 VE11
+200172126|5||||Asteroid.Trojan.2008 VE11
+200172127|5||||Asteroid.Trojan.2008 VE11
+200172128|5||||Asteroid.Trojan.2008 VE11
+200172129|5||||Asteroid.Trojan.2008 VE11
+200172130|5||||Asteroid.Trojan.2008 VE11
+200172131|5||||Asteroid.Trojan.2008 VE11
+200172132|5||||Asteroid.Trojan.2008 VE11
+200172133|5||||Asteroid.Trojan.2008 VE11
+200172134|5||||Asteroid.Trojan.2008 VE11
+200172135|5||||Asteroid.Trojan.2008 VE11
+200172136|5||||Asteroid.Trojan.2008 VE11
+200172137|5||||Asteroid.Trojan.2008 VE11
+200172138|5||||Asteroid.Trojan.2008 VE11
+200172139|5||||Asteroid.Trojan.2008 VE11
+200172140|5||||Asteroid.Trojan.2008 VE11
+200172141|5||||Asteroid.Trojan.2008 VE11
+200172142|5||||Asteroid.Trojan.2008 VE11
+200172143|5||||Asteroid.Trojan.2008 VE11
+200172144|5||||Asteroid.Trojan.2008 VE11
+200172145|5||||Asteroid.Trojan.2008 VE11
+200172146|5||||Asteroid.Trojan.2008 VE11
+200172147|5||||Asteroid.Trojan.2008 VE11
+200172148|5||||Asteroid.Trojan.2008 VE11
+200172149|5||||Asteroid.Trojan.2008 VE11
+200172150|5||||Asteroid.Trojan.2008 VE11
+200172151|5||||Asteroid.Trojan.2008 VE11
+200172152|5||||Asteroid.Trojan.2008 VE11
+200172153|5||||Asteroid.Trojan.2008 VE11
+200172154|5||||Asteroid.Trojan.2008 VE11
+200172155|5||||Asteroid.Trojan.2008 VE11
+200172156|5||||Asteroid.Trojan.2008 VE11
+200172157|5||||Asteroid.Trojan.2008 VE11
+200172158|5||||Asteroid.Trojan.2008 VE11
+200172159|5||||Asteroid.Trojan.2008 VE11
+200172160|5||||Asteroid.Trojan.2008 VE11
+200172161|5||||Asteroid.Trojan.2008 VE11
+200172162|5||||Asteroid.Trojan.2008 VE11
+200172163|5||||Asteroid.Trojan.2008 VE11
+200172164|5||||Asteroid.Trojan.2008 VE11
+200172165|5||||Asteroid.Trojan.2008 VE11
+200172166|5||||Asteroid.Trojan.2008 VE11
+200172167|5||||Asteroid.Trojan.2008 VE11
+200172168|5||||Asteroid.Trojan.2008 VE11
+200172169|5||||Asteroid.Trojan.2008 VE11
+200172170|5||||Asteroid.Trojan.2008 VE11
+200172171|5||||Asteroid.Trojan.2008 VE11
+200172172|5||||Asteroid.Trojan.2008 VE11
+200172173|5||||Asteroid.Trojan.2008 VE11
+200172174|5||||Asteroid.Trojan.2008 VE11
+200172175|5||||Asteroid.Trojan.2008 VE11
+200172176|5||||Asteroid.Trojan.2008 VE11
+200172177|5||||Asteroid.Trojan.2008 VE11
+200172178|5||||Asteroid.Trojan.2008 VE11
+200172179|5||||Asteroid.Trojan.2008 VE11
+200172180|5||||Asteroid.Trojan.2008 VE11
+200172181|5||||Asteroid.Trojan.2008 VE11
+200172182|5||||Asteroid.Trojan.2008 VE11
+200172183|5||||Asteroid.Trojan.2008 VE11
+200172184|5||||Asteroid.Trojan.2008 VE11
+200172185|5||||Asteroid.Trojan.2008 VE11
+200172186|5||||Asteroid.Trojan.2008 VE11
+200172187|5||||Asteroid.Trojan.2008 VE11
+200172188|5||||Asteroid.Trojan.2008 VE11
+200172189|5||||Asteroid.Trojan.2008 VE11
+200172190|5||||Asteroid.Trojan.2008 VE11
+200172191|5||||Asteroid.Trojan.2008 VE11
+200172192|5||||Asteroid.Trojan.2008 VE11
+200172193|5||||Asteroid.Trojan.2008 VE11
+200172194|5||||Asteroid.Trojan.2008 VE11
+200172195|5||||Asteroid.Trojan.2008 VE11
+200172196|5||||Asteroid.Trojan.2008 VE11
+200172197|5||||Asteroid.Trojan.2008 VE11
+200172198|5||||Asteroid.Trojan.2008 VE11
+200172199|5||||Asteroid.Trojan.2008 VE11
+200172200|5||||Asteroid.Trojan.2008 VE11
+200172201|5||||Asteroid.Trojan.2008 VE11
+200172202|5||||Asteroid.Trojan.2008 VE11
+200172203|5||||Asteroid.Trojan.2008 VE11
+200172204|5||||Asteroid.Trojan.2008 VE11
+200172205|5||||Asteroid.Trojan.2008 VE11
+200172206|5||||Asteroid.Trojan.2008 VE11
+200172207|5||||Asteroid.Trojan.2008 VE11
+200172208|5||||Asteroid.Trojan.2008 VE11
+200172209|5||||Asteroid.Trojan.2008 VE11
+200172210|5||||Asteroid.Trojan.2008 VE11
+200172211|5||||Asteroid.Trojan.2008 VE11
+200172212|5||||Asteroid.Trojan.2008 VE11
+200172213|5||||Asteroid.Trojan.2008 VE11
+200172214|5||||Asteroid.Trojan.2008 VE11
+200172215|5||||Asteroid.Trojan.2008 VE11
+200172216|5||||Asteroid.Trojan.2008 VE11
+200172217|5||||Asteroid.Trojan.2008 VE11
+200172218|5||||Asteroid.Trojan.2008 VE11
+200172219|5||||Asteroid.Trojan.2008 VE11
+200172220|5||||Asteroid.Trojan.2008 VE11
+200172221|5||||Asteroid.Trojan.2008 VE11
+200172222|5||||Asteroid.Trojan.2008 VE11
+200172223|5||||Asteroid.Trojan.2008 VE11
+200172224|5||||Asteroid.Trojan.2008 VE11
+200172225|5||||Asteroid.Trojan.2008 VE11
+200172226|5||||Asteroid.Trojan.2008 VE11
+200172227|5||||Asteroid.Trojan.2008 VE11
+200172228|5||||Asteroid.Trojan.2008 VE11
+200172229|5||||Asteroid.Trojan.2008 VE11
+200172230|5||||Asteroid.Trojan.2008 VE11
+200172231|5||||Asteroid.Trojan.2008 VE11
+200172232|5||||Asteroid.Trojan.2008 VE11
+200172233|5||||Asteroid.Trojan.2008 VE11
+200172234|5||||Asteroid.Trojan.2008 VE11
+200172235|5||||Asteroid.Trojan.2008 VE11
+200172236|5||||Asteroid.Trojan.2008 VE11
+200172237|5||||Asteroid.Trojan.2008 VE11
+200172238|5||||Asteroid.Trojan.2008 VE11
+200172239|5||||Asteroid.Trojan.2008 VE11
+200172240|5||||Asteroid.Trojan.2008 VE11
+200172241|5||||Asteroid.Trojan.2008 VE11
+200172242|5||||Asteroid.Trojan.2008 VE11
+200172243|5||||Asteroid.Trojan.2008 VE11
+200172244|5||||Asteroid.Trojan.2008 VE11
+200172245|5||||Asteroid.Trojan.2008 VE11
+200172246|5||||Asteroid.Trojan.2008 VE11
+200172247|5||||Asteroid.Trojan.2008 VE11
+200172248|5||||Asteroid.Trojan.2008 VE11
+200172249|5||||Asteroid.Trojan.2008 VE11
+200172250|5||||Asteroid.Trojan.2008 VE11
+200172251|5||||Asteroid.Trojan.2008 VE11
+200172252|5||||Asteroid.Trojan.2008 VE11
+200172253|5||||Asteroid.Trojan.2008 VE11
+200172254|5||||Asteroid.Trojan.2008 VE11
+200172255|5||||Asteroid.Trojan.2008 VE11
+200172256|5||||Asteroid.Trojan.2008 VE11
+200172257|5||||Asteroid.Trojan.2008 VE11
+200172258|5||||Asteroid.Trojan.2008 VE11
+200172259|5||||Asteroid.Trojan.2008 VE11
+200172260|5||||Asteroid.Trojan.2008 VE11
+200172261|5||||Asteroid.Trojan.2008 VE11
+200172262|5||||Asteroid.Trojan.2008 VE11
+200172263|5||||Asteroid.Trojan.2008 VE11
+200172264|5||||Asteroid.Trojan.2008 VE11
+200172265|5||||Asteroid.Trojan.2008 VE11
+200172266|5||||Asteroid.Trojan.2008 VE11
+200172267|5||||Asteroid.Trojan.2008 VE11
+200172268|5||||Asteroid.Trojan.2008 VE11
+200172269|5||||Asteroid.Trojan.2008 VE11
+200172270|5||||Asteroid.Trojan.2008 VE11
+200172271|5||||Asteroid.Trojan.2008 VE11
+200172272|5||||Asteroid.Trojan.2008 VE11
+200172273|5||||Asteroid.Trojan.2008 VE11
+200172274|5||||Asteroid.Trojan.2008 VE11
+200172275|5||||Asteroid.Trojan.2008 VE11
+200172276|5||||Asteroid.Trojan.2008 VE11
+200172277|5||||Asteroid.Trojan.2008 VE11
+200172278|5||||Asteroid.Trojan.2008 VE11
+200172279|5||||Asteroid.Trojan.2008 VE11
+200172280|5||||Asteroid.Trojan.2008 VE11
+200172281|5||||Asteroid.Trojan.2008 VE11
+200172282|5||||Asteroid.Trojan.2008 VE11
+200172283|5||||Asteroid.Trojan.2008 VE11
+200172284|5||||Asteroid.Trojan.2008 VE11
+200172285|5||||Asteroid.Trojan.2008 VE11
+200172286|5||||Asteroid.Trojan.2008 VE11
+200172287|5||||Asteroid.Trojan.2008 VE11
+200172288|5||||Asteroid.Trojan.2008 VE11
+200172289|5||||Asteroid.Trojan.2008 VE11
+200172290|5||||Asteroid.Trojan.2008 VE11
+200172291|5||||Asteroid.Trojan.2008 VE11
+200172292|5||||Asteroid.Trojan.2008 VE11
+200172293|5||||Asteroid.Trojan.2008 VE11
+200172294|5||||Asteroid.Trojan.2008 VE11
+200172295|5||||Asteroid.Trojan.2008 VE11
+200172296|5||||Asteroid.Trojan.2008 VE11
+200172297|5||||Asteroid.Trojan.2008 VE11
+200172298|5||||Asteroid.Trojan.2008 VE11
+200172299|5||||Asteroid.Trojan.2008 VE11
+200172300|5||||Asteroid.Trojan.2008 VE11
+200172301|5||||Asteroid.Trojan.2008 VE11
+200172302|5||||Asteroid.Trojan.2008 VE11
+200172303|5||||Asteroid.Trojan.2008 VE11
+200172304|5||||Asteroid.Trojan.2008 VE11
+200172305|5||||Asteroid.Trojan.2008 VE11
+200172306|5||||Asteroid.Trojan.2008 VE11
+200172307|5||||Asteroid.Trojan.2008 VE11
+200172308|5||||Asteroid.Trojan.2008 VE11
+200172309|5||||Asteroid.Trojan.2008 VE11
+200172310|5||||Asteroid.Trojan.2008 VE11
+200172311|5||||Asteroid.Trojan.2008 VE11
+200172312|5||||Asteroid.Trojan.2008 VE11
+200172313|5||||Asteroid.Trojan.2008 VE11
+200172314|5||||Asteroid.Trojan.2008 VE11
+200172315|5||||Asteroid.Trojan.2008 VE11
+200172316|5||||Asteroid.Trojan.2008 VE11
+200172317|5||||Asteroid.Trojan.2008 VE11
+200172318|5||||Asteroid.Trojan.2008 VE11
+200172319|5||||Asteroid.Trojan.2008 VE11
+200172320|5||||Asteroid.Trojan.2008 VE11
+200172321|5||||Asteroid.Trojan.2008 VE11
+200172322|5||||Asteroid.Trojan.2008 VE11
+200172323|5||||Asteroid.Trojan.2008 VE11
+200172324|5||||Asteroid.Trojan.2008 VE11
+200172325|5||||Asteroid.Trojan.2008 VE11
+200172326|5||||Asteroid.Trojan.2008 VE11
+200172327|5||||Asteroid.Trojan.2008 VE11
+200172328|5||||Asteroid.Trojan.2008 VE11
+200172329|5||||Asteroid.Trojan.2008 VE11
+200172330|5||||Asteroid.Trojan.2008 VE11
+200172331|5||||Asteroid.Trojan.2008 VE11
+200172332|5||||Asteroid.Trojan.2008 VE11
+200172333|5||||Asteroid.Trojan.2008 VE11
+200172334|5||||Asteroid.Trojan.2008 VE11
+200172335|5||||Asteroid.Trojan.2008 VE11
+200172336|5||||Asteroid.Trojan.2008 VE11
+200172337|5||||Asteroid.Trojan.2008 VE11
+200172338|5||||Asteroid.Trojan.2008 VE11
+200172339|5||||Asteroid.Trojan.2008 VE11
+200172340|5||||Asteroid.Trojan.2008 VE11
+200172341|5||||Asteroid.Trojan.2008 VE11
+200172342|5||||Asteroid.Trojan.2008 VE11
+200172343|5||||Asteroid.Trojan.2008 VE11
+200172344|5||||Asteroid.Trojan.2008 VE11
+200172345|5||||Asteroid.Trojan.2008 VE11
+200172346|5||||Asteroid.Trojan.2008 VE11
+200172347|5||||Asteroid.Trojan.2008 VE11
+200172348|5||||Asteroid.Trojan.2008 VE11
+200172349|5||||Asteroid.Trojan.2008 VE11
+200172350|5||||Asteroid.Trojan.2008 VE11
+200172351|5||||Asteroid.Trojan.2008 VE11
+200172352|5||||Asteroid.Trojan.2008 VE11
+200172353|5||||Asteroid.Trojan.2008 VE11
+200172354|5||||Asteroid.Trojan.2008 VE11
+200172355|5||||Asteroid.Trojan.2008 VE11
+200172356|5||||TNO.2009 YG19
+200172357|5||||TNO.2009 YG19
+200172358|5||||TNO.2009 YG19
+200172359|5||||TNO.2009 YG19
+200172360|5||||TNO.2009 YG19
+200172361|5||||TNO.2009 YG19
+200172362|5||||TNO.2009 YG19
+200172363|5||||TNO.2009 YG19
+200172364|5||||TNO.2009 YG19
+200172365|5||||TNO.2009 YG19
+200172366|5||||TNO.2009 YG19
+200172367|5||||TNO.2009 YG19
+200172368|5||||TNO.2009 YG19
+200172369|5||||TNO.2009 YG19
+200172370|5||||TNO.2009 YG19
+200172371|5||||TNO.2009 YG19
+200172372|5||||TNO.2009 YG19
+200172373|5||||TNO.2009 YG19
+200172374|5||||TNO.2009 YG19
+200172375|5||||TNO.2009 YG19
+200172376|5||||TNO.2009 YG19
+200172377|5||||TNO.2009 YG19
+200172378|5||||TNO.2009 YG19
+200172379|5||||TNO.2009 YG19
+200172380|5||||TNO.2009 YG19
+200172381|5||||TNO.2009 YG19
+200172382|5||||TNO.2009 YG19
+200172383|5||||TNO.2009 YG19
+200172384|5||||TNO.2009 YG19
+200172385|5||||TNO.2009 YG19
+200172386|5||||TNO.2009 YG19
+200172387|5||||TNO.2009 YG19
+200172388|5||||TNO.2009 YG19
+200172389|5||||TNO.2009 YG19
+200172390|5||||TNO.2009 YG19
+200172391|5||||TNO.2009 YG19
+200172392|5||||TNO.2009 YG19
+200172393|5||||TNO.2009 YG19
+200172394|5||||TNO.2009 YG19
+200172395|5||||TNO.2009 YG19
+200172396|5||||TNO.2009 YG19
+200172397|5||||TNO.2009 YG19
+200172398|5||||TNO.2009 YG19
+200172399|5||||TNO.2009 YG19
+200172400|5||||TNO.2009 YG19
+200172401|5||||TNO.2009 YG19
+200172402|5||||TNO.2009 YG19
+200172403|5||||TNO.2009 YG19
+200172404|5||||TNO.2009 YG19
+200172405|5||||TNO.2009 YG19
+200172406|5||||TNO.2009 YG19
+200172407|5||||TNO.2009 YG19
+200172408|5||||TNO.2009 YG19
+200172409|5||||TNO.2009 YG19
+200172410|5||||TNO.2009 YG19
+200172411|5||||TNO.2009 YG19
+200172412|5||||TNO.2009 YG19
+200172413|5||||TNO.2009 YG19
+200172414|5||||TNO.2009 YG19
+200172415|5||||TNO.2009 YG19
+200172416|5||||TNO.2009 YG19
+200172417|5||||TNO.2009 YG19
+200172418|5||||TNO.2009 YG19
+200172419|5||||TNO.2009 YG19
+200172420|5||||TNO.2009 YG19
+200172421|5||||TNO.2009 YG19
+200172422|5||||TNO.2009 YG19
+200172423|5||||TNO.2009 YG19
+200172424|5||||TNO.2009 YG19
+200172425|5||||TNO.2009 YG19
+200172426|5||||TNO.2009 YG19
+200172427|5||||TNO.2009 YG19
+200172428|5||||TNO.2009 YG19
+200172429|5||||TNO.2009 YG19
+200172430|5||||TNO.2009 YG19
+200172431|5||||TNO.2009 YG19
+200172432|5||||TNO.2009 YG19
+200172433|5||||TNO.2009 YG19
+200172434|5||||TNO.2009 YG19
+200172435|5||||TNO.2009 YG19
+200172436|5||||TNO.2009 YG19
+200172437|5||||TNO.2009 YG19
+200172438|5||||TNO.2009 YG19
+200172439|5||||TNO.2009 YG19
+200172440|5||||TNO.2009 YG19
+200172441|5||||TNO.2009 YG19
+200172442|5||||TNO.2009 YG19
+200172443|5||||TNO.2009 YG19
+200172444|5||||TNO.2009 YG19
+200172445|5||||TNO.2009 YG19
+200172446|5||||TNO.2009 YG19
+200172447|5||||TNO.2009 YG19
+200172448|5||||TNO.2009 YG19
+200172449|5||||TNO.2009 YG19
+200172450|5||||TNO.2009 YG19
+200172451|5||||TNO.2009 YG19
+200172452|5||||TNO.2009 YG19
+200172453|5||||TNO.2009 YG19
+200172454|5||||TNO.2009 YG19
+200172455|5||||TNO.2009 YG19
+200172456|5||||TNO.2009 YG19
+200172457|5||||TNO.2009 YG19
+200172458|5||||TNO.2012 VU85
+200172459|5||||TNO.2012 VU85
+200172460|5||||TNO.2012 VU85
+200172461|5||||TNO.2012 VU85
+200172462|5||||TNO.2012 VU85
+200172463|5||||TNO.2012 VU85
+200172464|5||||TNO.2012 VU85
+200172465|5||||TNO.2012 VU85
+200172466|5||||TNO.2012 VU85
+200172467|5||||TNO.2012 VU85
+200172468|5||||TNO.2012 VU85
+200172469|5||||TNO.2012 VU85
+200172470|5||||TNO.2012 VU85
+200172471|5||||TNO.2012 VU85
+200172472|5||||TNO.2012 VU85
+200172473|5||||TNO.2012 VU85
+200172474|5||||TNO.2012 VU85
+200172475|5||||TNO.2012 VU85
+200172476|5||||TNO.2012 VU85
+200172477|5||||TNO.2012 VU85
+200172478|5||||TNO.2012 VU85
+200172479|5||||TNO.2012 VU85
+200172480|5||||TNO.2012 VU85
+200172481|5||||TNO.2012 VU85
+200172482|5||||TNO.2012 VU85
+200172483|5||||TNO.2012 VU85
+200172484|5||||TNO.2012 VU85
+200172485|5||||TNO.2012 VU85
+200172486|5||||TNO.2012 VU85
+200172487|5||||TNO.2012 VU85
+200172488|5||||TNO.2012 VU85
+200172489|5||||TNO.2012 VU85
+200172490|5||||TNO.2012 VU85
+200172491|5||||TNO.2012 VU85
+200172492|5||||TNO.2012 VU85
+200172493|5||||TNO.2012 VU85
+200172494|5||||TNO.2012 VU85
+200172495|5||||TNO.2012 VU85
+200172496|5||||TNO.2012 VU85
+200172497|5||||TNO.2012 VU85
+200172498|5||||TNO.2012 VU85
+200172499|5||||TNO.2012 VU85
+200172500|5||||TNO.2012 VU85
+200172501|5||||TNO.2012 VU85
+200172502|5||||TNO.2012 VU85
+200172503|5||||TNO.2012 VU85
+200172504|5||||TNO.2012 VU85
+200172505|5||||TNO.2012 VU85
+200172506|5||||TNO.2012 VU85
+200172507|5||||TNO.2012 VU85
+200172508|5||||TNO.2012 VU85
+200172509|5||||TNO.2012 VU85
+200172510|5||||TNO.2012 VU85
+200172511|5||||TNO.2012 VU85
+200172512|5||||TNO.2012 VU85
+200172513|5||||TNO.2012 VU85
+200172514|5||||TNO.2012 VU85
+200172515|5||||TNO.2012 VU85
+200172516|5||||TNO.2012 VU85
+200172517|5||||TNO.2012 VU85
+200172518|5||||TNO.2012 VU85
+200172519|5||||TNO.2012 VU85
+200172520|5||||TNO.2012 VU85
+200172521|5||||TNO.2012 VU85
+200172522|5||||TNO.2012 VU85
+200172523|5||||TNO.2012 VU85
+200172524|5||||TNO.2012 VU85
+200172525|5||||TNO.2012 VU85
+200172526|5||||TNO.2012 VU85
+200172527|5||||TNO.2012 VU85
+200172528|5||||TNO.2012 VU85
+200172529|5||||TNO.2012 VU85
+200172530|5||||TNO.2012 VU85
+200172531|5||||TNO.2012 VU85
+200172532|5||||TNO.2012 VU85
+200172533|5||||TNO.2012 VU85
+200172534|5||||TNO.2012 VU85
+200172535|5||||TNO.2012 VU85
+200172536|5||||TNO.2012 VU85
+200172537|5||||TNO.2012 VU85
+200172538|5||||TNO.2012 VU85
+200172539|5||||TNO.2012 VU85
+200172540|5||||TNO.2012 VU85
+200172541|5||||TNO.2012 VU85
+200172542|5||||TNO.2012 VU85
+200172543|5||||TNO.2012 VU85
+200172544|5||||TNO.2012 VU85
+200172545|5||||TNO.2012 VU85
+200172546|5||||TNO.2012 VU85
+200172547|5||||TNO.2012 VU85
+200172548|5||||TNO.2012 VU85
+200172549|5||||TNO.2012 VU85
+200172550|5||||TNO.2012 VU85
+200172551|5||||TNO.2012 VU85
+200172552|5||||TNO.2012 VU85
+200172553|5||||TNO.2012 VU85
+200172554|5||||TNO.2012 VU85
+200172555|5||||TNO.2012 VU85
+200172556|5||||TNO.2012 VU85
+200172557|5||||TNO.2012 VU85
+200172558|5||||TNO.2012 VU85
+200172559|5||||TNO.2012 VU85
+200172560|5||||TNO.2012 VU85
+200172561|5||||TNO.2012 VU85
+200172562|5||||TNO.2012 VU85
+200172563|5||||TNO.2012 VU85
+200172564|5||||TNO.2012 VU85
+200172565|5||||TNO.2012 VU85
+200172566|5||||TNO.2012 VU85
+200172567|5||||TNO.2012 VU85
+200172568|5||||TNO.2012 VU85
+200172569|5||||TNO.2012 VU85
+200172570|5||||TNO.2012 VU85
+200172571|5||||TNO.2012 VU85
+200172572|5||||TNO.2012 VU85
+200172573|5||||TNO.2012 VU85
+200172574|5||||TNO.2012 VU85
+200172575|5||||TNO.2012 VU85
+200172576|5||||TNO.2012 VU85
+200172577|5||||TNO.2012 VU85
+200172578|5||||TNO.2012 VU85
+200172579|5||||TNO.2012 VU85
+200172580|5||||TNO.2012 VU85
+200172581|5||||TNO.2012 VU85
+200172582|5||||TNO.2012 VU85
+200172583|5||||TNO.2012 VU85
+200172584|5||||TNO.2012 VU85
+200172585|5||||TNO.2012 VU85
+200172586|5||||TNO.2012 VU85
+200172587|5||||TNO.2012 VU85
+200172588|5||||TNO.2012 VU85
+200172589|5||||TNO.2012 VU85
+200172590|5||||TNO.2012 VU85
+200172591|5||||TNO.2012 VU85
+200172592|5||||TNO.2012 VU85
+200172593|5||||TNO.2012 VU85
+200172594|5||||TNO.2012 VU85
+200172595|5||||TNO.2012 VU85
+200172596|5||||TNO.2012 VU85
+200172597|5||||Comet.246P
+200172598|5||||Comet.246P
+200172599|5||||Comet.246P
+200172600|5||||Comet.246P
+200172601|5||||Comet.246P
+200172602|5||||Comet.246P
+200172603|5||||Comet.246P
+200172604|5||||Comet.246P
+200172605|5||||Comet.246P
+200172606|5||||Comet.246P
+200172607|5||||Comet.246P
+200172608|5||||Comet.246P
+200172609|5||||Comet.246P
+200172610|5||||Comet.246P
+200172611|5||||Comet.246P
+200172612|5||||Comet.246P
+200172613|5||||Comet.246P
+200172614|5||||Comet.246P
+200172615|5||||Comet.246P
+200172616|5||||Comet.246P
+200172617|5||||Comet.246P
+200172618|5||||Comet.246P
+200172619|5||||Comet.246P
+200172620|5||||Comet.246P
+200172621|5||||Comet.246P
+200172622|5||||Comet.246P
+200172623|5||||Comet.246P
+200172624|5||||Comet.246P
+200172625|5||||Comet.246P
+200172626|5||||Comet.246P
+200172627|5||||Comet.246P
+200172628|5||||Comet.246P
+200172629|5||||Comet.246P
+200172630|5||||Comet.246P
+200172631|5||||Comet.246P
+200172632|5||||Comet.246P
+200172633|5||||Comet.246P
+200172634|5||||Comet.246P
+200172635|5||||Comet.246P
+200172636|5||||Comet.246P
+200172637|5||||Comet.246P
+200172638|5||||Comet.246P
+200172639|5||||Comet.246P
+200172640|5||||Comet.246P
+200172641|5||||Comet.246P
+200172642|5||||Comet.246P
+200172643|5||||Comet.246P
+200172644|5||||Comet.246P
+200172645|5||||Comet.246P
+200172646|5||||Comet.246P
+200172647|5||||Comet.246P
+200172648|5||||Comet.246P
+200172649|5||||Comet.246P
+200172650|5||||Comet.246P
+200172651|5||||Comet.246P
+200172652|5||||Comet.246P
+200172653|5||||Comet.246P
+200172654|5||||Comet.246P
+200172655|5||||Comet.246P
+200172656|5||||Comet.246P
+200172657|5||||Comet.246P
+200172658|5||||Comet.246P
+200172659|5||||Comet.246P
+200172660|5||||Comet.246P
+200172661|5||||Comet.246P
+200172662|5||||Comet.246P
+200172663|5||||Comet.246P
+200172664|5||||Comet.246P
+200172665|5||||Comet.246P
+200172666|5||||Comet.246P
+200172667|5||||Comet.246P
+200172668|5||||Comet.246P
+200172669|5||||Comet.246P
+200172670|5||||Comet.246P
+200172671|5||||Comet.246P
+200172672|5||||Comet.246P
+200172673|5||||Comet.246P
+200172674|5||||Comet.246P
+200172675|5||||Comet.246P
+200172676|5||||Comet.246P
+200172677|5||||Comet.246P
+200172678|5||||Comet.246P
+200172679|5||||Comet.246P
+200172680|5||||Comet.246P
+200172681|5||||Comet.246P
+200172682|5||||Comet.246P
+200172683|5||||Comet.246P
+200172684|5||||Comet.246P
+200172685|5||||Comet.246P
+200172686|5||||Comet.246P
+200172687|5||||Comet.246P
+200172688|5||||Comet.246P
+200172689|5||||Comet.246P
+200172690|5||||Comet.246P
+200172691|5||||Comet.246P
+200172692|5||||Comet.246P
+200172693|5||||Comet.246P
+200172694|5||||Comet.246P
+200172695|5||||Comet.246P
+200172696|5||||Comet.246P
+200172697|5||||Comet.246P
+200172698|5||||Comet.246P
+200172699|5||||Comet.246P
+200172700|5||||Comet.246P
+200172701|5||||Comet.246P
+200172702|5||||Comet.246P
+200172703|5||||Comet.246P
+200172704|5||||Comet.246P
+200172705|5||||Comet.246P
+200172706|5||||Comet.246P
+200172707|5||||Comet.246P
+200172708|5||||Comet.246P
+200172709|5||||Comet.246P
+200172710|5||||Comet.246P
+200172711|5||||Comet.246P
+200172712|5||||Comet.246P
+200172713|5||||Comet.246P
+200172714|5||||Comet.246P
+200172715|5||||Comet.246P
+200172716|5||||Comet.246P
+200172717|5||||Comet.246P
+200172718|5||||Comet.246P
+200172719|5||||Comet.246P
+200172720|5||||Comet.246P
+200172721|5||||Comet.246P
+200172722|5||||Comet.246P
+200172723|5||||Comet.246P
+200172724|5||||Comet.246P
+200172725|5||||Comet.246P
+200172726|5||||Comet.246P
+200172727|5||||Comet.246P
+200172728|5||||Comet.246P
+200172729|5||||Comet.246P
+200172730|5||||Comet.246P
+200172731|5||||Comet.246P
+200172732|5||||Comet.246P
+200172733|5||||Comet.246P
+200172734|5||||Comet.246P
+200172735|5||||Comet.246P
+200172736|5||||Comet.246P
+200172737|5||||Comet.246P
+200172738|5||||Comet.246P
+200172739|5||||Comet.246P
+200172740|5||||Comet.246P
+200172741|5||||Comet.246P
+200172742|5||||Comet.246P
+200172743|5||||Comet.246P
+200172744|5||||Comet.246P
+200172745|5||||Comet.246P
+200172746|5||||Comet.246P
+200172747|5||||Comet.246P
+200172748|5||||Comet.246P
+200172749|5||||Comet.246P
+200172750|5||||Comet.246P
+200172751|5||||Comet.246P
+200172752|5||||Comet.246P
+200172753|5||||Comet.246P
+200172754|5||||Comet.246P
+200172755|5||||Comet.246P
+200172756|5||||Comet.246P
+200172757|5||||Comet.246P
+200172758|5||||Comet.246P
+200172759|5||||Comet.246P
+200172760|5||||Comet.246P
+200172761|5||||Comet.246P
+200172762|5||||Comet.246P
+200172763|5||||Comet.246P
+200172764|5||||Comet.246P
+200172765|5||||Comet.246P
+200172766|5||||Comet.246P
+200172767|5||||Comet.246P
+200172768|5||||Comet.246P
+200172769|5||||Comet.246P
+200172770|5||||Comet.246P
+200172771|5||||Comet.246P
+200172772|5||||Comet.246P
+200172773|5||||Comet.246P
+200172774|5||||Comet.246P
+200172775|5||||Comet.246P
+200172776|5||||Comet.246P
+200172777|5||||Comet.246P
+200172778|5||||Comet.246P
+200172779|5||||Comet.246P
+200172780|5||||Comet.246P
+200172781|5||||Comet.246P
+200172782|5||||Comet.246P
+200172783|5||||Comet.246P
+200172784|5||||Comet.246P
+200172785|5||||Comet.246P
+200172786|5||||Comet.246P
+200172787|5||||Comet.246P
+200172788|5||||Comet.246P
+200172789|5||||Comet.246P
+200172790|5||||Comet.246P
+200172791|5||||Comet.246P
+200172792|5||||Comet.246P
+200172793|5||||Comet.246P
+200172794|5||||Comet.246P
+200172795|5||||Comet.246P
+200172796|5||||Comet.246P
+200172797|5||||Comet.246P
+200172798|5||||Comet.246P
+200172799|5||||Comet.246P
+200172800|5||||Comet.246P
+200172801|5||||Comet.246P
+200172802|5||||Comet.246P
+200172803|5||||Comet.246P
+200172804|5||||Comet.246P
+200172805|5||||Comet.246P
+200172806|5||||Comet.246P
+200172807|5||||Comet.246P
+200172808|5||||Comet.246P
+200172809|5||||Comet.246P
+200172810|5||||Comet.246P
+200172811|5||||Comet.246P
+200172812|5||||Comet.246P
+200172813|5||||Comet.246P
+200172814|5||||Comet.246P
+200172815|5||||Comet.246P
+200172816|5||||Comet.246P
+200172817|5||||Comet.246P
+200172818|5||||Comet.246P
+200172819|5||||Comet.246P
+200172820|5||||Comet.246P
+200172821|5||||Comet.246P
+200172822|5||||Comet.246P
+200172823|5||||Comet.246P
+200172824|5||||Comet.246P
+200172825|5||||Comet.246P
+200172826|5||||Comet.246P
+200172827|5||||Comet.246P
+200172828|5||||Comet.246P
+200172829|5||||Comet.246P
+200172830|5||||Comet.246P
+200172831|5||||Comet.246P
+200172832|5||||Comet.246P
+200172833|5||||Comet.246P
+200172834|5||||Comet.246P
+200172835|5||||Comet.246P
+200172836|5||||Comet.246P
+200172837|5||||Comet.246P
+200172838|5||||Comet.246P
+200172839|5||||Comet.246P
+200172840|5||||Comet.246P
+200172841|5||||Comet.246P
+200172842|5||||Comet.246P
+200172843|5||||Comet.246P
+200172844|5||||Comet.246P
+200172845|5||||Comet.246P
+200172846|5||||Comet.246P
+200172847|5||||Comet.246P
+200172848|5||||Comet.246P
+200172849|5||||Comet.246P
+200172850|5||||Comet.246P
+200172851|5||||Comet.246P
+200172852|5||||Comet.246P
+200172853|5||||Comet.246P
+200172854|5||||Comet.246P
+200172855|5||||Comet.246P
+200172856|5||||Comet.246P
+200172857|5||||Comet.246P
+200172858|5||||Comet.246P
+200172859|5||||Comet.246P
+200172860|5||||Comet.246P
+200172861|5||||Comet.246P
+200172862|5||||Comet.246P
+200172863|5||||Comet.246P
+200172864|5||||Comet.246P
+200172865|5||||Comet.246P
+200172866|5||||Comet.246P
+200172867|5||||Comet.246P
+200172868|5||||Comet.246P
+200172869|5||||Comet.246P
+200172870|5||||Comet.246P
+200172871|5||||Comet.246P
+200172872|5||||Comet.246P
+200172873|5||||Comet.246P
+200172874|5||||Comet.246P
+200172875|5||||Comet.246P
+200172876|5||||Comet.246P
+200172877|5||||Comet.246P
+200172878|5||||Comet.246P
+200172879|5||||Comet.246P
+200172880|5||||Comet.246P
+200172881|5||||Comet.246P
+200172882|5||||Comet.246P
+200172883|5||||Comet.246P
+200172884|5||||Comet.246P
+200172885|5||||Comet.246P
+200172886|5||||Comet.246P
+200172887|5||||Comet.246P
+200172888|5||||Comet.246P
+200172889|5||||Comet.246P
+200172890|5||||Comet.246P
+200172891|5||||Comet.246P
+200172892|5||||Comet.246P
+200172893|5||||Comet.246P
+200172894|5||||Comet.246P
+200172895|5||||Comet.246P
+200172896|5||||Comet.246P
+200172897|5||||Comet.246P
+200172898|5||||Comet.246P
+200172899|5||||Comet.246P
+200172900|5||||Comet.246P
+200172901|5||||Comet.246P
+200172902|5||||Comet.246P
+200172903|5||||Comet.246P
+200172904|5||||Comet.246P
+200172905|5||||Comet.246P
+200172906|5||||Comet.246P
+200172907|5||||Comet.246P
+200172908|5||||Comet.246P
+200172909|5||||Comet.246P
+200172910|5||||Comet.246P
+200172911|5||||Comet.246P
+200172912|5||||Comet.246P
+200172913|5||||Comet.246P
+200172914|5||||Comet.246P
+200172915|5||||Comet.246P
+200172916|5||||Comet.246P
+200172917|5||||Comet.246P
+200172918|5||||Comet.246P
+200172919|5||||Comet.246P
+200172920|5||||Comet.246P
+200172921|5||||Comet.246P
+200172922|5||||Comet.246P
+200172923|5||||Comet.246P
+200172924|5||||Comet.246P
+200172925|5||||Comet.246P
+200172926|5||||Comet.246P
+200172927|5||||Comet.246P
+200172928|5||||Comet.246P
+200172929|5||||Comet.246P
+200172930|5||||Comet.246P
+200172931|5||||Comet.246P
+200172932|5||||Comet.246P
+200172933|5||||Comet.246P
+200172934|5||||Comet.246P
+200172935|5||||Comet.246P
+200172936|5||||Comet.246P
+200172937|5||||Comet.246P
+200172938|5||||Comet.246P
+200172939|5||||Comet.246P
+200172940|5||||Comet.246P
+200172941|5||||Comet.246P
+200172942|5||||Comet.246P
+200172943|5||||Comet.246P
+200172944|5||||Comet.246P
+200172945|5||||Comet.246P
+200172946|5||||Comet.246P
+200172947|5||||Comet.246P
+200172948|5||||Comet.246P
+200172949|5||||Comet.246P
+200172950|5||||Comet.246P
+200172951|5||||Comet.246P
+200172952|5||||Comet.246P
+200172953|5||||Comet.246P
+200172954|5||||Comet.246P
+200172955|5||||Comet.246P
+200172956|5||||Comet.246P
+200172957|5||||Comet.246P
+200172958|5||||Comet.246P
+200172959|5||||Comet.246P
+200172960|5||||Comet.246P
+200172961|5||||Comet.246P
+200172962|5||||Comet.246P
+200172963|5||||Comet.246P
+200172964|5||||Comet.246P
+200172965|5||||Comet.246P
+200172966|5||||Comet.246P
+200172967|5||||Comet.246P
+200172968|5||||Comet.246P
+200172969|5||||Comet.246P
+200172970|5||||Comet.246P
+200172971|5||||Comet.246P
+200172972|5||||Comet.246P
+200172973|5||||Comet.246P
+200172974|5||||Comet.246P
+200172975|5||||Comet.246P
+200172976|5||||Comet.246P
+200172977|5||||Comet.246P
+200172978|5||||Comet.246P
+200172979|5||||Comet.246P
+200172980|5||||Comet.246P
+200172981|5||||Comet.246P
+200172982|5||||Comet.246P
+200172983|5||||Comet.246P
+200172984|5||||Comet.246P
+200172985|5||||Comet.246P
+200172986|5||||Comet.246P
+200172987|5||||Comet.246P
+200172988|5||||Comet.246P
+200172989|5||||Comet.246P
+200172990|5||||Comet.246P
+200172991|5||||Comet.246P
+200172992|5||||Comet.246P
+200172993|5||||Comet.246P
+200172994|5||||Comet.246P
+200172995|5||||Comet.246P
+200172996|5||||Comet.246P
+200172997|5||||Comet.246P
+200172998|5||||Comet.246P
+200172999|5||||Comet.246P
+200173000|5||||Comet.246P
+200173001|5||||Comet.246P
+200173002|5||||Comet.246P
+200173003|5||||Comet.246P
+200173004|5||||Comet.246P
+200173005|5||||Comet.246P
+200173006|5||||Comet.246P
+200173007|5||||Comet.246P
+200173008|5||||Comet.246P
+200173009|5||||Comet.246P
+200173010|5||||Comet.246P
+200173011|5||||Comet.246P
+200173012|5||||Comet.246P
+200173013|5||||Comet.246P
+200173014|5||||Comet.246P
+200173015|5||||Comet.246P
+200173016|5||||Comet.246P
+200173017|5||||Comet.246P
+200173018|5||||Comet.246P
+200173019|5||||Comet.246P
+200173020|5||||Comet.246P
+200173021|5||||Comet.246P
+200173022|5||||Comet.246P
+200173023|5||||Comet.246P
+200173024|5||||Comet.246P
+200173025|5||||Comet.246P
+200173026|5||||Comet.246P
+200173027|5||||Comet.246P
+200173028|5||||Comet.246P
+200173029|5||||Comet.246P
+200173030|5||||Comet.246P
+200173031|5||||Comet.246P
+200173032|5||||Comet.246P
+200173033|5||||Comet.246P
+200173034|5||||Comet.246P
+200173035|5||||Comet.246P
+200173036|5||||Comet.246P
+200173037|5||||Comet.246P
+200173038|5||||Comet.246P
+200173039|5||||Comet.246P
+200173040|5||||Comet.246P
+200173041|5||||Comet.246P
+200173042|5||||Comet.246P
+200173043|5||||Comet.246P
+200173044|5||||Comet.246P
+200173045|5||||Comet.246P
+200173046|5||||Comet.246P
+200173047|5||||Comet.246P
+200173048|5||||Comet.246P
+200173049|5||||Comet.246P
+200173050|5||||Comet.246P
+200173051|5||||Comet.246P
+200173052|5||||Comet.246P
+200173053|5||||Comet.246P
+200173054|5||||Comet.246P
+200173055|5||||Comet.246P
+200173056|5||||Comet.246P
+200173057|5||||Comet.246P
+200173058|5||||Comet.246P
+200173059|5||||Comet.246P
+200173060|5||||Comet.246P
+200173061|5||||Comet.246P
+200173062|5||||Comet.246P
+200173063|5||||Comet.246P
+200173064|5||||Comet.246P
+200173065|5||||Comet.246P
+200173066|5||||Comet.246P
+200173067|5||||Comet.246P
+200173068|5||||Comet.246P
+200173069|5||||Comet.246P
+200173070|5||||Comet.246P
+200173071|5||||Comet.246P
+200173072|5||||Comet.246P
+200173073|5||||Comet.246P
+200173074|5||||Comet.246P
+200173075|5||||Comet.246P
+200173076|5||||Comet.246P
+200173077|5||||Comet.246P
+200173078|5||||Comet.246P
+200173079|5||||Comet.246P
+200173080|5||||Comet.246P
+200173081|5||||Comet.246P
+200173082|5||||Comet.246P
+200173083|5||||Comet.246P
+200173084|5||||Comet.246P
+200173085|5||||Comet.246P
+200173086|5||||Comet.246P
+200173087|5||||Comet.246P
+200173088|5||||Comet.246P
+200173089|5||||Comet.246P
+200173090|5||||Comet.246P
+200173091|5||||Comet.246P
+200173092|5||||Comet.246P
+200173093|5||||Comet.246P
+200173094|5||||Comet.246P
+200173095|5||||Comet.246P
+200173096|5||||Comet.246P
+200173097|5||||Comet.246P
+200173098|5||||Comet.246P
+200173099|5||||Comet.246P
+200173100|5||||Comet.246P
+200173101|5||||Comet.246P
+200173102|5||||Comet.246P
+200173103|5||||Comet.246P
+200173104|5||||Comet.246P
+200173105|5||||Comet.246P
+200173106|5||||Comet.246P
+200173107|5||||Comet.246P
+200173108|5||||Comet.246P
+200173109|5||||Comet.246P
+200173110|5||||Comet.246P
+200173111|5||||Comet.246P
+200173112|5||||Comet.246P
+200173113|5||||Comet.246P
+200173114|5||||Comet.246P
+200173115|5||||Comet.246P
+200173116|5||||Comet.246P
+200173117|5||||Comet.246P
+200173118|5||||Comet.246P
+200173119|5||||Comet.246P
+200173120|5||||Comet.246P
+200173121|5||||Comet.246P
+200173122|5||||Comet.246P
+200173123|5||||Comet.246P
+200173124|5||||Comet.246P
+200173125|5||||Comet.246P
+200173126|5||||Comet.246P
+200173127|5||||Comet.246P
+200173128|5||||Comet.246P
+200173129|5||||Comet.246P
+200173130|5||||Comet.246P
+200173131|5||||Comet.246P
+200173132|5||||Comet.246P
+200173133|5||||Comet.246P
+200173134|5||||Comet.246P
+200173135|5||||Comet.246P
+200173136|5||||Comet.246P
+200173137|5||||Comet.246P
+200173138|5||||Comet.246P
+200173139|5||||Comet.246P
+200173140|5||||Comet.246P
+200173141|5||||Comet.246P
+200173142|5||||Comet.246P
+200173143|5||||Comet.246P
+200173144|5||||Comet.246P
+200173145|5||||Comet.246P
+200173146|5||||Comet.246P
+200173147|5||||Comet.246P
+200173148|5||||Comet.246P
+200173149|5||||Comet.246P
+200173150|5||||Comet.246P
+200173151|5||||Comet.246P
+200173152|5||||Comet.246P
+200173153|5||||Comet.246P
+200173154|5||||Comet.246P
+200173155|5||||Comet.246P
+200173156|5||||Comet.246P
+200173157|5||||Comet.246P
+200173158|5||||Comet.246P
+200173159|5||||Comet.246P
+200173160|5||||Comet.246P
+200173161|5||||Comet.246P
+200173162|5||||Comet.246P
+200173163|5||||Comet.246P
+200173164|5||||Comet.246P
+200173165|5||||Comet.246P
+200173166|5||||Comet.246P
+200173167|5||||Comet.246P
+200173168|5||||Comet.246P
+200173169|5||||Comet.246P
+200173170|5||||Comet.246P
+200173171|5||||Comet.246P
+200173172|5||||Comet.246P
+200173173|5||||Comet.246P
+200173174|5||||Comet.246P
+200173175|5||||Comet.246P
+200173176|5||||Comet.246P
+200173177|5||||Comet.246P
+200173178|5||||Comet.246P
+200173179|5||||Comet.246P
+200173180|5||||Comet.246P
+200173181|5||||Comet.246P
+200173182|5||||Comet.246P
+200173183|5||||Comet.246P
+200173184|5||||Comet.246P
+200173185|5||||Comet.246P
+200173186|5||||Comet.246P
+200173187|5||||Comet.246P
+200173188|5||||Comet.246P
+200173189|5||||Comet.246P
+200173190|5||||Comet.246P
+200173191|5||||Comet.246P
+200173192|5||||Comet.246P
+200173193|5||||Comet.246P
+200173194|5||||Comet.246P
+200173195|5||||Comet.246P
+200173196|5||||Comet.246P
+200173197|5||||Comet.246P
+200173198|5||||Comet.246P
+200173199|5||||Comet.246P
+200173200|5||||Comet.246P
+200173201|5||||Comet.246P
+200173202|5||||Comet.246P
+200173203|5||||Comet.246P
+200173204|5||||Comet.246P
+200173205|5||||Comet.246P
+200173206|5||||Comet.246P
+200173207|5||||Comet.246P
+200173208|5||||Comet.246P
+200173209|5||||Comet.246P
+200173210|5||||Comet.246P
+200173211|5||||Comet.246P
+200173212|5||||Comet.246P
+200173213|5||||Comet.246P
+200173214|5||||Comet.246P
+200173215|5||||Comet.246P
+200173216|5||||Comet.246P
+200173217|5||||Comet.246P
+200173218|5||||Comet.246P
+200173219|5||||Comet.246P
+200173220|5||||Comet.246P
+200173221|5||||Comet.246P
+200173222|5||||Comet.246P
+200173223|5||||Comet.246P
+200173224|5||||Comet.246P
+200173225|5||||Comet.246P
+200173226|5||||Comet.246P
+200173227|5||||Comet.246P
+200173228|5||||Comet.246P
+200173229|5||||Comet.246P
+200173230|5||||Comet.246P
+200173231|5||||Comet.246P
+200173232|5||||Comet.246P
+200173233|5||||Comet.246P
+200173234|5||||Comet.246P
+200173235|5||||Comet.246P
+200173236|5||||Comet.246P
+200173237|5||||Comet.246P
+200173238|5||||Comet.246P
+200173239|5||||Comet.246P
+200173240|5||||Comet.246P
+200173241|5||||Comet.246P
+200173242|5||||Comet.246P
+200173243|5||||Comet.246P
+200173244|5||||Comet.246P
+200173245|5||||Comet.246P
+200173246|5||||Comet.246P
+200173247|5||||Comet.246P
+200173248|5||||Comet.246P
+200173249|5||||Comet.246P
+200173250|5||||Comet.246P
+200173251|5||||Comet.246P
+200173252|5||||Comet.246P
+200173253|5||||Comet.246P
+200173254|5||||Comet.246P
+200173255|5||||Comet.246P
+200173256|5||||Comet.246P
+200173257|5||||Comet.246P
+200173258|5||||Comet.246P
+200173259|5||||Comet.246P
+200173260|5||||Comet.246P
+200173261|5||||Comet.246P
+200173262|5||||Comet.246P
+200173263|5||||Comet.246P
+200173264|5||||Comet.246P
+200173265|5||||Comet.246P
+200173266|5||||Comet.246P
+200173267|5||||Comet.246P
+200173268|5||||Comet.246P
+200173269|5||||Comet.246P
+200173270|5||||Comet.246P
+200173271|5||||Comet.246P
+200173272|5||||Comet.246P
+200173273|5||||Comet.246P
+200173274|5||||Comet.246P
+200173275|5||||Comet.246P
+200173276|5||||Comet.246P
+200173277|5||||Comet.246P
+200173278|5||||Comet.246P
+200173279|5||||Comet.246P
+200173280|5||||Comet.246P
+200173281|5||||Comet.246P
+200173282|5||||Comet.246P
+200173283|5||||Comet.246P
+200173284|5||||Comet.246P
+200173285|5||||Comet.246P
+200173286|5||||Comet.246P
+200173287|5||||Comet.246P
+200173288|5||||Comet.246P
+200173289|5||||Comet.246P
+200173290|5||||Comet.246P
+200173291|5||||Comet.246P
+200173292|5||||Comet.246P
+200173293|5||||Comet.246P
+200173294|5||||Comet.246P
+200173295|5||||Comet.246P
+200173296|5||||Comet.246P
+200173297|5||||Comet.246P
+200173298|5||||Comet.246P
+200173299|5||||Comet.246P
+200173300|5||||Comet.246P
+200173301|5||||Comet.246P
+200173302|5||||Comet.246P
+200173303|5||||Comet.246P
+200173304|5||||Comet.246P
+200173305|5||||Comet.246P
+200173306|5||||Comet.246P
+200173307|5||||Comet.246P
+200173308|5||||Comet.246P
+200173309|5||||Comet.246P
+200173310|5||||Comet.246P
+200173311|5||||Comet.246P
+200173312|5||||Comet.246P
+200173313|5||||Comet.246P
+200173314|5||||Comet.246P
+200173315|5||||Comet.246P
+200173316|5||||Comet.246P
+200173317|5||||Comet.246P
+200173318|5||||Comet.246P
+200173319|5||||Comet.246P
+200173320|5||||Comet.246P
+200173321|5||||Comet.246P
+200173322|5||||Comet.246P
+200173323|5||||Comet.246P
+200173324|5||||Comet.246P
+200173325|5||||Comet.246P
+200173326|5||||Comet.246P
+200173327|5||||Comet.246P
+200173328|5||||Comet.246P
+200173329|5||||Comet.246P
+200173330|5||||Comet.246P
+200173331|5||||Comet.246P
+200173332|5||||Comet.246P
+200173333|5||||Comet.246P
+200173334|5||||Comet.246P
+200173335|5||||Comet.246P
+200173336|5||||Comet.246P
+200173337|5||||Comet.246P
+200173338|5||||Comet.246P
+200173339|5||||Comet.246P
+200173340|5||||Comet.246P
+200173341|5||||Comet.246P
+200173342|5||||Comet.246P
+200173343|5||||Comet.246P
+200173344|5||||Comet.246P
+200173345|5||||Comet.246P
+200173346|5||||Comet.246P
+200173347|5||||Comet.246P
+200173348|5||||Comet.246P
+200173349|5||||Comet.246P
+200173350|5||||Comet.246P
+200173351|5||||Comet.246P
+200173352|5||||Comet.246P
+200173353|5||||Comet.246P
+200173354|5||||Comet.246P
+200173355|5||||Comet.246P
+200173356|5||||Comet.246P
+200173357|5||||Comet.246P
+200173358|5||||Comet.246P
+200173359|5||||Comet.246P
+200173360|5||||Comet.246P
+200173361|5||||Comet.246P
+200173362|5||||Comet.246P
+200173363|5||||Comet.246P
+200173364|5||||Comet.246P
+200173365|5||||Comet.246P
+200173366|5||||Comet.246P
+200173367|5||||Comet.246P
+200173368|5||||Comet.246P
+200173369|5||||Comet.246P
+200173370|5||||Comet.246P
+200173371|5||||Comet.246P
+200173372|5||||Comet.246P
+200173373|5||||Comet.246P
+200173374|5||||Comet.246P
+200173375|5||||Comet.246P
+200173376|5||||Comet.246P
+200173377|5||||Comet.246P
+200173378|5||||Comet.246P
+200173379|5||||Comet.246P
+200173380|5||||Comet.246P
+200173381|5||||Comet.246P
+200173382|5||||Comet.246P
+200173383|5||||Comet.246P
+200173384|5||||Comet.246P
+200173385|5||||Comet.246P
+200173386|5||||Comet.246P
+200173387|5||||Comet.246P
+200173388|5||||Comet.246P
+200173389|5||||Comet.246P
+200173390|5||||Comet.246P
+200173391|5||||Comet.246P
+200173392|5||||Comet.246P
+200173393|5||||Comet.246P
+200173394|5||||Comet.246P
+200173395|5||||Comet.246P
+200173396|5||||Comet.246P
+200173397|5||||Comet.246P
+200173398|5||||Comet.246P
+200173399|5||||Comet.246P
+200173400|5||||Comet.246P
+200173401|5||||Comet.246P
+200173402|5||||Comet.246P
+200173403|5||||Comet.246P
+200173404|5||||Comet.246P
+200173405|5||||Comet.246P
+200173406|5||||Comet.246P
+200173407|5||||Comet.246P
+200173408|5||||Comet.246P
+200173409|5||||Comet.246P
+200173410|5||||Comet.246P
+200173411|5||||Comet.246P
+200173412|5||||Comet.246P
+200173413|5||||Comet.246P
+200173414|5||||Comet.246P
+200173415|5||||Comet.246P
+200173416|5||||Comet.246P
+200173417|5||||Comet.246P
+200173418|5||||Comet.246P
+200173419|5||||Comet.246P
+200173420|5||||Comet.246P
+200173421|5||||Comet.246P
+200173422|5||||Comet.246P
+200173423|5||||Comet.246P
+200173424|5||||Comet.246P
+200173425|5||||Comet.246P
+200173426|5||||Comet.246P
+200173427|5||||Comet.246P
+200173428|5||||Comet.246P
+200173429|5||||Comet.246P
+200173430|5||||Comet.246P
+200173431|5||||Comet.246P
+200173432|5||||Comet.246P
+200173433|5||||Comet.246P
+200173434|5||||Comet.246P
+200173435|5||||Comet.246P
+200173436|5||||Comet.246P
+200173437|5||||Comet.246P
+200173438|5||||Comet.246P
+200173439|5||||Comet.246P
+200173440|5||||Comet.246P
+200173441|5||||Comet.246P
+200173442|5||||Comet.246P
+200173443|5||||Comet.246P
+200173444|5||||Comet.246P
+200173445|5||||Comet.246P
+200173446|5||||Comet.246P
+200173447|5||||Comet.246P
+200173448|5||||Comet.246P
+200173449|5||||Comet.246P
+200173450|5||||Comet.246P
+200173451|5||||Comet.246P
+200173452|5||||Comet.246P
+200173453|5||||Comet.246P
+200173454|5||||Comet.246P
+200173455|5||||Comet.246P
+200173456|5||||Comet.246P
+200173457|5||||Comet.246P
+200173458|5||||Comet.246P
+200173459|5||||Comet.246P
+200173460|5||||Comet.246P
+200173461|5||||Comet.246P
+200173462|5||||Comet.246P
+200173463|5||||Comet.246P
+200173464|5||||Comet.246P
+200173465|5||||Comet.246P
+200173466|5||||Comet.246P
+200173467|5||||Comet.246P
+200173468|5||||Comet.246P
+200173469|5||||Comet.246P
+200173470|5||||Comet.246P
+200173471|5||||Comet.246P
+200173472|5||||Comet.246P
+200173473|5||||Comet.246P
+200173474|5||||Comet.246P
+200173475|5||||Comet.246P
+200173476|5||||Comet.246P
+200173477|5||||Comet.246P
+200173478|5||||Comet.246P
+200173479|5||||Comet.246P
+200173480|5||||Comet.246P
+200173481|5||||Comet.246P
+200173482|5||||Comet.246P
+200173483|5||||Comet.246P
+200173484|5||||Comet.246P
+200173485|5||||Comet.246P
+200173486|5||||Comet.246P
+200173487|5||||Comet.246P
+200173488|5||||Comet.246P
+200173489|5||||Comet.246P
+200173490|5||||Comet.246P
+200173491|5||||Comet.246P
+200173492|5||||Comet.246P
+200173493|5||||Comet.246P
+200173494|5||||Comet.246P
+200173495|5||||Comet.246P
+200173496|5||||Comet.246P
+200173497|5||||Comet.246P
+200173498|5||||Comet.246P
+200173499|5||||Comet.246P
+200173500|5||||Comet.246P
+200173501|5||||Comet.246P
+200173502|5||||Comet.246P
+200173503|5||||Comet.246P
+200173504|5||||Comet.246P
+200173505|5||||Comet.246P
+200173506|5||||Comet.246P
+200173507|5||||Comet.246P
+200173508|5||||Comet.246P
+200173509|5||||Comet.246P
+200173510|5||||Comet.246P
+200173511|5||||Comet.246P
+200173512|5||||Comet.246P
+200173513|5||||Comet.246P
+200173514|5||||Comet.246P
+200173515|5||||Comet.246P
+200173516|5||||Comet.246P
+200173517|5||||Comet.246P
+200173518|5||||Comet.246P
+200173519|5||||Comet.246P
+200173520|5||||Comet.246P
+200173521|5||||Comet.246P
+200173522|5||||Comet.246P
+200173523|5||||Comet.246P
+200173524|5||||Comet.246P
+200173525|5||||Comet.246P
+200173526|5||||Comet.246P
+200173527|5||||Comet.246P
+200173528|5||||Comet.246P
+200173529|5||||Comet.246P
+200173530|5||||Comet.246P
+200173531|5||||Comet.246P
+200173532|5||||Comet.246P
+200173533|5||||Comet.246P
+200173534|5||||Comet.246P
+200173535|5||||Comet.246P
+200173536|5||||Comet.246P
+200173537|5||||Comet.246P
+200173538|5||||Comet.246P
+200173539|5||||Comet.246P
+200173540|5||||Comet.246P
+200173541|5||||Comet.246P
+200173542|5||||Comet.246P
+200173543|5||||Comet.246P
+200173544|5||||Comet.246P
+200173545|5||||Comet.246P
+200173546|5||||Comet.246P
+200173547|5||||Comet.246P
+200173548|5||||Comet.246P
+200173549|5||||Comet.246P
+200173550|5||||Comet.246P
+200173551|5||||Comet.246P
+200173552|5||||Comet.246P
+200173553|5||||Comet.246P
+200173554|5||||Comet.246P
+200173555|5||||Comet.246P
+200173556|5||||Comet.246P
+200173557|5||||Comet.246P
+200173558|5||||Comet.246P
+200173559|5||||Comet.246P
+200173560|5||||Comet.246P
+200173561|5||||Comet.246P
+200173562|5||||Comet.246P
+200173563|5||||Comet.246P
+200173564|5||||Asteroid.Trojan.Santorini
+200173565|5||||Asteroid.Trojan.Santorini
+200173566|5||||Asteroid.Trojan.Santorini
+200173567|5||||Asteroid.Trojan.Santorini
+200173568|5||||Asteroid.Trojan.Santorini
+200173569|5||||Asteroid.Trojan.Santorini
+200173570|5||||Asteroid.Trojan.Santorini
+200173571|5||||Asteroid.Trojan.Santorini
+200173572|5||||Asteroid.Trojan.Santorini
+200173573|5||||Asteroid.Trojan.Santorini
+200173574|5||||Asteroid.Trojan.Santorini
+200173575|5||||Asteroid.Trojan.Santorini
+200173576|5||||Asteroid.Trojan.Santorini
+200173577|5||||Asteroid.Trojan.Santorini
+200173578|5||||Asteroid.Trojan.Santorini
+200173579|5||||Asteroid.Trojan.Santorini
+200173580|5||||Asteroid.Trojan.Santorini
+200173581|5||||Asteroid.Trojan.Santorini
+200173582|5||||Asteroid.Trojan.Santorini
+200173583|5||||Asteroid.Trojan.Santorini
+200173584|5||||Asteroid.Trojan.Santorini
+200173585|5||||Asteroid.Trojan.Santorini
+200173586|5||||Asteroid.Trojan.Santorini
+200173587|5||||Asteroid.Trojan.Santorini
+200173588|5||||Asteroid.Trojan.Santorini
+200173589|5||||Asteroid.Trojan.Santorini
+200173590|5||||Asteroid.Trojan.Santorini
+200173591|5||||Asteroid.Trojan.Santorini
+200173592|5||||Asteroid.Trojan.Santorini
+200173593|5||||Asteroid.Trojan.Santorini
+200173594|5||||Asteroid.Trojan.Santorini
+200173595|5||||Asteroid.Trojan.Santorini
+200173596|5||||Asteroid.Trojan.Santorini
+200173597|5||||Asteroid.Trojan.Santorini
+200173598|5||||Asteroid.Trojan.Santorini
+200173599|5||||Asteroid.Trojan.Santorini
+200173600|5||||Asteroid.Trojan.Santorini
+200173601|5||||Asteroid.Trojan.Santorini
+200173602|5||||Asteroid.Trojan.Santorini
+200173603|5||||Asteroid.Trojan.Santorini
+200173604|5||||Asteroid.Trojan.Santorini
+200173605|5||||Asteroid.Trojan.Santorini
+200173606|5||||Asteroid.Trojan.Santorini
+200173607|5||||Asteroid.Trojan.Santorini
+200173608|5||||Asteroid.Trojan.Santorini
+200173609|5||||Asteroid.Trojan.Santorini
+200173610|5||||Asteroid.Trojan.Santorini
+200173611|5||||Asteroid.Trojan.Santorini
+200173612|5||||Asteroid.Trojan.Santorini
+200173613|5||||Asteroid.Trojan.Santorini
+200173614|5||||Asteroid.Trojan.Santorini
+200173615|5||||Asteroid.Trojan.Santorini
+200173616|5||||Asteroid.Trojan.Santorini
+200173617|5||||Asteroid.Trojan.Santorini
+200173618|5||||Asteroid.Trojan.Santorini
+200173619|5||||Asteroid.Trojan.Santorini
+200173620|5||||Asteroid.Trojan.Santorini
+200173621|5||||Asteroid.Trojan.Santorini
+200173622|5||||Asteroid.Trojan.Santorini
+200173623|5||||Asteroid.Trojan.Santorini
+200173624|5||||Asteroid.Trojan.Santorini
+200173625|5||||Asteroid.Trojan.Santorini
+200173626|5||||Asteroid.Trojan.Santorini
+200173627|5||||Asteroid.Trojan.Santorini
+200173628|5||||Asteroid.Trojan.Santorini
+200173629|5||||Asteroid.Trojan.Santorini
+200173630|5||||Asteroid.Trojan.Santorini
+200173631|5||||Asteroid.Trojan.Santorini
+200173632|5||||Asteroid.Trojan.Santorini
+200173633|5||||Asteroid.Trojan.Santorini
+200173634|5||||Asteroid.Trojan.Santorini
+200173635|5||||Asteroid.Trojan.Santorini
+200173636|5||||Asteroid.Trojan.Santorini
+200173637|5||||Asteroid.Trojan.Santorini
+200173638|5||||Asteroid.Trojan.Santorini
+200173639|5||||Asteroid.Trojan.Santorini
+200173640|5||||Asteroid.Trojan.Santorini
+200173641|5||||Asteroid.Trojan.Santorini
+200173642|5||||Asteroid.Trojan.Santorini
+200173643|5||||Asteroid.Trojan.Santorini
+200173644|5||||Asteroid.Trojan.Santorini
+200173645|5||||Asteroid.Trojan.Santorini
+200173646|5||||Asteroid.Trojan.Santorini
+200173647|5||||Asteroid.Trojan.Santorini
+200173648|5||||Asteroid.Trojan.Santorini
+200173649|5||||Asteroid.Trojan.Santorini
+200173650|5||||Asteroid.Trojan.Santorini
+200173651|5||||Asteroid.Trojan.Santorini
+200173652|5||||Asteroid.Trojan.Santorini
+200173653|5||||Asteroid.Trojan.Santorini
+200173654|5||||Asteroid.Trojan.Santorini
+200173655|5||||Asteroid.Trojan.Santorini
+200173656|5||||Asteroid.Trojan.Santorini
+200173657|5||||Asteroid.Trojan.Santorini
+200173658|5||||Asteroid.Trojan.Santorini
+200173659|5||||Asteroid.Trojan.Santorini
+200173660|5||||Asteroid.Trojan.Santorini
+200173661|5||||Asteroid.Trojan.Santorini
+200173662|5||||Asteroid.Trojan.Santorini
+200173663|5||||Asteroid.Trojan.Santorini
+200173664|5||||Asteroid.Trojan.Santorini
+200173665|5||||Asteroid.Trojan.Santorini
+200173666|5||||Asteroid.Trojan.Santorini
+200173667|5||||Asteroid.Trojan.Santorini
+200173668|5||||Asteroid.Trojan.Santorini
+200173669|5||||Asteroid.Trojan.Santorini
+200173670|5||||Asteroid.Trojan.Santorini
+200173671|5||||Asteroid.Trojan.Santorini
+200173672|5||||Asteroid.Trojan.Santorini
+200173673|5||||Asteroid.Trojan.Santorini
+200173674|5||||Asteroid.Trojan.Santorini
+200173675|5||||Asteroid.Trojan.Santorini
+200173676|5||||Asteroid.Trojan.Santorini
+200173677|5||||Asteroid.Trojan.Santorini
+200173678|5||||Asteroid.Trojan.Santorini
+200173679|5||||Asteroid.Trojan.Santorini
+200173680|5||||Asteroid.Trojan.Santorini
+200173681|5||||Asteroid.Trojan.Santorini
+200173682|5||||Asteroid.Trojan.Santorini
+200173683|5||||Asteroid.Trojan.Santorini
+200173684|5||||Asteroid.Trojan.Santorini
+200173685|5||||Asteroid.Trojan.Santorini
+200173686|5||||Asteroid.Trojan.Santorini
+200173687|5||||Asteroid.Trojan.Santorini
+200173688|5||||Asteroid.Trojan.Santorini
+200173689|5||||Asteroid.Trojan.Santorini
+200173690|5||||Asteroid.Trojan.Santorini
+200173691|5||||Asteroid.Trojan.Santorini
+200173692|5||||Asteroid.Trojan.Santorini
+200173693|5||||Asteroid.Trojan.Santorini
+200173694|5||||Asteroid.Trojan.Santorini
+200173695|5||||Asteroid.Trojan.Santorini
+200173696|5||||Asteroid.Trojan.Santorini
+200173697|5||||Asteroid.Trojan.Santorini
+200173698|5||||Asteroid.Trojan.Santorini
+200173699|5||||Asteroid.Trojan.Santorini
+200173700|5||||Asteroid.Trojan.Santorini
+200173701|5||||Asteroid.Trojan.Santorini
+200173702|5||||Asteroid.Trojan.Santorini
+200173703|5||||Asteroid.Trojan.Santorini
+200173704|5||||Asteroid.Trojan.Santorini
+200173705|5||||Asteroid.Trojan.Santorini
+200173706|5||||Asteroid.Trojan.Santorini
+200173707|5||||Asteroid.Trojan.Santorini
+200173708|5||||Asteroid.Trojan.Santorini
+200173709|5||||Asteroid.Trojan.Santorini
+200173710|5||||Asteroid.Trojan.Santorini
+200173711|5||||Asteroid.Trojan.Santorini
+200173712|5||||Asteroid.Trojan.Santorini
+200173713|5||||Asteroid.Trojan.Santorini
+200173714|5||||Asteroid.Trojan.Santorini
+200173715|5||||Asteroid.Trojan.Santorini
+200173716|5||||Asteroid.Trojan.Santorini
+200173717|5||||Asteroid.Trojan.Santorini
+200173718|5||||Asteroid.Trojan.Santorini
+200173719|5||||Asteroid.Trojan.Santorini
+200173720|5||||Asteroid.Trojan.Santorini
+200173721|5||||Asteroid.Trojan.Santorini
+200173722|5||||Asteroid.Trojan.Santorini
+200173723|5||||Asteroid.Trojan.Santorini
+200173724|5||||Asteroid.Trojan.Santorini
+200173725|5||||Asteroid.Trojan.Santorini
+200173726|5||||Asteroid.Trojan.Santorini
+200173727|5||||Asteroid.Trojan.Santorini
+200173728|5||||Asteroid.Trojan.Santorini
+200173729|5||||Asteroid.Trojan.Santorini
+200173730|5||||Asteroid.Trojan.Santorini
+200173731|5||||Asteroid.Trojan.Santorini
+200173732|5||||Asteroid.Trojan.Santorini
+200173733|5||||Asteroid.Trojan.Santorini
+200173734|5||||Asteroid.Trojan.Santorini
+200173735|5||||Asteroid.Trojan.Santorini
+200173736|5||||Asteroid.Trojan.Santorini
+200173737|5||||Asteroid.Trojan.Santorini
+200173738|5||||Asteroid.Trojan.Santorini
+200173739|5||||Asteroid.Trojan.Santorini
+200173740|5||||Asteroid.Trojan.Santorini
+200173741|5||||Asteroid.Trojan.Santorini
+200173742|5||||Asteroid.Trojan.Santorini
+200173743|5||||Asteroid.Trojan.Santorini
+200173744|5||||Asteroid.Trojan.Santorini
+200173745|5||||Asteroid.Trojan.Santorini
+200173746|5||||Asteroid.Trojan.Santorini
+200173747|5||||Asteroid.Trojan.Santorini
+200173748|5||||Asteroid.Trojan.Santorini
+200173749|5||||Asteroid.Trojan.Santorini
+200173750|5||||Asteroid.Trojan.Santorini
+200173751|5||||Asteroid.Trojan.Santorini
+200173752|5||||Asteroid.Trojan.Santorini
+200173753|5||||Asteroid.Trojan.Santorini
+200173754|5||||Asteroid.Trojan.Santorini
+200173755|5||||Asteroid.Trojan.Santorini
+200173756|5||||Asteroid.Trojan.Santorini
+200173757|5||||Asteroid.Trojan.Santorini
+200173758|5||||Asteroid.Trojan.Santorini
+200173759|5||||Asteroid.Trojan.Santorini
+200173760|5||||Asteroid.Trojan.Santorini
+200173761|5||||Asteroid.Trojan.Santorini
+200173762|5||||Asteroid.Trojan.Santorini
+200173763|5||||Asteroid.Trojan.Santorini
+200173764|5||||Asteroid.Trojan.Santorini
+200173765|5||||Asteroid.Trojan.Santorini
+200173766|5||||Asteroid.Trojan.Santorini
+200173767|5||||Asteroid.Trojan.Santorini
+200173768|5||||Asteroid.Trojan.Santorini
+200173769|5||||Asteroid.Trojan.Santorini
+200173770|5||||Asteroid.Trojan.Santorini
+200173771|5||||Asteroid.Trojan.Santorini
+200173772|5||||Asteroid.Trojan.Santorini
+200173773|5||||Asteroid.Trojan.Santorini
+200173774|5||||Asteroid.Trojan.Santorini
+200173775|5||||Asteroid.Trojan.Santorini
+200173776|5||||Asteroid.Trojan.Santorini
+200173777|5||||Asteroid.Trojan.Santorini
+200173778|5||||Asteroid.Trojan.Santorini
+200173779|5||||Asteroid.Trojan.Santorini
+200173780|5||||Asteroid.Trojan.Santorini
+200173781|5||||Asteroid.Trojan.Santorini
+200173782|5||||Asteroid.Trojan.Santorini
+200173783|5||||Asteroid.Trojan.Santorini
+200173784|5||||Asteroid.Trojan.Santorini
+200173785|5||||Asteroid.Trojan.Santorini
+200173786|5||||Asteroid.Trojan.Santorini
+200173787|5||||Asteroid.Trojan.Santorini
+200173788|5||||Asteroid.Trojan.Santorini
+200173789|5||||Asteroid.Trojan.Santorini
+200173790|5||||Asteroid.Trojan.Santorini
+200173791|5||||Asteroid.Trojan.Santorini
+200173792|5||||Asteroid.Trojan.Santorini
+200173793|5||||Asteroid.Trojan.Santorini
+200173794|5||||Asteroid.Trojan.Santorini
+200173795|5||||Asteroid.Trojan.Santorini
+200173796|5||||Asteroid.Trojan.Santorini
+200173797|5||||Asteroid.Trojan.Santorini
+200173798|5||||Asteroid.Trojan.Santorini
+200173799|5||||Asteroid.Trojan.Santorini
+200173800|5||||Asteroid.Trojan.Santorini
+200173801|5||||Asteroid.Trojan.Santorini
+200173802|5||||Asteroid.Trojan.Santorini
+200173803|5||||Asteroid.Trojan.Santorini
+200173804|5||||Asteroid.Trojan.Santorini
+200173805|5||||Asteroid.Trojan.Santorini
+200173806|5||||Asteroid.Trojan.Santorini
+200173807|5||||Asteroid.Trojan.Santorini
+200173808|5||||Asteroid.Trojan.Santorini
+200173809|5||||Asteroid.Trojan.Santorini
+200173810|5||||Asteroid.Trojan.Santorini
+200173811|5||||Asteroid.Trojan.Santorini
+200173812|5||||Asteroid.Trojan.Santorini
+200173813|5||||Asteroid.Trojan.Santorini
+200173814|5||||Asteroid.Trojan.Santorini
+200173815|5||||Asteroid.Trojan.Santorini
+200173816|5||||Asteroid.Trojan.Santorini
+200173817|5||||Asteroid.Trojan.Santorini
+200173818|5||||Asteroid.Trojan.Santorini
+200173819|5||||Asteroid.Trojan.Santorini
+200173820|5||||Asteroid.Trojan.Santorini
+200173821|5||||Asteroid.Trojan.Santorini
+200173822|5||||Asteroid.Trojan.Santorini
+200173823|5||||Asteroid.Trojan.Santorini
+200173824|5||||Asteroid.Trojan.Santorini
+200173825|5||||Asteroid.Trojan.Santorini
+200173826|5||||Asteroid.Trojan.Santorini
+200173827|5||||Asteroid.Trojan.Santorini
+200173828|5||||Asteroid.Trojan.Santorini
+200173829|5||||Asteroid.Trojan.Santorini
+200173830|5||||Asteroid.Trojan.Santorini
+200173831|5||||Asteroid.Trojan.Santorini
+200173832|5||||Asteroid.Trojan.Santorini
+200173833|5||||Asteroid.Trojan.Santorini
+200173834|5||||Asteroid.Trojan.Santorini
+200173835|5||||Asteroid.Trojan.Santorini
+200173836|5||||Asteroid.Trojan.Santorini
+200173837|5||||Asteroid.Trojan.Santorini
+200173838|5||||Asteroid.Trojan.Santorini
+200173839|5||||Asteroid.Trojan.Santorini
+200173840|5||||Asteroid.Trojan.Santorini
+200173841|5||||Asteroid.Trojan.Santorini
+200173842|5||||Asteroid.Trojan.Santorini
+246875074|1||||Bright Stars
+210754593|1||||Bright Stars
+210528045|1||||Bright Stars
+210533748|1||||Bright Stars
+210956961|1||||Bright Stars
+210989874|1||||Bright Stars
+210668871|1||||Bright Stars
+247599022|1||||Bright Stars
+246721980|1||||Bright Stars
+210559378|1||||Bright Stars
+246769329|1||||Bright Stars
+246786764|1||||Bright Stars
+210548567|1||||Bright Stars
+246828837|1||||Bright Stars
+247117838|1||||Bright Stars
+246941331|1||||Bright Stars
+210950988|1||||Bright Stars
+246795385|1||||Bright Stars
+210924194|1||||Bright Stars
+247733919|1||||Bright Stars
+210883911|1||||Bright Stars
+210912133|1||||Bright Stars
+210513593|1||||Bright Stars
+210914621|1||||Bright Stars
+246827687|1||||Bright Stars
+247437885|1||||Bright Stars
+247893813|1||||Bright Stars
+246738099|1||||Bright Stars
+247385294|1||||Bright Stars
+247254216|1||||Bright Stars
+248242432|1||||Bright Stars
+210745602|1||||Bright Stars
+247220058|1||||Bright Stars
+247649941|1||||Bright Stars SC
+246810368|1||||Bright Stars SC
+210528045|1||||Bright Stars SC
+210956961|1||||Bright Stars SC
+210989874|1||||Bright Stars SC
+246721980|1||||Bright Stars SC
+210548567|1||||Bright Stars SC
+247117838|1||||Bright Stars SC
+210950988|1||||Bright Stars SC

@@ -1,0 +1,160 @@
+
+####### FASTCopy started at Thu Jan 27 08:12:47 2011 ( pid = 403 ) #######
+
+fcopy "*" "keplerops.stsci.edu:/info/keplerops/aux/soc/cat/" -temp_dir="/tmp" -list="list.txt" -compression="normal" -log_file="fastcopy_q0-q6_cafs_to_dmc_ksop744_log_110127.txt" -log_format="full" 
+
+
+FCOPY-I-CPYRGHT, FASTCopy V2.6.3 Copyright (c) 2004 by SoftLink Ltd.
+
+       **********      FASTCopy  Statistics      **********
+
+FCOPY-I-BANNER ,  Licensed to NASA AMES Research Center
+
+FCOPY-I-SUBBANNER ,  FASTCopy for Single processor, Linux server
+
+
+Source  File name : /home/dmc/FASTCOPY/FC_TO_DMC/Q0-Q6_CAFs_KSOP744/11026_sethomps_caf_ksop744/kplr2011026102100_Q2_caf.txt 
+Target File name : keplerops.stsci.edu:/info/keplerops/aux/soc/cat/kplr2011026102100_Q2_caf.txt 
+Temporary output file : /tmp/AAAt7aOkF 
+Transfer started at : Thu Jan 27 08:12:56 2011
+
+File size : 3168 bytes
+
+Position    %Completed   Block-size   Compressed-size   Ratio
+========== ============ ============ ================= ===========
+1              100        3168         886              1:3.58
+========== ============ ============ ================= ===========
+Total:         100        3168         886              1:3.58
+
+FCOPY-S-FILE_COPIED, file '/home/dmc/FASTCOPY/FC_TO_DMC/Q0-Q6_CAFs_KSOP744/11026_sethomps_caf_ksop744/kplr2011026102100_Q2_caf.txt' FASTCopied to file 'keplerops.stsci.edu:/tmp/AAAt7aOkF' ( 3168          Bytes )
+
+Transfer started at : Thu Jan 27 08:12:56 2011
+Transfer ended at : Thu Jan 27 08:12:57 2011
+FCOPY-I-RENAME, temporary output file '/tmp/AAAt7aOkF' renamed to '/info/keplerops/aux/soc/cat/kplr2011026102100_Q2_caf.txt'
+
+Source  File name : /home/dmc/FASTCOPY/FC_TO_DMC/Q0-Q6_CAFs_KSOP744/11026_sethomps_caf_ksop744/kplr2011026102700_Q3_caf.txt 
+Target File name : keplerops.stsci.edu:/info/keplerops/aux/soc/cat/kplr2011026102700_Q3_caf.txt 
+Temporary output file : /tmp/BAAu7aOkF 
+Transfer started at : Thu Jan 27 08:12:58 2011
+
+File size : 3186 bytes
+
+Position    %Completed   Block-size   Compressed-size   Ratio
+========== ============ ============ ================= ===========
+1              100        3186         906              1:3.52
+========== ============ ============ ================= ===========
+Total:         100        3186         906              1:3.52
+
+FCOPY-S-FILE_COPIED, file '/home/dmc/FASTCOPY/FC_TO_DMC/Q0-Q6_CAFs_KSOP744/11026_sethomps_caf_ksop744/kplr2011026102700_Q3_caf.txt' FASTCopied to file 'keplerops.stsci.edu:/tmp/BAAu7aOkF' ( 3186          Bytes )
+
+Transfer started at : Thu Jan 27 08:12:58 2011
+Transfer ended at : Thu Jan 27 08:12:58 2011
+FCOPY-I-RENAME, temporary output file '/tmp/BAAu7aOkF' renamed to '/info/keplerops/aux/soc/cat/kplr2011026102700_Q3_caf.txt'
+
+Source  File name : /home/dmc/FASTCOPY/FC_TO_DMC/Q0-Q6_CAFs_KSOP744/11026_sethomps_caf_ksop744/kplr2011026103200_Q4_caf.txt 
+Target File name : keplerops.stsci.edu:/info/keplerops/aux/soc/cat/kplr2011026103200_Q4_caf.txt 
+Temporary output file : /tmp/CAAv7aOkF 
+Transfer started at : Thu Jan 27 08:12:59 2011
+
+File size : 3209 bytes
+
+Position    %Completed   Block-size   Compressed-size   Ratio
+========== ============ ============ ================= ===========
+1              100        3209         924              1:3.47
+========== ============ ============ ================= ===========
+Total:         100        3209         924              1:3.47
+
+FCOPY-S-FILE_COPIED, file '/home/dmc/FASTCOPY/FC_TO_DMC/Q0-Q6_CAFs_KSOP744/11026_sethomps_caf_ksop744/kplr2011026103200_Q4_caf.txt' FASTCopied to file 'keplerops.stsci.edu:/tmp/CAAv7aOkF' ( 3209          Bytes )
+
+Transfer started at : Thu Jan 27 08:12:59 2011
+Transfer ended at : Thu Jan 27 08:12:59 2011
+FCOPY-I-RENAME, temporary output file '/tmp/CAAv7aOkF' renamed to '/info/keplerops/aux/soc/cat/kplr2011026103200_Q4_caf.txt'
+
+Source  File name : /home/dmc/FASTCOPY/FC_TO_DMC/Q0-Q6_CAFs_KSOP744/11026_sethomps_caf_ksop744/kplr2011026120800_Q0_caf.txt 
+Target File name : keplerops.stsci.edu:/info/keplerops/aux/soc/cat/kplr2011026120800_Q0_caf.txt 
+Temporary output file : /tmp/DAAw7aOkF 
+Transfer started at : Thu Jan 27 08:13:00 2011
+
+File size : 2520 bytes
+
+Position    %Completed   Block-size   Compressed-size   Ratio
+========== ============ ============ ================= ===========
+1              100        2520         682              1:3.70
+========== ============ ============ ================= ===========
+Total:         100        2520         682              1:3.70
+
+FCOPY-S-FILE_COPIED, file '/home/dmc/FASTCOPY/FC_TO_DMC/Q0-Q6_CAFs_KSOP744/11026_sethomps_caf_ksop744/kplr2011026120800_Q0_caf.txt' FASTCopied to file 'keplerops.stsci.edu:/tmp/DAAw7aOkF' ( 2520          Bytes )
+
+Transfer started at : Thu Jan 27 08:13:00 2011
+Transfer ended at : Thu Jan 27 08:13:00 2011
+FCOPY-I-RENAME, temporary output file '/tmp/DAAw7aOkF' renamed to '/info/keplerops/aux/soc/cat/kplr2011026120800_Q0_caf.txt'
+
+Source  File name : /home/dmc/FASTCOPY/FC_TO_DMC/Q0-Q6_CAFs_KSOP744/11026_sethomps_caf_ksop744/kplr2011026120900_Q5_caf.txt 
+Target File name : keplerops.stsci.edu:/info/keplerops/aux/soc/cat/kplr2011026120900_Q5_caf.txt 
+Temporary output file : /tmp/EAAx7aOkF 
+Transfer started at : Thu Jan 27 08:13:01 2011
+
+File size : 8073 bytes
+
+Position    %Completed   Block-size   Compressed-size   Ratio
+========== ============ ============ ================= ===========
+1              100        8073         1800             1:4.49
+========== ============ ============ ================= ===========
+Total:         100        8073         1800             1:4.49
+
+FCOPY-S-FILE_COPIED, file '/home/dmc/FASTCOPY/FC_TO_DMC/Q0-Q6_CAFs_KSOP744/11026_sethomps_caf_ksop744/kplr2011026120900_Q5_caf.txt' FASTCopied to file 'keplerops.stsci.edu:/tmp/EAAx7aOkF' ( 8073          Bytes )
+
+Transfer started at : Thu Jan 27 08:13:01 2011
+Transfer ended at : Thu Jan 27 08:13:01 2011
+FCOPY-I-RENAME, temporary output file '/tmp/EAAx7aOkF' renamed to '/info/keplerops/aux/soc/cat/kplr2011026120900_Q5_caf.txt'
+
+Source  File name : /home/dmc/FASTCOPY/FC_TO_DMC/Q0-Q6_CAFs_KSOP744/11026_sethomps_caf_ksop744/kplr2011026121200_Q6_caf.txt 
+Target File name : keplerops.stsci.edu:/info/keplerops/aux/soc/cat/kplr2011026121200_Q6_caf.txt 
+Temporary output file : /tmp/FAAy7aOkF 
+Transfer started at : Thu Jan 27 08:13:02 2011
+
+File size : 8088 bytes
+
+Position    %Completed   Block-size   Compressed-size   Ratio
+========== ============ ============ ================= ===========
+1              100        8088         1878             1:4.31
+========== ============ ============ ================= ===========
+Total:         100        8088         1878             1:4.31
+
+FCOPY-S-FILE_COPIED, file '/home/dmc/FASTCOPY/FC_TO_DMC/Q0-Q6_CAFs_KSOP744/11026_sethomps_caf_ksop744/kplr2011026121200_Q6_caf.txt' FASTCopied to file 'keplerops.stsci.edu:/tmp/FAAy7aOkF' ( 8088          Bytes )
+
+Transfer started at : Thu Jan 27 08:13:02 2011
+Transfer ended at : Thu Jan 27 08:13:02 2011
+FCOPY-I-RENAME, temporary output file '/tmp/FAAy7aOkF' renamed to '/info/keplerops/aux/soc/cat/kplr2011026121200_Q6_caf.txt'
+
+Source  File name : /home/dmc/FASTCOPY/FC_TO_DMC/Q0-Q6_CAFs_KSOP744/11026_sethomps_caf_ksop744/kplr2011026134200_Q1_caf.txt 
+Target File name : keplerops.stsci.edu:/info/keplerops/aux/soc/cat/kplr2011026134200_Q1_caf.txt 
+Temporary output file : /tmp/GAAz7aOkF 
+Transfer started at : Thu Jan 27 08:13:03 2011
+
+File size : 3120 bytes
+
+Position    %Completed   Block-size   Compressed-size   Ratio
+========== ============ ============ ================= ===========
+1              100        3120         844              1:3.70
+========== ============ ============ ================= ===========
+Total:         100        3120         844              1:3.70
+
+FCOPY-S-FILE_COPIED, file '/home/dmc/FASTCOPY/FC_TO_DMC/Q0-Q6_CAFs_KSOP744/11026_sethomps_caf_ksop744/kplr2011026134200_Q1_caf.txt' FASTCopied to file 'keplerops.stsci.edu:/tmp/GAAz7aOkF' ( 3120          Bytes )
+
+Transfer started at : Thu Jan 27 08:13:03 2011
+Transfer ended at : Thu Jan 27 08:13:03 2011
+FCOPY-I-RENAME, temporary output file '/tmp/GAAz7aOkF' renamed to '/info/keplerops/aux/soc/cat/kplr2011026134200_Q1_caf.txt'
+
+FASTCopy termination statistics report: 
+
+FCOPY-I-FILESUMM - 7 file(s) were processed by FASTCopy
+	7 file(s) have been transferred.
+	0 file(s) were filtered by modification dates.
+	0 file(s) failed.
+
+FASTCopy originally started at : Thu Jan 27 08:12:47 2011
+FASTCopy ended at              : Thu Jan 27 08:13:03 2011
+
+FCOPY-S-FINISHED, FASTCopy operation successfully finished
+

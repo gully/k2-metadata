@@ -1,0 +1,46 @@
+
+####### FASTCopy started at Tue Jun 21 14:11:40 2011 ( pid = 6571 ) #######
+
+fcopy "kplr2011165171500_Q8_caf.txt" "keplerops.stsci.edu:/info/keplerops/aux/soc/cat/" -temp_dir="/tmp" -compression="normal" -log_file="fastcopy-q8-caf-to-dmc-log-110621.txt" -log_format="full" 
+
+
+FCOPY-I-CPYRGHT, FASTCopy V2.6.3 Copyright (c) 2004 by SoftLink Ltd.
+
+       **********      FASTCopy  Statistics      **********
+
+FCOPY-I-BANNER ,  Licensed to NASA AMES Research Center
+
+FCOPY-I-SUBBANNER ,  FASTCopy for Single processor, Linux server
+
+
+Source  File name : /home/dmc/FASTCOPY/FC_TO_DMC/Q8_CAF_KSOP907_v2/kplr2011165171500_Q8_caf.txt 
+Target File name : keplerops.stsci.edu:/info/keplerops/aux/soc/cat/kplr2011165171500_Q8_caf.txt 
+Temporary output file : /tmp/AAASBaiLb 
+Transfer started at : Tue Jun 21 14:11:48 2011
+
+File size : 8290 bytes
+
+Position    %Completed   Block-size   Compressed-size   Ratio
+========== ============ ============ ================= ===========
+1              100        8290         2004             1:4.14
+========== ============ ============ ================= ===========
+Total:         100        8290         2004             1:4.14
+
+FCOPY-S-FILE_COPIED, file '/home/dmc/FASTCOPY/FC_TO_DMC/Q8_CAF_KSOP907_v2/kplr2011165171500_Q8_caf.txt' FASTCopied to file 'keplerops.stsci.edu:/tmp/AAASBaiLb' ( 8290          Bytes )
+
+Transfer started at : Tue Jun 21 14:11:48 2011
+Transfer ended at : Tue Jun 21 14:11:48 2011
+FCOPY-I-RENAME, temporary output file '/tmp/AAASBaiLb' renamed to '/info/keplerops/aux/soc/cat/kplr2011165171500_Q8_caf.txt'
+
+FASTCopy termination statistics report: 
+
+FCOPY-I-FILESUMM - 1 file(s) were processed by FASTCopy
+	1 file has been transferred.
+	0 file(s) were filtered by modification dates.
+	0 file(s) failed.
+
+FASTCopy originally started at : Tue Jun 21 14:11:40 2011
+FASTCopy ended at              : Tue Jun 21 14:11:49 2011
+
+FCOPY-S-FINISHED, FASTCopy operation successfully finished
+
