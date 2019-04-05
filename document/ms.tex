@@ -1,0 +1,127 @@
+%\documentclass[iop,revtex4]{emulateapj}% change onecolumn to iop for fancy, iop to twocolumn for manuscript
+\documentclass[twocolumn]{emulateapj}% change onecolumn to iop for fancy, iop to onecolumn for manuscript
+%\documentclass[12pt,preprint]{aastex}
+
+\usepackage{graphicx}
+\usepackage[caption=false]{subfig}
+%\usepackage{lineno}
+%\usepackage{blindtext}
+%\linenumbers
+%\usepackage{breqn}
+\usepackage{amsmath}
+\usepackage{booktabs}
+
+\let\pwiflocal=\iffalse \let\pwifjournal=\iffalse
+%From: http://arxiv.org/format/1512.00483
+%\input{setup}
+\input{mgs_setup}
+
+\providecommand{\eprint}[1]{\href{http://arxiv.org/abs/#1}{#1}}
+\providecommand{\adsurl}[1]{\href{#1}{ADS}}
+\newcommand{\project}[1]{\textsl{#1}}
+
+\slugcomment{In preparation}
+
+\shorttitle{K2 targets and performance}
+
+\shortauthors{TBD}
+
+\bibliographystyle{yahapj}
+
+\begin{document}
+
+\title{K2 mission target census and delivered performance}
+
+\author{TBD,\altaffilmark{1}, author list TBD}
+
+\altaffiltext{1}{TBD}
+
+\begin{abstract}
+
+The K2 mission operated a high precision photometric time series survey of the ecliptic plane with the Kepler spacecraft from 2014$-$2018.  The mission carried out 20 campaigns of up to 80 days, targeting distinct fields with some campaigns overlapping spatially.  Here we summarize the targets observed in K2, their data quality, photometric performance, and pixel-level trends.
+
+\end{abstract}
+
+\keywords{stars: fundamental parameters ---  stars: statistics}
+
+\maketitle
+
+\section{Introduction}\label{sec:intro}
+
+The \emph{Kepler} spacecraft was repurposed for the \emph{K2} mission \citep{howell14} after the degradation of precision pointing stability due to spacecraft anomalies.
+
+K2 coincided with a phase shift in software reuse, and spawned open source toolkits like \texttt{lightkurve} \citep{geert_barentsen_2019_2565212}.
+
+K2 Image motion was largely mitigated by a few different approaches to detrending image artifacts, such as the Self Flat Field algorithm \citep{vanderburg14}.
+
+\section{Data}
+\subsection{Comparison to ground-based photometric monitoring}
+The All-Sky Automated Survey for Supernovae \citep[ASAS-SN][]{shappee14} and its affiliated Sky Portal \citep{2017PASP..129j4502K} offer hundreds of epochs of $V-$ band photometry spanning 2013-2018 and a comparable number of epochs of $g-$band photometry spanning mid-2017$-$2018.  The $\sim8''$ ASAS-SN pixels cover about 4 times more area than a single K2 pixel.
+
+\subsection{Gaia data}
+\emph{Gaia} DR2 astrometry \citep{2016A&A...595A...1G, 2018A&A...616A...1G} provides a census of nearly all sources observed in K2.  The Gaia bandpass is comparable to that of Kepler.
+
+\section{K2 Custom Apertures}
+K2 assigned 173,302 unique custom aperture IDs.  Table \textbf{XX} shows the number of custom apertures by campaign.
+
+\input{tables/customIDs_by_campaign.tex}
+
+\section{Conclusions}
+
+Reiteration here.
+
+\clearpage
+\pagebreak
+
+
+%\appendix
+
+%\section{Are starspots confusing?}
+%\label{methods-details}
+%Placeholder
+
+\acknowledgements
+
+%ADS
+This research has made use of NASA's Astrophysics Data System.
+
+%Kepler
+This paper includes data collected by the Kepler mission. Funding for the Kepler mission is provided by the NASA Science Mission directorate.
+
+% MAST
+Some/all of the data presented in this paper were obtained from the Mikulski Archive for Space Telescopes (MAST). STScI is operated by the Association of Universities for Research in Astronomy, Inc., under NASA contract NAS5-26555.
+
+%gaia
+This work has made use of data from the European Space Agency (ESA) mission
+{\it Gaia} (\url{https://www.cosmos.esa.int/gaia}), processed by the {\it Gaia}
+Data Processing and Analysis Consortium (DPAC,
+\url{https://www.cosmos.esa.int/web/gaia/dpac/consortium}). Funding for the DPAC
+has been provided by national institutions, in particular the institutions
+participating in the {\it Gaia} Multilateral Agreement.
+
+
+{\it Facilities:} \facility{Gaia}
+
+{\it Software: }
+ \project{pandas} \citep{mckinney10},
+ \project{matplotlib} \citep{hunter07},
+ \project{numpy} \citep{vanderwalt11},
+ \project{scipy} \citep{jones01},
+ \project{ipython} \citep{perez07},
+ \project{seaborn} \citep{waskom14}
+%\software{%
+% \project{pandas} \citep{mckinney10}
+%    \project{emcee} \citep{foreman13},
+% \project{matplotlib} \citep{hunter07},
+% \project{numpy} \citep{vanderwalt11},
+% \project{scipy} \citep{jones01},
+% \project{ipython} \citep{perez07},
+% \project{gatspy} \citep{JakeVanderplas2015},
+% \project{starfish} \citep{czekala15}}.
+
+\clearpage
+
+\bibliographystyle{apj}
+\bibliography{ms}
+
+\end{document}
